@@ -1,0 +1,15 @@
+{
+  "name": "Fixes",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are the errors, oversights, or other issues the modpack fixes."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Regions Unexplored leaves not being compostable."
+    }
+  ]
+}

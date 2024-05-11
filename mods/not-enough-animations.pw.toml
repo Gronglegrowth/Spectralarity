@@ -1,0 +1,13 @@
+filename = 'notenoughanimations-fabric-1.7.1-mc1.19.2.jar'
+name = 'NotEnoughAnimations'
+side = 'both'
+
+[download]
+hash = '478d5dec3a1f9ea6c09d33bf4dc3cd608996dbd461d8946ecdfbb5200a82600548a7b653c0847e28fb1a0196a029c9a14fe99104c54af313037c104c5f574e03'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MPCX6s5C/versions/dZvCG7i6/notenoughanimations-fabric-1.7.1-mc1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'MPCX6s5C'
+version = 'dZvCG7i6'

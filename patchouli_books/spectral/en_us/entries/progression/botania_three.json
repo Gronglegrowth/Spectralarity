@@ -1,0 +1,20 @@
+{
+    "name": "Painting Terrasteel Pink",
+    "category": "patchouli:progression",
+    "icon": "botania:elementium_ingot",
+    "turnin": "spectralarity:paint_terrasteel_pink",
+    "advancement": "botania:main/terrasteel_pickup",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  A portal to the elven realm, which requires elven materials as a focus. But how to obtain such a thing?"
+        },
+        {
+            "type": "patchouli:text",
+            "advancement": "spectralarity:paint_terrasteel_pink",
+            "title": "Elementium",
+            "text": "  Painting Terrasteel with lots of Pigment actually worked, albeit imperfectly. Maybe this is an idea worth revisiting later."
+        }
+    ]
+}

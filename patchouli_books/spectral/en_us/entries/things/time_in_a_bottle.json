@@ -1,0 +1,22 @@
+{
+    "name": "Time in a Bottle",
+    "category": "patchouli:things",
+    "icon": "timeinabottle:time_in_a_bottle",
+    "advancement": "spectrum:lategame/grow_malachite_in_crystallarieum",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Even now, with several dimensions' worth of knowledge and resources at your disposal, you've never been free of having to wait. Smelting ore, growing crystals, and countless other tasks are always accompanied by waiting for them to finish. And eventually, you run out of things to do in the interim."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "  After some experimentation with magenta energy, you've made this bottle. It, infused with a great deal of TIME, is able to produce its own reserve of it, which can later be spent to speed up other constructs, albeit temporarily.$(br2)  Maybe someday you will devise a method to do this without your presence required... something to tinker with."
+        },
+        {
+            "type": "spectrum:pedestal_crafting",
+            "recipe": "timeinabottle:time_in_a_bottle",
+            "title": "Pedestal Recipe"
+        }
+    ]
+}
+

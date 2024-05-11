@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "minecraft:brick",
+	"pattern": [
+		" B ",
+		"BCB",
+		" B "
+	],
+	"key": {
+		"B": { "item": "minecraft:brick" },
+		"C": { "item": "minecraft:copper_ingot" }
+	},
+	"result": {
+		"item": "exco:platter_low"
+	}
+}

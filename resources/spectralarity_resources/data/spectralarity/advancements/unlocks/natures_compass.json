@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "collected_cyan_pigment": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:hidden/collect_pigments/collect_cyan_pigment"
+      }
+    }
+  }
+}

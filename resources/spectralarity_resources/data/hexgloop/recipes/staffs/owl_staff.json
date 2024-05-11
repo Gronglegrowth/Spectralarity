@@ -1,0 +1,34 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 200,
+  "tier": "simple",
+  "cyan": 0,
+  "magenta": 16,
+  "yellow": 4,
+  "white": 0,
+  "black": 0,
+  "experience": 3.0,
+    "pattern": [
+        " FM",
+        " WF",
+        "S  "
+    ],
+    "key": {
+        "M":{
+            "item": "hexgloop:mept_log"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        },
+        "W": {
+            "tag": "minecraft:planks"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "hexgloop:owl_staff"
+    },
+  "required_advancement": "spectrum:hidden/collect_pigment/collect_magenta_pigment"
+}

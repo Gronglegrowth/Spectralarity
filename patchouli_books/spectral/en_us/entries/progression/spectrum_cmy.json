@@ -1,0 +1,20 @@
+{
+    "name": "Pure Colors",
+    "category": "patchouli:progression",
+    "icon": "spectrum:cyan_pigment",
+    "turnin": "spectrum:collect_pigment",
+    "advancement": "botania:main/flower_pickup",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  That gemstone table of yours is able to be improved, with all three shards and a pinch of that blue powder your flowers have granted you. But to what end?"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Pigment",
+            "advancement": "spectrum:collect_pigment",
+            "text": "  This is color in its purest form. Such a resource will be invaluable, you're sure of that."
+        }
+    ]
+}

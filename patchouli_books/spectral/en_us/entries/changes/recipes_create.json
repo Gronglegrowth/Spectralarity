@@ -1,0 +1,19 @@
+{
+  "name": "Recipes - Create",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are all of the recipe changes pertaining to Create."
+    },
+    {
+      "type": "text",
+      "text": "$(li)All Machinery is crafted in the Pigment Pedestal; more recipes gradually unlock as you work with more machinery.$(li)Added Pyrite Chunk and Bone Ash to Deployer.$(li)Andesite Alloy must be crafted with yttrium.$(li)Sturdy Sheets require 250L of Midnight Solution instead of 500L of Lava.$(li)Precision Mechanisms are crafted in the Fusion Shrine, with added Magenta Pigment and Storm Stone."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Machine recipes that require advanced materials only unlock upon acquiring them."
+    }
+  ]
+}

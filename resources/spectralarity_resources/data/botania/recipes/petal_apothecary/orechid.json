@@ -1,0 +1,85 @@
+{
+  "type": "botania:gog_alternation",
+  "base": {
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "tag": "botania:petals/gray"
+      },
+      {
+        "tag": "botania:petals/gray"
+      },
+      {
+        "tag": "botania:petals/yellow"
+      },
+      {
+        "tag": "botania:petals/cyan"
+      },
+      {
+        "tag": "botania:petals/red"
+      },
+      {
+        "item": "botania:rune_pride"
+      },
+      {
+        "item": "botania:rune_greed"
+      },
+      {
+        "item": "botania:redstone_root"
+      },
+      {
+        "item": "botania:pixie_dust"
+      },
+    {
+      "item": "spectrum:storm_stone"
+    },
+    {
+      "item": "spectrum:cyan_pigment"
+    },
+    {
+      "item": "spectrum:light_blue_pigment"
+    }
+    ],
+    "output": {
+      "item": "botania:orechid"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  },
+  "gog": {
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "tag": "botania:petals/gray"
+      },
+      {
+        "tag": "botania:petals/gray"
+      },
+      {
+        "tag": "botania:petals/yellow"
+      },
+      {
+        "tag": "botania:petals/yellow"
+      },
+      {
+        "tag": "botania:petals/green"
+      },
+      {
+        "tag": "botania:petals/green"
+      },
+      {
+        "tag": "botania:petals/red"
+      },
+      {
+        "tag": "botania:petals/red"
+      }
+    ],
+    "output": {
+      "item": "botania:orechid"
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "minecraft:redstone",
+	"pattern": [
+		"grg",
+		"gCg",
+		"grg"
+	],
+	"key": {
+		"C": { "item": "minecraft:copper_block" },
+		"r": { "item": "minecraft:redstone_block"},
+		"g": { "item": "minecraft:gold_ingot" }
+	},
+	"result": {
+		"item": "exco:processor",
+		"count": 9
+	}
+}

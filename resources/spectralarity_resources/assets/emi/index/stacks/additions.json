@@ -1,0 +1,8 @@
+{
+    "added": [
+        {
+            "stack": "item:minecraft:bundle",
+            "after": "item:minecraft:rabbit_hide"
+        }
+    ]
+}

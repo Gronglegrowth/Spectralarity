@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "exco:controller",
+	"pattern": [
+		"iii",
+		" p ",
+		"iii"
+	],
+	"key": {
+		"p": { "item": "exco:processor"},
+		"i": { "item": "minecraft:iron_ingot" }
+	},
+	"result": {
+		"item": "exco:drive_bay"
+	}
+}

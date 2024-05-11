@@ -1,0 +1,15 @@
+{
+  "name": "Recipes - Spectrum",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are all of the recipe changes pertaining to Spectrum."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Added Mana Powder to CMY Pedestal upgrade.$(li)Added Hex Ash to Onyx Pedestal upgrade.$(li)Added Pixie Dust and Soulwood Planks to Moonstone Pedestal upgrade.$(li)Bedrock Armor requires Liquid Void instead of Midnight Solution.$(li)Bedrock equipment now requires netherite instead of gold."
+    }
+  ]
+}

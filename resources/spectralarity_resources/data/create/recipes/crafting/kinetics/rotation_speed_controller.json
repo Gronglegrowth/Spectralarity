@@ -1,0 +1,27 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 250,
+  "tier": "simple",
+  "magenta": 0,
+  "yellow": 8,
+  "cyan": 0,
+  "black": 0,
+  "white": 0,
+  "experience": 4,
+  "key": {
+    "B": {
+      "item": "create:precision_mechanism"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    }
+  },
+  "pattern": [
+    "B",
+    "C"
+  ],
+  "result": {
+    "item": "create:rotation_speed_controller"
+  },
+  "required_advancement": "create:precision_mechanism"
+}

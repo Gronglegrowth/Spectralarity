@@ -1,0 +1,22 @@
+{
+    "aliases": [
+        {
+            "stacks": [
+                "item:minecraft:bundle",
+                "item:minecraft:shulker_box",
+                "item:scout:satchel",
+                "item:scout:upgraded_satchel",
+                "item:scout:pouch",
+                "item:scout:upgraded_pouch",
+                "item:supplementaries:sack",
+                "item:spectrum:bottomless_bundle",
+                "item:spectrum:bag_of_holding"
+            ],
+            "text": [
+                "alias.spectral.backpack",
+                "alias.spectral.bag",
+                "alias.spectral.portablestorage"
+            ]
+        }
+    ]
+}

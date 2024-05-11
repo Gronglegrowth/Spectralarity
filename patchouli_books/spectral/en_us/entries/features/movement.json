@@ -1,0 +1,15 @@
+{
+    "name": "Movement Tweaks",
+    "category": "patchouli:features",
+    "icon": "spectrum:bottomless_bundle",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  In this world, you are nimbler - you've likely already seen that you can step up full blocks, instead of necessitating having to jump. However, that isn't the only tweak to movement."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "  By pressing [$(k:[Fabrication] Toggle Stance)], you may change your stance between standing, sneaking, and crawling at any time, allowing easier access through small passages, among other uses."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 200,
+  "tier": "simple",
+  "cyan": 0,
+  "magenta": 16,
+  "yellow": 4,
+  "white": 0,
+  "black": 0,
+  "experience": 3.0,
+  "key": {
+    "A": {
+      "item": "spectrum:magenta_pigment"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "pattern": [
+    " SA",
+    " WS",
+    "S  "
+  ],
+  "result": {
+    "item": "hexcasting:acacia_staff"
+  },
+  "required_advancement": "spectrum:hidden/collect_pigment/collect_magenta_pigment"
+}

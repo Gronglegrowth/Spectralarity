@@ -1,0 +1,31 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 250,
+  "tier": "simple",
+  "magenta": 0,
+  "yellow": 8,
+  "cyan": 0,
+  "black": 0,
+  "white": 0,
+  "experience": 4,
+  "key": {
+    "A": {
+      "item": "create:andesite_casing"
+    },
+    "P": {
+      "item": "create:propeller"
+    },
+    "S": {
+      "item": "create:shaft"
+    }
+  },
+  "pattern": [
+    "S",
+    "A",
+    "P"
+  ],
+  "result": {
+    "item": "create:encased_fan"
+  },
+  "required_advancement": "create:mechanical_press"
+}

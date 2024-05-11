@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "exco:processor",
+	"pattern": [
+		"ppp",
+		"PPP",
+		" d "
+	],
+	"key": {
+		"p": { "item": "exco:luminous_pearl" },
+		"P": { "item": "exco:processor"},
+		"d": { "item": "minecraft:diamond" }
+	},
+	"result": {
+		"item": "exco:processor_ender"
+	}
+}

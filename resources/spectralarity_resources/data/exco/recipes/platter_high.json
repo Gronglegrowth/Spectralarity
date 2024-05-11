@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "minecraft:brick",
+	"pattern": [
+		"iOi",
+		"OIO",
+		"iOi"
+	],
+	"key": {
+		"O": { "item": "exco:platter_low" },
+		"i": { "item": "minecraft:iron_ingot" },
+		"I": { "item": "minecraft:iron_block" }
+	},
+	"result": {
+		"item": "exco:platter_high"
+	}
+}

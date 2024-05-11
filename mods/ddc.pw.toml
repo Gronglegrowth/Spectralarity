@@ -1,0 +1,13 @@
+filename = 'data-driven-composter-0.1.2+mc.1.18.2.jar'
+name = 'Data Driven Composter'
+side = 'server'
+
+[download]
+hash = '106cc7913dc8fe4455044bfc2112f084046fe96a054e5c6ea361cfe59c25b0ef5ab1908cda3b2d75c8122edad3fab7ba52416279edee6995050db420b4bf5e18'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jsiDlnm9/versions/koCzQTs7/data-driven-composter-0.1.2%2Bmc.1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'jsiDlnm9'
+version = 'koCzQTs7'

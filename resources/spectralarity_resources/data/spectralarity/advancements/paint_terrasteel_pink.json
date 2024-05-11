@@ -1,0 +1,18 @@
+{
+    "parent": "botania:main/terrasteel_pickup",
+    "display": {
+        "icon": { "item": "botania:elementium_ingot" },
+        "title": { "translate": "advancements.spectralarity.paint_terrasteel_pink.title" },
+        "description": { "translate": "advancements.spectralarity.paint_terrasteel_pink.desc" }
+    },
+    "criteria":  {
+        "gotten_previous": {
+            "trigger": "revelationary:advancement_gotten",
+            "conditions": { "advancement_identifier": "botania:main/terrasteel_pickup" }
+        },
+        "elementium_acquired": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": { "items": [{"items": [ "botania:elementium_nugget" ] }] }
+        }
+    }
+}

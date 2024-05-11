@@ -1,0 +1,13 @@
+{
+    "block_states": {
+        "create:zinc_ore": "minecraft:stone",
+        "create:deepslate_zinc_ore": "minecraft:deepslate"
+    },
+    "items": {
+        "create:raw_zinc": "minecraft:gray_dye",
+        "create:zinc_ingot": "minecraft:gray_dye",
+        "create:crushed_raw_zinc": "minecraft:gray_dye",
+        "create:zinc_nugget": "minecraft:gray_dye"
+    },
+    "advancement": "yttr:obtain_yttrium_ingot"
+}

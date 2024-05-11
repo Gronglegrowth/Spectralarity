@@ -1,0 +1,10 @@
+{
+    "replace": "false",
+    "values": [
+        "malum:ceaseless_impetus",
+        "malum:alchemical_impetus",
+        "malum:iron_impetus",
+        "malum:gold_impetus",
+        "malum:copper_impetus"
+    ]
+}

@@ -1,0 +1,14 @@
+name = "Cosmetic Armor"
+filename = "CosmeticArmor-1.19-1.4.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JrIYhb1P/versions/vSPCrVPs/CosmeticArmor-1.19-1.4.2.jar"
+hash-format = "sha512"
+hash = "d9aeeb623c2d7e45e58aacec5fc8ffcc57726345ef72109f66cb318b83a68c16f16fdecb3dae7c06801665a569afee827ec32dd581d174d70316455debd51cec"
+
+[update]
+[update.modrinth]
+mod-id = "JrIYhb1P"
+version = "vSPCrVPs"

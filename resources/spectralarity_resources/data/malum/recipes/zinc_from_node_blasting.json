@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "malum:zinc_node"
+  },
+  "result": {
+    "item": "create:zinc_nugget",
+    "count": 6
+  },
+  "experience": 0.25,
+  "cookingtime": 100
+}

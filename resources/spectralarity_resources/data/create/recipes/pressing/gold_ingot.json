@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:gold_ingots"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:golden_sheet"
+    }
+  ]
+}

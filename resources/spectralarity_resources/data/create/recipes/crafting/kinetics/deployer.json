@@ -1,0 +1,37 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 250,
+  "tier": "simple",
+  "magenta": 0,
+  "yellow": 8,
+  "cyan": 0,
+  "black": 0,
+  "white": 0,
+  "experience": 4,
+  "key": {
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "I": {
+      "item": "create:brass_hand"
+    },
+    "P": {
+      "item": "spectrum:pyrite"
+    },
+    "A": {
+      "item": "spectrum:bone_ash"
+    }
+  },
+  "pattern": [
+    " B ",
+    "PCP",
+    "AIA"
+  ],
+  "result": {
+    "item": "create:deployer"
+  },
+  "required_advancement": "create:mechanical_press"
+}

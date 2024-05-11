@@ -1,0 +1,19 @@
+{
+  "name": "Balance",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are the changes that were made to balance things in Spectralarity."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Removed several items that should be unobtainable from the Continuity Drop gift pool.$(li)Blacklisted Malum Impetuses from the Indestructible enchantment.$(li)Maximum RPM for Create components is now 512.$(li)Added stress impact to Create Rotation Speed Controllers.$(li)Create Mechanical Harvesters harvest partially-grown crops."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Boosted the Bedrock Jetpack's ink capacity."
+    }
+  ]
+}

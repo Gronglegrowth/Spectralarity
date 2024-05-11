@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "collected_moonstone_core": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:lategame/collect_moonstone_core"
+      }
+    },
+    "collected_white_pigment": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:hidden/collect_pigment/collect_white_pigment"
+      }
+    },
+    "contacted_elves": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "botania:main/elf_lexicon_pickup"
+      }
+    }
+  }
+}

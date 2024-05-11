@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OYO",
+    "ZXZ",
+    "XXX"
+  ],
+  "key": {
+    "Z": {
+      "item": "minecraft:gold_ingot"
+    },
+    "Y": {
+      "item": "malum:processed_soulstone"
+    },
+    "X": {
+      "item": "malum:runewood_planks"
+    },
+    "O": {
+      "item": "spectrum:onyx_shard"
+    }
+  },
+  "result": {
+    "item": "malum:spirit_altar"
+  }
+}

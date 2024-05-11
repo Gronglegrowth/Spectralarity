@@ -1,0 +1,23 @@
+{
+  "type": "create:cutting",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "blue_skies"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_bluebright_wood"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "blue_skies:bluebright_planks"
+    }
+  ]
+}

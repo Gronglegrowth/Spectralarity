@@ -1,0 +1,47 @@
+{
+  "type": "spectrum:enchanter",
+  "group": "supplementaries",
+  "time": 300,
+  "required_experience": 100,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "spectrum:light_gray_pigment"
+    },
+    {
+      "item": "spectrum:light_gray_pigment"
+    },
+    {
+      "item": "spectrum:paltaeria_fragments"
+    },
+    {
+      "item": "minecraft:quartz_pillar"
+    },
+    {
+      "item": "spectrum:light_gray_pigment"
+    },
+    {
+      "item": "spectrum:light_gray_pigment"
+    },
+    {
+      "item": "spectrum:paltaeria_fragments"
+    },
+    {
+      "item": "minecraft:quartz_pillar"
+    }
+  ],
+  "result": {
+    "item": "minecraft:enchanted_book",
+    "nbt": {
+      "StoredEnchantments": [
+        {
+          "id": "supplementaries:stasis",
+          "lvl": "1s"
+        }
+      ]
+    }
+  },
+  "required_advancement": "spectrum:unlocks/enchantments/vanilla_treasure"
+}

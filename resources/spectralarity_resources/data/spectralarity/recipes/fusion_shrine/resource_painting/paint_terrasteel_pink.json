@@ -1,0 +1,15 @@
+{
+    "type": "spectrum:fusion_shrine",
+    "required_advancement": "botania:main/terrasteel_pickup",
+    "ingredients": [
+        { "item": "botania:terrasteel_nugget", "count": 3 },
+        { "item": "spectrum:pink_pigment", "count": 16 },
+        { "item": "spectrum:magenta_pigment", "count": 8 }
+    ],
+    "time": 60,
+    "experience": 2.0,
+    "fluid": "minecraft:water",
+    "start_crafting_effect": "single_visual_explosion_on_shrine",
+    "result": { "item": "botania:elementium_nugget", "count": 2 },
+    "disable_yield_upgrades": true
+}

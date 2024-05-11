@@ -1,0 +1,23 @@
+{
+  "type": "spectrum:pedestal_shapeless",
+  "time": 250,
+  "tier": "simple",
+  "magenta": 0,
+  "yellow": 8,
+  "cyan": 0,
+  "black": 0,
+  "white": 0,
+  "experience": 4,
+  "ingredients": [
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "create:fluid_pipe"
+    }
+  ],
+  "result": {
+    "item": "create:mechanical_pump"
+  },
+  "required_advancement": "yttr:obtain_yttrium_ingot"
+}

@@ -1,0 +1,11 @@
+{
+    "block_states": {
+        "malum:soulstone_ore": "minecraft:stone",
+        "malum:deepslate_soulstone_ore": "minecraft:deepslate"
+    },
+    "items": {
+        "malum:raw_soulstone": "minecraft:purple_dye",
+        "malum:processed_soulstone": "minecraft:purple_dye"
+    },
+    "advancement": "spectrum:create_onyx_shard"
+}

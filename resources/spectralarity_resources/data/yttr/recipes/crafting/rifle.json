@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "lib39:discovered_via": "yttr:yttrium_ingot",
+  "pattern": [
+    "DC ",
+    " YR",
+    " SY"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "yttr:centrifuge"
+    },
+    "C": {
+      "item": "spectrum:midnight_aberration"
+    },
+    "Y": {
+      "item": "yttr:yttrium_ingot"
+    },
+    "S": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "yttr:rifle"
+  }
+}

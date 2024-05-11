@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "H": {
+      "item": "create:brass_hand"
+    },
+    "L": {
+      "tag": "c:brass_ingots"
+    },
+    "R": {
+      "item": "create:precision_mechanism"
+    },
+    "S": {
+      "tag": "c:wooden_rods"
+    }
+  },
+  "pattern": [
+    " L ",
+    " R ",
+    "SSS",
+    "SSS",
+    " H "
+  ],
+  "result": {
+    "item": "create:extendo_grip"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:cutting",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "tconstruct"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "tconstruct:stripped_greenheart_wood"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "tconstruct:greenheart_planks"
+    }
+  ]
+}

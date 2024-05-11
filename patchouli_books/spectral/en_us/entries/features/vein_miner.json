@@ -1,0 +1,22 @@
+{
+    "name": "Vein Mining",
+    "category": "patchouli:features",
+    "icon": "spectrum:bedrock_pickaxe",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Vein Mining is of incredible utility, especially with regards to time saving. However, as you have likely gathered by now, it's not available to you right away. Instead, there are special tools, as well as an enchant, that grant you this ability."
+        },
+        {
+            "type": "spectrum:collection",
+            "items": [ "spectrum:glass_crest_workstaff", "botania:terra_pick" ],
+            "title": "Tools",
+            "text": "  The tools displayed above have AoE mining capabilities. Acquisition of them will require extensive progress in their respective mods."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Enchantment",
+            "text": "  The Vein Mining enchantment can be crafted with Spectrum once unlocked. Once enchanted, your tool will be able to vein mine when you hold [$(k:key.veinmining.activate.desc)]."
+        }
+    ]
+}

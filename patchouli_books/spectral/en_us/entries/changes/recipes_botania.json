@@ -1,0 +1,19 @@
+{
+  "name": "Recipes - Botania",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are all of the recipe changes pertaining to Botania."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Added Cyan Pigment, Light Blue Pigment, and Storm Stone to Orechid.$(li)Corporea Spark needs Quitoxic Powder instead of Ender Air.$(li)The Runic Altar must be made in the Spectrum Focus with 2 C and 4 Y, and additionally requires a Lime Pigment.$(li)Elven Portal Core requires 2 Elementium Nuggets and an Onyx Shard instead of 3 Terrasteel Nuggets."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Added a lategame recipe for Gaia Spirits that bypasses the bossfight entirely.$(li)Added a midgame recipe for getting Elementium before opening the elven portal."
+    }
+  ]
+}

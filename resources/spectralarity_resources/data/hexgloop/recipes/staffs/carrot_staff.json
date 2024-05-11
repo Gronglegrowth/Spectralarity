@@ -1,0 +1,28 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 200,
+  "tier": "simple",
+  "cyan": 0,
+  "magenta": 16,
+  "yellow": 4,
+  "white": 0,
+  "black": 0,
+  "experience": 3.0,
+    "pattern": [
+        " RC",
+        " RR",
+        "R  "
+    ],
+    "key": {
+        "C": {
+            "item": "spectrum:magenta_pigment"
+        },
+        "R":{
+            "item": "minecraft:carrot"
+        }
+    },
+    "result": {
+        "item": "hexgloop:carrot_staff"
+    },
+  "required_advancement": "spectrum:hidden/collect_pigment/collect_magenta_pigment"
+}

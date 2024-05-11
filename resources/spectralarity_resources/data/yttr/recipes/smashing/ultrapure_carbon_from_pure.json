@@ -1,0 +1,6 @@
+{
+	"type": "lib39:piston_smashing",
+	"input": { "block": "spectrum:pure_coal_block" },
+	"catalysts": [ { "block": "yttr:yttrium_block" }, { "block": "minecraft:diamond_block" } ],
+	"output": { "item": "yttr:ultrapure_carbon_block" }
+}

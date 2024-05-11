@@ -1,0 +1,23 @@
+{
+  "type": "create:cutting",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "hexcasting"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "hexcasting:stripped_edified_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "hexcasting:edified_planks"
+    }
+  ]
+}

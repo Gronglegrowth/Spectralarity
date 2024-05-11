@@ -1,0 +1,22 @@
+{
+  "type": "create:cutting",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "tconstruct"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "tconstruct:bloodshroom_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "tconstruct:stripped_bloodshroom_log"
+    }
+  ]
+}

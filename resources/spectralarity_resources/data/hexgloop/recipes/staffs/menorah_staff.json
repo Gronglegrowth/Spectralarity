@@ -1,0 +1,34 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 200,
+  "tier": "simple",
+  "cyan": 0,
+  "magenta": 16,
+  "yellow": 4,
+  "white": 0,
+  "black": 0,
+  "experience": 3.0,
+    "pattern": [
+        " HC",
+        " GH",
+        "I  "
+    ],
+    "key": {
+        "C": {
+            "item": "spectrum:magenta_pigment"
+        },
+        "G":{
+            "item": "minecraft:gold_block"
+        },
+        "I": {
+            "item": "minecraft:gold_ingot"
+        },
+        "H":{
+            "tag": "minecraft:candles"
+        }
+    },
+    "result": {
+        "item": "hexgloop:menorah_staff"
+    },
+  "required_advancement": "spectrum:hidden/collect_pigment/collect_magenta_pigment"
+}

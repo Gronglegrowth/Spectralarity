@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "minecraft:copper_ingot",
+	"pattern": [
+		"ici",
+		"igi",
+		"iCi"
+	],
+	"key": {
+		"i": { "item": "minecraft:iron_ingot" },
+		"g": { "item": "minecraft:glass_bottle" },
+		"c": { "item": "minecraft:copper_block" },
+		"C": { "item": "minecraft:compass" }
+	},
+	"result": {
+		"item": "exco:geiger_counter"
+	}
+}

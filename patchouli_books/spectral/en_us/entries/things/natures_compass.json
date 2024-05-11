@@ -1,0 +1,17 @@
+{
+    "name": "Nature's Compass",
+    "category": "patchouli:things",
+    "icon": "naturescompass:naturescompass",
+    "advancement": "spectralarity:unlocks/natures_compass",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Exploration leads to discovery of valuable resources and loot, but you do not always have the time nor the energy to spend searching for a given biome in particular. Cyan energy, being associated with matter, proves able to infuse a compass with the ability to search for whatever biome you please."
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturescompass:natures_compass",
+            "title": "Crafting Recipe"
+        }
+    ]
+}

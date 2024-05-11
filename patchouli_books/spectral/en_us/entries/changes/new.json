@@ -1,0 +1,15 @@
+{
+  "name": "New Content",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are the new features Spectralarity implements."
+    },
+    {
+      "type": "text",
+      "text": "$(li)What mysteries does the future hold?"
+    }
+  ]
+}

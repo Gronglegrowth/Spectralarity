@@ -1,0 +1,23 @@
+{
+  "type": "create:cutting",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "quark"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "quark:stripped_blossom_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "quark:blossom_planks"
+    }
+  ]
+}

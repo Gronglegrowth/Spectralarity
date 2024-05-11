@@ -1,0 +1,22 @@
+{
+  "type": "create:splashing",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "immersiveengineering"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_nickel"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "immersiveengineering:nugget_nickel"
+    }
+  ]
+}

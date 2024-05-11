@@ -1,0 +1,49 @@
+{
+  "__comment1": "ID of the code-registered `Feature` we're placing",
+  "type": "minecraft:random_patch",
+  "__comment2": "The config that Feature expects",
+  "config": {
+    "__comment1": "type of containing object: RandomPatchConfig",
+    "tries": 0,
+    "xz_spread": 16,
+    "y_spread": 4,
+
+    "feature": {
+      "__comment": "type of containing object: PlacedFeature",
+
+      "feature": {
+        "__comment": "type of containing object: ConfiguredFeature",
+        "type": "minecraft:simple_block",
+        "config": {
+          "__comment": "type of containing object: SimpleBlockConfiguration",
+          "to_place": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "data": {
+                  "Name": "minecraft:brown_mushroom"
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:red_mushroom"
+                },
+                "weight": 1
+              }
+            ]
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:air"
+          }
+        }
+      ]
+    }
+  }
+}

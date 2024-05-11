@@ -1,0 +1,24 @@
+{
+  "type": "spectrum:pedestal_shapeless",
+  "time": 100,
+  "tier": "basic",
+  "cyan": 0,
+  "magenta": 0,
+  "yellow": 6,
+  "white": 0,
+  "black": 0,
+  "experience": 4.0,
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "spectrum:yellow_pigment"
+    }
+  ],
+  "result": {
+    "item": "exco:luminous_pearl",
+    "count": 6
+  },
+  "required_advancement": "spectrum:hidden/collect_pigment/collect_yellow_pigment"
+}

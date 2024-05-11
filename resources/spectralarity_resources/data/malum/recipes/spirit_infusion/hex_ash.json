@@ -1,0 +1,17 @@
+{
+  "type": "malum:spirit_infusion",
+  "input": {
+    "item": "botania:mana_powder",
+    "count": 1
+  },
+  "output": {
+    "item": "malum:hex_ash",
+    "count": 1
+  },
+  "extra_items": [],
+  "spirits": [
+    {
+      "type": "arcane"
+    }
+  ]
+}

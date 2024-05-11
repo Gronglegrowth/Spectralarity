@@ -1,0 +1,30 @@
+{
+  "type": "create:milling",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:not",
+      "value": {
+        "condition": "fabric:all_mods_loaded",
+        "values": [
+          "quark"
+        ]
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:green_dye"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:green_dye"
+    }
+  ]
+}

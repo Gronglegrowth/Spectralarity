@@ -1,0 +1,26 @@
+{
+    "name": "Astral Aesthetics",
+    "category": "patchouli:features",
+    "icon": "astronomical:astral_container",
+    "secret": "true",
+    "advancement": "spectralarity:unlocks/marshmallows",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  You woke from a dream in which you roasted specially prepared marshmallows over a campfire, then, after eating one, looked up at the night sky through a spyglass and watched a distant sun explode. Travelng "
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Crafting Recipe",
+            "recipe": "",
+            "recipe2": "",
+            "text": "  Be careful not to burn them!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Titration Barrel Recipe",
+            "recipe": "",
+            "text": "  Of course, using Stardust turns out to be more efficient."
+        }
+    ]
+}

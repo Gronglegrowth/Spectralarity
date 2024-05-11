@@ -1,0 +1,13 @@
+{
+    "name": "Resource Painting",
+    "category": "patchouli:things",
+    "icon": "spectrum:paintbrush",
+    "advancement": "spectralarity:milestones/resource_painting",
+    "secret": true,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  paint iron into other mundane metals"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "exco:controller",
+	"pattern": [
+		"iii",
+		"gpg",
+		"iii"
+	],
+	"key": {
+		"p": { "item": "exco:processor"},
+		"i": { "item": "minecraft:iron_ingot" },
+		"g": { "item": "minecraft:gold_nugget" }
+	},
+	"result": {
+		"item": "exco:memory_bay"
+	}
+}

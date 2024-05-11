@@ -1,0 +1,14 @@
+name = "Boat with Everything"
+filename = "boat-with-everything-1.1.0+modfest-duct-tape.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/CKNh3Z7J/versions/GOBo8LN0/boat-with-everything-1.1.0%2Bmodfest-duct-tape.jar"
+hash-format = "sha512"
+hash = "6208f457cd5ac068d257e3c1f07aa6a0149f7180e274760d55c31e3b540cb9d840d11aa3d11104c5cbe8265495d61c056bd8daf2d82413cc5e8d72ff44b55a1b"
+
+[update]
+[update.modrinth]
+mod-id = "CKNh3Z7J"
+version = "GOBo8LN0"

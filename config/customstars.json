@@ -1,0 +1,48 @@
+{
+  "baseSize": 0.15,
+  "maxSizeMultiplier": 0.1,
+  "starCount": 10000,
+  "starNoise": true,
+  "starNoiseSeed": 10842,
+  "starNoiseThreshold": 1.5,
+  "starNoisePercentage": 30,
+  "starBrightness": 1.0,
+  "starColorType": "CUSTOM",
+  "starColorSingle": {
+    "red": 255,
+    "green": 255,
+    "blue": 255,
+    "alpha": 1.0
+  },
+  "starColorCustom": [
+    {
+      "red": 220,
+      "green": 220,
+      "blue": 255,
+      "alpha": 1.0
+    },
+    {
+      "red": 180,
+      "green": 180,
+      "blue": 255,
+      "alpha": 1.0
+    },
+    {
+      "red": 240,
+      "green": 220,
+      "blue": 190,
+      "alpha": 1.0
+    }
+  ],
+  "moonDeadzone": true,
+  "moonDeadzoneShape": "SQUARE",
+  "moonDeadzoneSize": 6.0,
+  "skyRed": 20,
+  "skyGreen": 5,
+  "skyBlue": 20,
+  "endSize": 1.0,
+  "endRed": 40,
+  "endGreen": 40,
+  "endBlue": 40,
+  "endAlpha": 1.0
+}

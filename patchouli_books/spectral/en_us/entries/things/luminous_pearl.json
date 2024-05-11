@@ -1,0 +1,26 @@
+{
+    "name": "Luminous Pearls",
+    "category": "patchouli:things",
+    "icon": "exco:luminous_pearl",
+    "advancement": "spectrum:collect_shimmerstone",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Curiously, shards of an ender pearl can be fused with energy to create a set of luminous pearls. These things radiate pure light, and unsurprisingly prove excellent in... unconventional manipulation of it, which has already made you think of how best to put them to use."
+        },
+        {
+            "type": "spectrum:pedestal_crafting",
+            "recipe": "exco:luminous_pearl",
+            "title": "Pedestal Recipe",
+            "text": "  You have a feeling Shimmerstone isn't quite the best for this process..."
+        },
+        {
+            "type": "spectrum:pedestal_crafting",
+            "advancement": "spectrum:hidden/collect_pigment/collect_yellow_pigment",
+            "recipe": "exco:luminous_pearl_boosted",
+            "title": "Pedestal Recipe",
+            "text": "  ...but pure ENERGY, on the other hand, is."
+        }
+    ]
+}
+

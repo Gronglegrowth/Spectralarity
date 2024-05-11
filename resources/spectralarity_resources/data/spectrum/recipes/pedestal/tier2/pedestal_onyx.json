@@ -1,0 +1,25 @@
+{
+  "type": "spectrum:pedestal_shapeless",
+  "time": 200,
+  "tier": "simple",
+  "cyan": 0,
+  "magenta": 0,
+  "yellow": 0,
+  "white": 0,
+  "black": 0,
+  "experience": 8.0,
+  "ingredients": [
+    {
+      "item": "spectrum:onyx_shard"
+    },
+    {
+      "item": "malum:hex_ash"
+    }
+  ],
+  "result": {
+    "item": "spectrum:pedestal_onyx",
+    "count": 1
+  },
+  "required_advancement": "spectrum:create_onyx_shard",
+  "disable_yield_upgrades": true
+}

@@ -1,0 +1,31 @@
+{
+  "type": "spectrum:pedestal_shapeless",
+  "time": 200,
+  "tier": "basic",
+  "cyan": 0,
+  "magenta": 0,
+  "yellow": 0,
+  "white": 0,
+  "black": 0,
+  "experience": 4.0,
+  "ingredients": [
+    {
+      "item": "spectrum:topaz_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "spectrum:citrine_shard"
+    },
+    {
+      "item": "botania:mana_powder"
+    }
+  ],
+  "result": {
+    "item": "spectrum:pedestal_all_basic",
+    "count": 1
+  },
+  "required_advancement": "spectrum:unlocks/blocks/cmy_pedestal",
+  "disable_yield_upgrades": true
+}

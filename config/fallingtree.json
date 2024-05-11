@@ -1,0 +1,66 @@
+{
+  "trees": {
+    "allowedLogs": [],
+    "deniedLogs": [],
+    "allowedLeaves": [],
+    "allowedNonDecayLeaves": [
+      "spectrum:white_leaves",
+      "spectrum:orange_leaves",
+      "spectrum:magenta_leaves",
+      "spectrum:light_blue_leaves",
+      "spectrum:yellow_leaves",
+      "spectrum:pink_leaves",
+      "spectrum:gray_leaves",
+      "spectrum:light_gray_leaves",
+      "spectrum:cyan_leaves",
+      "spectrum:purple_leaves",
+      "spectrum:black_leaves",
+      "spectrum:blue_leaves",
+      "spectrum:lime_leaves",
+      "spectrum:brown_leaves",
+      "spectrum:red_leaves",
+      "spectrum:green_leaves"
+    ],
+    "deniedLeaves": [],
+    "breakMode": "INSTANTANEOUS",
+    "detectionMode": "WHOLE_TREE",
+    "maxScanSize": 500,
+    "maxSize": 100,
+    "maxSizeAction": "ABORT",
+    "breakOrder": "FURTHEST_FIRST",
+    "minimumLeavesAroundRequired": 1,
+    "includePersistentLeavesInRequiredCount": true,
+    "treeBreaking": true,
+    "leavesBreaking": true,
+    "leavesBreakingForceRadius": 0,
+    "allowMixedLogs": false,
+    "breakNetherTreeWarts": true,
+    "instantlyBreakWarts": false,
+    "breakMangroveRoots": true,
+    "searchAreaRadius": -1,
+    "allowedAdjacentBlocks": [],
+    "adjacentStopMode": "STOP_ALL"
+  },
+  "tools": {
+    "allowed": [],
+    "denied": [],
+    "preserve": false,
+    "ignoreTools": false,
+    "damageMultiplicand": 1.0,
+    "damageRounding": "ROUND_DOWN",
+    "speedMultiplicand": 0.0,
+    "forceToolUsage": false
+  },
+  "player": {
+    "allowedTags": []
+  },
+  "enchantment": {
+    "registerEnchant": false,
+    "registerSpecificEnchant": false,
+    "hideEnchant": false
+  },
+  "sneakMode": "SNEAK_DISABLE",
+  "breakInCreative": false,
+  "lootInCreative": true,
+  "notificationMode": "ACTION_BAR"
+}

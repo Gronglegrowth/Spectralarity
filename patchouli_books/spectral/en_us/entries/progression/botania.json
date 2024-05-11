@@ -1,0 +1,20 @@
+{
+    "name": "Vibrant Flowers",
+    "category": "patchouli:progression",
+    "icon": "botania:magenta_mystical_flower",
+    "turnin": "botania:main/flower_pickup",
+    "advancement": "spectrum:collect_all_basic_shards",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Hidden ores are one thing, but what are these? A variety of flowers in stunning hues that you don't remember seeing before. Surely they're of importance."
+        },
+        {
+            "type": "patchouli:text",
+            "advancement": "botania:main/flower_pickup",
+            "title": "Mystical Flowers",
+            "text": "  On closer inspection, their vibrantly-colored petals teem with magic, waiting to be used.$(br2)  This strange book that appeared in your hands might provide the knowledge you need to tap into that magic."
+        }
+    ]
+}

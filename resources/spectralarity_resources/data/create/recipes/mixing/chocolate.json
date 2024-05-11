@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "amount": 27000,
+      "fluidTag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "amount": 27000,
+      "fluid": "create:chocolate"
+    }
+  ]
+}

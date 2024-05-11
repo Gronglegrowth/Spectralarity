@@ -1,0 +1,13 @@
+filename = 'Xaeros_Minimap_24.0.3_Fabric_1.19.1.jar'
+name = "Xaero's Minimap"
+side = 'both'
+
+[download]
+hash = 'c68963b91417e50a3396efc86a2a061c5b3158a7a1ca81b1bce63e4f5c60914e535e3cb260358dede8c1490b6185da36e44efcdccdf22f667468c48d02047094'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bokaNcj/versions/TgVPhHX1/Xaeros_Minimap_24.0.3_Fabric_1.19.1.jar'
+
+[update.modrinth]
+mod-id = '1bokaNcj'
+version = 'TgVPhHX1'

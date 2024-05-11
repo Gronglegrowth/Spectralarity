@@ -1,0 +1,16 @@
+{
+    "type": "spectrum:fusion_shrine",
+    "group": "resource_painting",
+    "required_advancement": "spectralarity:milestones/resource_painting",
+    "ingredients": [
+        { "item": "minecraft:iron_ingot" },
+        { "item": "spectrum:yellow_pigment", "count": 16 },
+        { "item": "spectrum:gold_pigment", "count": 8 }
+    ],
+    "time": 60,
+    "experience": 2.0,
+    "fluid": "yttr:void",
+    "start_crafting_effect": "single_visual_explosion_on_shrine",
+    "result": { "item": "minecraft:gold_ingot" },
+    "disable_yield_upgrades": true
+}

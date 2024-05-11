@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "tag": "botania:elementium_nuggets"
+    },
+    "W": {
+      "tag": "botania:livingwood_logs"
+    },
+    "O": {
+      "item": "spectrum:onyx_shard"
+    }
+  },
+  "pattern": [
+    "WEW",
+    "WOW",
+    "WEW"
+  ],
+  "result": {
+    "item": "botania:alfheim_portal"
+  }
+}

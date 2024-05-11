@@ -1,0 +1,28 @@
+{
+  "type": "spectrum:pedestal_shapeless",
+  "time": 200,
+  "tier": "advanced",
+  "cyan": 0,
+  "magenta": 0,
+  "yellow": 0,
+  "white": 0,
+  "black": 0,
+  "experience": 16.0,
+  "ingredients": [
+    {
+      "item": "spectrum:moonstone_shard"
+    },
+    {
+      "item": "botania:pixie_dust"
+    },
+    {
+      "item": "malum:soulwood_planks"
+    }
+  ],
+  "result": {
+    "item": "spectrum:pedestal_moonstone",
+    "count": 1
+  },
+  "required_advancement": "spectrum:lategame/collect_moonstone_shard",
+  "disable_yield_upgrades": true
+}

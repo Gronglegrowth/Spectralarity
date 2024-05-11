@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "exco:memory_bay",
+	"pattern": [
+		"III",
+		"PIP",
+		"ggg"
+	],
+	"key": {
+		"P": { "item": "exco:processor" },
+		"I": { "item": "minecraft:iron_ingot" },
+		"g": { "item": "minecraft:gold_nugget" }
+	},
+	"result": {
+		"item": "exco:memory_2k"
+	}
+}

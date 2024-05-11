@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    "SLS",
+    "LCL",
+    "SLS"
+  ],
+  "key": {
+    "S": {
+      "item": "spectrum:cyan_pigment"
+    },
+    "L":{
+      "tag": "logs"
+	},
+	"C":{
+      "item": "minecraft:compass"
+	}
+  },
+  "result": {
+    "item": "naturescompass:naturescompass"
+  }
+}

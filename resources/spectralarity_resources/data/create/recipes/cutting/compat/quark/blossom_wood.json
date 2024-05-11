@@ -1,0 +1,22 @@
+{
+  "type": "create:cutting",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "quark"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "quark:blossom_wood"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "quark:stripped_blossom_wood"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "minecraft:redstone",
+	"pattern": [
+		"grg",
+		"gCg",
+		"grg"
+	],
+	"key": {
+		"C": { "item": "minecraft:copper_ingot" },
+		"r": { "item": "minecraft:redstone"},
+		"g": { "item": "minecraft:gold_nugget" }
+	},
+	"result": {
+		"item": "exco:processor"
+	}
+}

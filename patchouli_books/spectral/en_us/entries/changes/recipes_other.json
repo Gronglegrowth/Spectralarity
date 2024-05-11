@@ -1,0 +1,19 @@
+{
+  "name": "Recipes - Other",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are all of the recipe changes that aren't for one mod in specific."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Time in a Bottle is now crafted in the Spectrum Complex with the following items:$(li2)2 Citrine Shard$(li2)Onyx Shard$(li2)2 Mana Diamond$(li2)Budding Amethyst$(li2)2 Refined Malachite$(li2)Glass Bottle$(li2)Powders: 4 C, 16 M, 4 K$(li)Nature's Compass needs Cyan Pigment instead of Saplings."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Luminous Pearls are now crafted in the Pigment Pedestal using either Shimmerstone or Yellow Pigment, with the latter doubling the yield."
+    }
+  ]
+}

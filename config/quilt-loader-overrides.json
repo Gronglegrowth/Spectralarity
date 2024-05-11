@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"overrides": [
+		{
+			"path": "<mods>/SpectralDecorations-1.1.0.jar",
+			"depends": {
+				"replace": { "id": "fabricloader", "versions": ">=0.15.9" },
+				"with": { "id": "fabricloader", "versions": ">=0.15.7" }
+			}
+		}
+	]
+}

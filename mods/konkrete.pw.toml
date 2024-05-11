@@ -1,0 +1,13 @@
+filename = 'konkrete_fabric_1.8.0_MC_1.19.1-1.19.2.jar'
+name = 'Konkrete'
+side = 'both'
+
+[download]
+hash = '785609fbc45a210b401e9e6dc9e962bd4449639dc7452544048ca808c9463a5a7a966f43560ac9c953f6224ea21b13c24af0a62774958601b075d3e4ed5bbc0c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/J81TRJWm/versions/2XnMLMOc/konkrete_fabric_1.8.0_MC_1.19.1-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'J81TRJWm'
+version = '2XnMLMOc'

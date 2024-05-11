@@ -1,0 +1,146 @@
+{
+  // toggle to generate runewood trees naturally
+  // default: true
+  "generate_runewood_trees": true,
+
+  // chance for runewood trees to generate in the plains biome (chance value is internal, idk how it works)
+  // does not change existing generated trees
+  // default: 0.02d
+  "runewood_trees_chance_plains": 0.02d,
+
+  // chance for runewood trees to generate in the forest biome (chance value is internal, idk how it works)
+  // does not change existing generated trees
+  // default: 0.01d
+  "runewood_trees_chance_forest": 0.01d,
+
+
+
+  // toggle to generate blazing quartz naturally
+  // default: true
+  "generate_blazing_quartz": true,
+
+  // size of blazing quartz veins (maximum i believe)
+  // does not change existing generated veins
+  // default: 14
+  "blazing_quartz_vein_size": 14,
+
+  // amount of blazing quartz veins to try to generate per chunk
+  // does not change existing generated veins
+  // default: 16
+  "blazing_quartz_vein_amount": 16,
+
+
+
+  // toggle to generate brilliant stone
+  // does not change existing generated veins
+  // default: true
+  "generate_brilliant_stone": true,
+
+  // size of brilliant stone veins (maximum i believe)
+  // does not change existing generated veins
+  // default: 4
+  "brilliant_stone_vein_size": 4,
+
+  // amount of brilliant stone veins to try to generate per chunk
+  // does not change existing generated veins
+  // default: 3
+  "brilliant_stone_vein_amount": 3,
+
+  // minimum y level which brilliant stone starts generating at
+  // does not change existing generated veins
+  // default: -64
+  "brilliant_stone_vein_min_y": -64,
+
+  // maximum y level which brilliant stone starts generating at
+  // does not change existing generated veins
+  // default: 30
+  "brilliant_stone_vein_max_y": 30,
+
+
+
+  // toggle to generate underground soulstone
+  // does not change existing generated veins
+  // default: true
+  "generate_underground_soulstone": true,
+
+  // size of underground soulstone veins (maximum i believe)
+  // does not change existing generated veins
+  // default: 12
+  "underground_soulstone_vein_size": 12,
+
+  // amount of underground soulstone veins to try to generate per chunk
+  // does not change existing generated veins
+  // default: 8
+  "underground_soulstone_vein_amount": 8,
+
+  // minimum y level which underground soulstone starts generating at
+  // does not change existing generated veins
+  // default: -64
+  "underground_soulstone_vein_min_y": -64,
+
+  // maximum y level which underground soulstone starts generating at
+  // does not change existing generated veins
+  // default: 30
+  "underground_soulstone_vein_max_y": 30,
+
+
+
+  // toggle to generate surface soulstone
+  // does not change existing generated veins
+  // default: true
+  "generate_surface_soulstone": true,
+
+  // size of surface soulstone veins (maximum i believe)
+  // does not change existing generated veins
+  // default: 6
+  "surface_soulstone_vein_size": 6,
+
+  // amount of surface soulstone veins to try to generate per chunk
+  // does not change existing generated veins
+  // default: 8
+  "surface_soulstone_vein_amount": 8,
+
+  // minimum y level which surface soulstone starts generating at
+  // does not change existing generated veins
+  // default: 60
+  "surface_soulstone_vein_min_y": 60,
+
+  // maximum y level which surface soulstone starts generating at
+  // does not change existing generated veins
+  // default: 100
+  "surface_soulstone_vein_max_y": 100,
+
+
+
+  // todo
+  // default: true
+  "ultimate_rebound": true,
+
+  // todo
+  // default: false
+  "soulless_spawners": false,
+
+
+
+  // how many ticks it takes to regenerate one piece of soul ward
+  // default: 60
+  "soul_ward_rate": 60,
+
+  // percentage of magic damage absorbed by the soul ward
+  // default: 0.9f
+  "soul_ward_magic": 0.9f,
+
+  // percentage of non-magic damage absorbed by the soul ward
+  // default: 0.3f
+  "soul_ward_physical": 0.3f,
+
+
+
+  // amount of hunger taken when recovering a point of heart of stone (do note that this will only matter if the player has the earthen affinity)
+  // default: 0.2d
+  "heart_of_stone_cost": 0.2d,
+
+  // amount of ticks it takes for one unit of hard of stone to regenerate
+  // default: 40
+  "heart_of_stone_rate": 40
+}

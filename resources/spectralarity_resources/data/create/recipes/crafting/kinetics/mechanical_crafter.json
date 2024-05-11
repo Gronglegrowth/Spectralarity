@@ -1,0 +1,32 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 250,
+  "tier": "simple",
+  "magenta": 0,
+  "yellow": 8,
+  "cyan": 0,
+  "black": 0,
+  "white": 0,
+  "experience": 4,
+  "key": {
+    "B": {
+      "item": "create:electron_tube"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    },
+    "R": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "pattern": [
+    "B",
+    "C",
+    "R"
+  ],
+  "result": {
+    "count": 3,
+    "item": "create:mechanical_crafter"
+  },
+  "required_advancement": "create:mechanical_press"
+}

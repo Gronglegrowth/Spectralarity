@@ -1,0 +1,21 @@
+{
+  "type": "spectrum:cinderhearth",
+  "required_advancement": "spectrum:midgame/build_cinderhearth_structure",
+  "ingredient": {
+    "item": "yttr:raw_gadolinite"
+  },
+  "time": 200,
+  "experience": 1.0,
+  "results": [
+    {
+      "item": "yttr:yttrium_ingot",
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "yttr:yttrium_nugget",
+      "count": 3,
+      "chance": 0.2
+    }
+  ]
+}

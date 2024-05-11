@@ -1,0 +1,7 @@
+{
+    "name": "Spectralarity Guide",
+    "landing_text": "  An overview of progression, mechanics, and an ingame record of changes.",
+    "book_texture": "spectral:textures/gui/book.png",
+    "flip_sound": "minecraft:item/book/open_flip1.ogg",
+    "open_sound": "minecraft:item/book/open_flip3.ogg"
+}

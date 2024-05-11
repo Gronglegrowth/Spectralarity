@@ -1,0 +1,29 @@
+{
+  "parent": "spectralarity:paint_terrasteel_pink",
+  "criteria": {
+    "portal": {
+      "conditions": {},
+      "trigger": "botania:open_elf_portal"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.botania:elfPortalOpen.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "botania:alfheim_portal"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.botania:elfPortalOpen"
+    }
+  },
+  "requirements": [
+    [
+      "portal"
+    ]
+  ]
+}

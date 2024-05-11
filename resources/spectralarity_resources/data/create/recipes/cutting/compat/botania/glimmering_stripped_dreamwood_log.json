@@ -1,0 +1,23 @@
+{
+  "type": "create:cutting",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "botania"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "botania:glimmering_stripped_dreamwood_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "count": 6,
+      "item": "botania:dreamwood_planks"
+    }
+  ]
+}

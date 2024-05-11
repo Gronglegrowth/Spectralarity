@@ -1,0 +1,22 @@
+{
+    "name": "Gaia Spirit Fabrication",
+    "category": "patchouli:things",
+    "icon": "botania:life_essence",
+    "advancement": "spectralarity:unlocks/gaia_spirit",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  You have instructions from that strange green book to summon some apparition that the elves say represents the embodiment of nature, and that you must \"prove yourself\" by slaying it. Supposedly, this will allow you to achieve the pinnacle of the botanical arts. But something about it makes you... hesitate. What if you don't want to fight?"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "  Up til now, you've been quite satisfied with constructing ever-elaborate contraptions with flowers and red math dust, with not a thought in all the worlds about a trial by combat to further your study. This sudden shift in tone feels wrong - you won't do this! You'll find a way to avoid this conflict if it's the last thing you do, the intended path of advancement be damned. And with the knowledge you now have from your findings Deeper Down, you just might have a way...."
+        },
+        {
+            "type": "spectrum:fusion_shrine_crafting",
+            "recipe": "spectralarity:fusion_shrine/gaia_spirit",
+            "title": "Fusion Recipe",
+            "text": "The extreme energy of a moonstone core, tinted with hues of restoration, prosperity, and purity, drawn together with the essence of self-expression..."
+        }
+    ]
+}

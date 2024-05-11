@@ -1,0 +1,24 @@
+{
+  "type": "spectrum:pedestal_shapeless",
+  "time": 50,
+  "tier": "basic",
+  "cyan": 0,
+  "magenta": 0,
+  "yellow": 3,
+  "white": 0,
+  "black": 0,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "spectrum:shimmerstone_gem"
+    }
+  ],
+  "result": {
+    "item": "exco:luminous_pearl",
+    "count": 3
+  },
+  "required_advancement": "spectrum:collect_shimmerstone"
+}

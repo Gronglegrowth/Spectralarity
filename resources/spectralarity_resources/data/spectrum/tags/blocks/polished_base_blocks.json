@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "spectrum:calcite_tiles",
+        "spectrum:basalt_tiles"
+    ]
+}

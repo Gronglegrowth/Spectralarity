@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "spectrum:calcite_tile_slab",
+        "spectrum:basalt_tile_slab"
+    ]
+}

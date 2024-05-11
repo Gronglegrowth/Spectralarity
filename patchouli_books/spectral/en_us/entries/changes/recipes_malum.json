@@ -1,0 +1,15 @@
+{
+  "name": "Recipes - Malum",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are all of the recipe changes pertaining to Malum."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Added two Onyx Shards to Spirit Altar.$(li)Hex Ash needs Mana Powder instead of Gunpowder.$(li)Soul Stained Steel needs Manasteel instead of Iron.$(li)Doubled (Char)coal Fragment recipe.$(li)Added missing Charcoal Fragment conversion recipes."
+    }
+  ]
+}

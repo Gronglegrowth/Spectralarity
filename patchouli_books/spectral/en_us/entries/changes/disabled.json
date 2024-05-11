@@ -1,0 +1,19 @@
+{
+  "name": "Disabled Content",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  These are the things that have been disabled in Spectralarity. If available, it also lists why the thing was disabled, viewable here by hovering over the [?]."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Regions Unexplored biomes:$(li2)Autumnal Maple Forest$(li2)Redwoods $(t:Overlap with Terrestria)[?]$()$(li2)Sparse Redwoods $(t:Overlap with Terrestria)[?]$()"
+    },
+    {
+      "type": "text",
+      "text": "$(li)Botania's tall mystical flowers and shimmering mushrooms do not spawn$(li)Crafting recipes for Botania's shimmering mushrooms $(t:Progression skip)[?]$()$(li)Crushing Wheel recipe for Amethyst Shard into Amethyst Dust $(t:Recipe conflict)[?]$()$(li)Soap recipes for converting magical blocks into their white variants $(t:Nonsenical, and progression skip)[?]"
+    }
+  ]
+}

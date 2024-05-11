@@ -1,0 +1,31 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 250,
+  "tier": "simple",
+  "magenta": 0,
+  "yellow": 4,
+  "cyan": 2,
+  "black": 0,
+  "white": 0,
+  "experience": 4,
+  "pattern": [
+    " L ",
+    "SSS",
+    "SPS"
+  ],
+  "key": {
+    "P": {
+      "item": "botania:mana_pearl"
+    },
+    "S": {
+      "item": "botania:livingrock"
+    },
+    "L": {
+      "item": "spectrum:lime_pigment"
+    }
+  },
+  "result": {
+    "item": "botania:runic_altar"
+  },
+  "required_advancement": "spectrum:hidden/collect_pigment/collect_lime_pigment"
+}

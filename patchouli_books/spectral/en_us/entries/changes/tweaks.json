@@ -1,0 +1,23 @@
+{
+  "name": "Tweaks",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  This is a list of tweaks - here defined as changes from default behavior - that are implemented in Spectralarity."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Botania Orechids can now generate a variety of modded ores.$(li)Certain \"endgame\" Spectrum items are now craftable with Moonstone Cores.$(li)Various modded enchants are craftable with Spectrum Enchanting:$(li2)Capacity (Create)$(li2)Potato Recovery (Create)$(li2)Stasis (Supplementaries)"
+    },
+    {
+      "type": "text",
+      "text": "$(li)Pure Coal Blocks can be compacted into Ultrapure Carbon Blocks.$(li)Zinc Impetus is now functional.$(li)Spectrum's Overenchanting is now unlockable in the endgame.$(li)Botania's mystical flowers cannot be seen until you collect all three gemstone types.$(li)Zinc Ore cannot be seen until you acquire yttrium."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Soulstone Ore cannot be seen until you make onyx.$(li)Allowed Basalt/Calcite Tiles to be a valid base block for Spectrum multis.$(li)Rotten Flesh is compostable.$(li)Added blasting recipe for basalt > smooth basalt.$(li)Regions Unexplored flowers may be anvil crushed for extra dye."
+    }
+  ]
+}

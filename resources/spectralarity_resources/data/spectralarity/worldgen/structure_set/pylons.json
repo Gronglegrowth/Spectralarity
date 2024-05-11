@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "spectralarity:pylon",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 16,
+        "separation": 8,
+        "salt": 10977000
+    }
+}

@@ -1,0 +1,13 @@
+filename = 'double_hotbar-1.19-v1.2.3.jar'
+name = 'Double Hotbar'
+side = 'both'
+
+[download]
+hash = '92bb97497c19a77d72956130a863cb49f073b76b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4034709
+project-id = 554026

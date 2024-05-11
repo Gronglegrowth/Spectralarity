@@ -1,0 +1,21 @@
+{
+    "name": "A Second Layer",
+    "category": "patchouli:progression",
+    "icon": "spectrum:onyx_shard",
+    "turnin": "spectralarity:no",
+    "advancement": "spectralarity:no",
+    "secret": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  You have heard rumors of a second layer to the nether. Might there be something useful up there?"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Liquid Void",
+            "advancement": "spectralarity:no",
+            "text": "  Indeed there was, and the Void you collected is surreal to behold."
+        }
+    ]
+}

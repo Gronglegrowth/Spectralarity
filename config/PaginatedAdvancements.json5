@@ -1,0 +1,21 @@
+{
+	// Fade the background slightly gray when hovering over an advancement
+	"FadeOutBackgroundOnAdvancementHover": true,
+	// List of pinned Tabs (root advancement identifier)
+	"PinnedTabs": [
+		"spectrum:spectrum",
+		"spectrum:midgame/spectrum_midgame",
+		"spectrum:lategame/spectrum_lategame",
+		"spectrum:endgame/spectrum_endgame"
+	],
+	// Save and restore the last selected tab
+	"SaveLastSelectedTab": true,
+	// The identifier of the last opened tab
+	"LastSelectedTab": "yttr:root",
+	// Spacing between horizontal tabs (vanilla default: 4)
+	"SpacingBetweenHorizontalTabs": 4,
+	// Spacing between pinned tabs
+	"SpacingBetweenPinnedTabs": 2,
+	// Show Debug Info on advancement hover (possible values: 'always', 'never', 'debug_tooltips_enabled')
+	"ShowDebugInfo": "DEBUG_TOOLTIPS_ENABLED"
+}

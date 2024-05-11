@@ -1,0 +1,41 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 6000,
+  "tier": "complex",
+  "magenta": 16,
+  "yellow": 4,
+  "cyan": 0,
+  "black": 4,
+  "white": 0,
+  "experience": 4,
+  "pattern": [
+    "COC",
+    "DMD",
+    "LBL"
+  ],
+  "key": {
+    "C": {
+      "item": "spectrum:citrine_shard"
+    },
+    "O": {
+      "item": "spectrum:onyx_shard"
+    },
+    "D": {
+      "item": "botania:mana_diamond"
+    },
+    "M": {
+      "item": "minecraft:budding_amethyst"
+    },
+    "L": {
+      "item": "spectrum:refined_malachite"
+    },
+    "B": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "timeinabottle:time_in_a_bottle",
+    "count": 1
+  },
+  "required_advancement": "spectrum:lategame/grow_malachite_in_crystallarieum"
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "exco:drive_bay",
+	"pattern": [
+		"III",
+		"dOd",
+		"IoI"
+	],
+	"key": {
+		"I": { "item": "minecraft:iron_ingot" },
+		"O": { "item": "exco:luminous_pearl" },
+		"d": { "item": "minecraft:diamond" },
+		"o": { "item": "exco:platter_high" }
+	},
+	"result": {
+		"item": "exco:drive_16m"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"lib39:discovered_via": "exco:controller",
+	"pattern": [
+		"iii",
+		"PPP",
+		"ipi"
+	],
+	"key": {
+		"P": { "item": "exco:luminous_pearl" },
+		"p": { "item": "exco:processor"},
+		"i": { "item": "minecraft:iron_ingot" }
+	},
+	"result": {
+		"item": "exco:terminal"
+	}
+}

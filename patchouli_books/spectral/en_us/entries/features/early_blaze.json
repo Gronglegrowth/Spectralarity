@@ -1,0 +1,11 @@
+{
+    "name": "Blaze Powder?",
+    "category": "patchouli:features",
+    "icon": "minecraft:blaze_powder",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Before opening a portal to the evil realm, consider looking at the Fel Pumpkin. It allows acquisition of blaze powder, at the cost of basic resources you can acquire within your first few days here - assuming you arrived in a favorable spot."
+        }
+    ]
+}

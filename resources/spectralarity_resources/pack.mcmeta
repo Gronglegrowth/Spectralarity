@@ -1,0 +1,26 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "Spectralarity Resources"
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "botania",
+                "path": "recipes/mushroom_*"
+            },
+            {
+                "namespace": "create",
+                "path": "recipes/mixing/andesite_alloy_from_zinc"
+            },
+            {
+                "namespace": "create",
+                "path": "recipes/crafting/materials/andesite_alloy_from_zinc"
+            },
+            {
+                "namespace": "hexcasting",
+                "path": "recipes/compat/create/*"
+            }
+        ]
+    }
+}
