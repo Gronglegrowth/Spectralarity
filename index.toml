@@ -1471,16 +1471,20 @@ file = "patchouli_books/spectral/en_us/entries/things/luminous_pearl.json"
 hash = "33f292cd3ff39c476965c34191c6f244ed3baf3fd55df5a3502548239482aff8"
 
 [[files]]
+file = "patchouli_books/spectral/en_us/entries/things/meteors.json"
+hash = "df1acc64591232db7e4b057fedb1d752f63a8fa3873ba3bfbdc3de87a7aaacf4"
+
+[[files]]
 file = "patchouli_books/spectral/en_us/entries/things/natures_compass.json"
 hash = "fd753942f81507fc012de8641461da172e0b853d62fd1c0efa4373fd34162a7e"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/things/pylons.json"
-hash = "894303d3f804e2b7dfd049d3512b18507e0692b672e9abbfc5c4c551ac049ba2"
+hash = "d47332fa03d8a6cce79c75d1e1a83f5ab07455511f89f32faae0a9e1e006211f"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/things/resource_painting.json"
-hash = "dec423b4198362158416f5e2ea06412d15a5cb829da3c64e00abe2f9a02ed647"
+hash = "757d684d614a9a2eeb09d97ddd61cfa4f9aeda7af64e41ea53792a7621cf2daa"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/things/time_in_a_bottle.json"
