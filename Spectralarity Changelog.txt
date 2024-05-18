@@ -3,7 +3,7 @@ by Eset Kalenko / Gronglegrowth
 homepage: https://modrinth.com/modpack/spectralarity
 
 This file documents all changes that were made for the pack, ordered by category.
-File version: v7c
+File version: v7d
 
 Tweaks:
 - Botania Orechids can now generate a variety of modded ores.
@@ -41,6 +41,7 @@ Disabled Content:
 - Crafting recipes for Botania's shimmering mushrooms (progression skip)
 - Crushing Wheel recipe for Amethyst Shard into Amethyst Dust (recipe conflict)
 - Soap recipes for converting magical blocks into their white variants (nonsenical, and progression skip)
+- Unlimited Accessor
 
 Recipes:
 - Botania:
@@ -59,6 +60,7 @@ Recipes:
   - Machine recipes that require advanced materials only unlock upon acquiring them.
 - Hex Casting:
   - All Staffs need Magenta Pigment instead of Charged Amethyst, and are crafted in a Spectrum Focus with 16 M, 4 Y.
+  - Small Scroll takes amethyst powder instead of shard.
 - Malum:
   - Added two Onyx Shards to Spirit Altar.
   - Hex Ash needs Mana Powder instead of Gunpowder.
@@ -85,6 +87,7 @@ Recipes:
     - Powders: 4 C, 16 M, 4 K
   - Nature's Compass needs Cyan Pigment instead of Saplings.
   - Luminous Pearls are now crafted in the Pigment Pedestal using either Shimmerstone or Yellow Pigment, with the latter doubling the yield.
+  - Accessors are crafted in the Pigment Pedestal with various thematic resources depending on tier.
 
 Fixes:
 - Fixed certain Regions Unexplored leaves not being compostable.

@@ -1,13 +1,13 @@
-filename = 'spectrum-1.7.6-deeper-down.jar'
+filename = '1.7.11-1.19.2.jar'
 name = 'Spectrum'
 side = 'both'
 
 [download]
-hash = '314356f75b60c793219fca8d8c1efe207efbd7315b34fb71f55bd535a77937d96d6857fe327246f99ba2114bd1974e29262f63a191f43d3b13ddb51431e71e8e'
+hash = 'adec4e9502a8c460f8706183d32b4e7f7ae8120980ff60bcc730f55aa3177ee2cc8cb8568192094773916e712b1c408572a9fa3d2d8d3b9b13c213383d3580dc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/3rc31Hgo/versions/1CaI36f7/spectrum-1.7.6-deeper-down.jar'
+url = 'https://cdn.modrinth.com/data/3rc31Hgo/versions/bkeScaQT/1.7.11-1.19.2.jar'
 
 [update.modrinth]
 mod-id = '3rc31Hgo'
-version = '1CaI36f7'
+version = 'bkeScaQT'

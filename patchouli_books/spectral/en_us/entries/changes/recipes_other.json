@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "$(li)Luminous Pearls are now crafted in the Pigment Pedestal using either Shimmerstone or Yellow Pigment, with the latter doubling the yield."
+      "text": "$(li)Luminous Pearls are now crafted in the Pigment Pedestal using either Shimmerstone or Yellow Pigment, with the latter doubling the yield.$(li)Accessors are crafted in the Pigment Pedestal with various thematic resources depending on tier."
     }
   ]
 }

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Spectralarity Changelog.txt"
-hash = "e6239b6f6155f21f9cf1a92f8f93eff8301954a270681c9b4945a0db99f6e253"
+hash = "45c5b5275b369a4a427bbed50bfeaec2c70039765e4cd22e2cd20906f5b81f2c"
 
 [[files]]
 file = "Spectralarity Credits.txt"
@@ -234,7 +234,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/spectralarity_main.txt"
-hash = "7fd76be8819372f106bf5aca7d05186ad75223ee29f995cd4e4977b261b6b535"
+hash = "eca7968b5987389f40e5be6695e71402c919ca844cc1feccc5a5c18d171899b7"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -877,6 +877,11 @@ hash = "6ec3ea681b12585b0f5a530c27ed2a86250a2f9267795578f2c2c3a185b72f7e"
 metafile = true
 
 [[files]]
+file = "mods/calibrated.pw.toml"
+hash = "cb6f6cb44c36ce700408f746e7b016f9b1f5a35cf472ef0ccfa32702b0c94674"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "d22a6a0209503f058000d34fdf1e06038d4dd7f983eee8ec635d56423c37d3a7"
 metafile = true
@@ -1238,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "0dcb00e7c3e6130ebdf321144d700f54de5eedc46cf5576555bb852f093b87e5"
+hash = "6290e149027544aee4cbea3f69901b42fbee1b6921c5595242dd0b4eaf4990a5"
 metafile = true
 
 [[files]]
@@ -1372,7 +1377,7 @@ hash = "590d2d16e93668603a4a4ad379c44e2dfff79053915d3c31c44433778d73b334"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/disabled.json"
-hash = "739d336bb54546ec142725325ccf4bd7d91e952c92bccc59cc3f22a839f7f409"
+hash = "77c667bb34dc3de18ffcc660a5d8cd19fac436d2e90be55dd947bd6e4671212f"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/fixes.json"
@@ -1392,7 +1397,7 @@ hash = "db78063ace3d8119c1ac65598775c3d257902a81280bbd8949aacdbf756e52a5"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/recipes_hex.json"
-hash = "1059cce24de37be2e872d6c55e810b0a6501536ea08ee684f382493ed82c1194"
+hash = "3d54557ac8c11eb56ee7439fc187324612ce4357ad2b7a15cbd34c8fff6a51a3"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/recipes_malum.json"
@@ -1400,7 +1405,7 @@ hash = "39b752e1596b4698899fbc74ea81f6f8624e262809c0f603de4630ad96489d5a"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/recipes_other.json"
-hash = "a49f993f500dd2b6d493b9169db404bcb5a5f43418713e5633918ec8a7c84eea"
+hash = "d2bf888e3741b2f6eeab25c77b0fddb78ad79ddd85699b650c76ab436d636f08"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/recipes_spectrum.json"
@@ -1461,6 +1466,10 @@ hash = "c284cdc997ac70b3ada32d4778d712a5699ccc29705471c0c885391eb3bdba0a"
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/start.json"
 hash = "4b1c1e714808f171506cd531a4fe73c577b7fe70f2c063a906c527c50b401ed3"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/things/accessors.json"
+hash = "bb2a44814f351be38f1a3a319247c2504f99e7b9986332aedfd9094078c39f14"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/things/gaia_spirit.json"
@@ -2688,7 +2697,19 @@ hash = "e6ded79271a4772f3c55ed6f59121177adf6859ab691571d9859669432d34d97"
 
 [[files]]
 file = "resources/spectralarity_resources/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "2fb081b4038360095994b3c4bcc49129571b56f52b3e5fba0123b798a23e2948"
+hash = "5c8bf9689eb3d8ec24811c136058d70a91b2a572a9fd28cb21aa3d71ca8d92cf"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/recipes/expert_accessor.json"
+hash = "dd32551fac4d85cc01227d6c834e095e1a3b644a0887ce9fed67ec3720556ee5"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/recipes/novice_accessor.json"
+hash = "e9f76dc72cc342ff41d84d59d880a39e7719f2af4207b3937e40b13d966ce80d"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/recipes/skilled_accessor.json"
+hash = "fd1fd2941d40377fee2f480e83d39de4cd116eaef558b7926cf75208487d694d"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create/recipes/compacting/andesite_from_flint.json"
@@ -5325,6 +5346,10 @@ hash = "9c46081aac08084661a42010141845f1cd2aed7f109e73adc86533ec41f027d1"
 [[files]]
 file = "resources/spectralarity_resources/data/hexcasting/recipes/oak_staff.json"
 hash = "d42b822c5630ad436f5bb2067986531959e46efe3e8e16ebbb548e9b1913de24"
+
+[[files]]
+file = "resources/spectralarity_resources/data/hexcasting/recipes/scroll_small.json"
+hash = "22194e21f4b15097d5a249cbf4a4ea1ed1d3bd6eed58172e7f95f44bc3bfeef0"
 
 [[files]]
 file = "resources/spectralarity_resources/data/hexcasting/recipes/spruce_staff.json"

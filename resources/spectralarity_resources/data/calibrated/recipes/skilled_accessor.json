@@ -1,0 +1,34 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 200,
+  "tier": "advanced",
+  "cyan": 12,
+  "magenta": 6,
+  "yellow": 0,
+  "white": 0,
+  "black": 2,
+  "experience": 12.0,
+  "key": {
+    "A": {
+      "item": "botania:quartz_mana"
+    },
+    "C": {
+      "item": "yttr:yttrium_ingot"
+    },
+    "X": {
+      "item": "exco:luminous_pearl"
+    },
+    "P": {
+      "item": "spectrum:black_pigment"
+    }
+  },
+  "pattern": [
+    " A ",
+    "CXC",
+    "CPC"
+  ],
+  "result": {
+    "item": "calibrated:skilled_accessor"
+  },
+  "required_advancement": "yttr:obtain_yttrium_ingot"
+}

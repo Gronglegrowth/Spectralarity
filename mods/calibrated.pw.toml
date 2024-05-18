@@ -1,0 +1,13 @@
+filename = 'calibrated-1.2.1-hotfix.1+1.19.jar'
+name = 'Calibrated Access'
+side = 'both'
+
+[download]
+hash = '8454f82505eab2eb401dc62eac2d537dbbe7f2d50b7e2d1981904d81a16538f55e7aeeafad6da559a5a92f0fb1b038e30bb5fccf9cb237bb56c8cf7da252045d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pUSRRdVF/versions/Oj0nE6A5/calibrated-1.2.1-hotfix.1%2B1.19.jar'
+
+[update.modrinth]
+mod-id = 'pUSRRdVF'
+version = 'Oj0nE6A5'

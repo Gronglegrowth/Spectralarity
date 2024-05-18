@@ -13,7 +13,7 @@
     },
     {
       "type": "text",
-      "text": "$(li)Botania's tall mystical flowers and shimmering mushrooms do not spawn$(li)Crafting recipes for Botania's shimmering mushrooms $(t:Progression skip)[?]$()$(li)Crushing Wheel recipe for Amethyst Shard into Amethyst Dust $(t:Recipe conflict)[?]$()$(li)Soap recipes for converting magical blocks into their white variants $(t:Nonsenical, and progression skip)[?]"
+      "text": "$(li)Botania's tall mystical flowers and shimmering mushrooms do not spawn$(li)Crafting recipes for Botania's shimmering mushrooms $(t:Progression skip)[?]$()$(li)Crushing Wheel recipe for Amethyst Shard into Amethyst Dust $(t:Recipe conflict)[?]$()$(li)Soap recipes for converting magical blocks into their white variants $(t:Nonsenical, and progression skip)[?]$(li)Unlimited Accessor"
     }
   ]
 }

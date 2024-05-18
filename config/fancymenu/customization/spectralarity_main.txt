@@ -201,7 +201,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = Spectralarity v7c
+  source = Spectralarity v7d
   text_border = 0
   case_mode = normal
   source_mode = direct

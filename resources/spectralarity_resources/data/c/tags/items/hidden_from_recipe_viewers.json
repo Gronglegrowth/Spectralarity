@@ -15,6 +15,8 @@
         "malum:cracked_silver_impetus",
         "malum:cracked_tin_impetus",
         "malum:cracked_uranium_impetus",
-        "malum:crushed_soulstone"
+        "malum:crushed_soulstone",
+        "calibrated:unlimited_accessor",
+        "calibrated:calibrator"
     ]
 }
