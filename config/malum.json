@@ -114,7 +114,7 @@
 
   // todo
   // default: true
-  "ultimate_rebound": true,
+  "ultimate_rebound": false,
 
   // todo
   // default: false
