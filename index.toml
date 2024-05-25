@@ -470,7 +470,7 @@ hash = "5bd71f305093cbb29765264861921698d18b09d14515843bd4585d4764eefff7"
 
 [[files]]
 file = "config/malum.json"
-hash = "8afe863bc12983bfda0464f27efcc2697187b95a8cda1f50f8d4b203e4673b43"
+hash = "b5480fabcaf5c9bb85530cd6bd872919994fbe8a35e4f39080475424760d29df"
 
 [[files]]
 file = "config/mialeemisc.json"
@@ -587,18 +587,6 @@ hash = "c3a0cbcf8278e4fb6fd5b8629fc2582a3d48d969ebb05fb42b5f4e39165686d2"
 [[files]]
 file = "config/reacharound.json"
 hash = "9240e617374d7c0691c537b940b1c5d417a94c4301908a1d9fbf08506a346ab1"
-
-[[files]]
-file = "config/regions_unexplored/regions_unexplored-common.toml"
-hash = "c1a11728dac5a6e52d346e1a40dbd514bf05234f31bd5179287d5b1e11cba8a4"
-
-[[files]]
-file = "config/regions_unexplored/regions_unexplored-primary-region.toml"
-hash = "4dfd39a2a021fe95e3f94bce60185c3941734687166daf199227cf7a7ad27272"
-
-[[files]]
-file = "config/regions_unexplored/regions_unexplored-secondary-region.toml"
-hash = "43fe574055cb4681e56b7e97098e8588f5456c28232e5ebe483f9988fbecd2c2"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1194,11 +1182,6 @@ metafile = true
 [[files]]
 file = "mods/redirectionor.pw.toml"
 hash = "40f53425cdb1386d0eac2143c19657aeaf493e74be1366d40ff8720413b2bdfd"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "8c6c32f4e6e98217b4d748ac99b2605b21b5f63d6c8e8753a2340308ca6b42e8"
 metafile = true
 
 [[files]]
@@ -5518,98 +5501,6 @@ hash = "50f63c25d5e4dfcf38e0bf5db6cd706816bf0e7db4fcccf080ff41c8cdda56e6"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/loot_tables/grant_guidebook.json"
 hash = "664fccf38b6ac176d9349ecef67d11a2b7d1211418353f2f8d891a9d0e879f65"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/barrel_cactus.json"
-hash = "55d743e6aab08310f3df8e4c5f03cdf6a1178f2ad532e9f921420d5787679a9b"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/blue_bioshroom.json"
-hash = "25df0b87295a86859b1efd9603591ac87d1c434c7bad2ecaba1102507a494039"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/blue_lupine.json"
-hash = "6ec569e3e05663f083fd742b503675f9c0c7f803e8a52e81b8a3142d80fd0a3b"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/cactus_flower.json"
-hash = "266f4ce5ee8bf9cc21efa7c78d540351920c41a2d585d0af5058b838e5324410"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/cave_hyssop.json"
-hash = "ae4311944b359552ab306006520171f9ea274e857b346482f3793af52b38717b"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/daisy.json"
-hash = "badc25f224822708a0fc8c67cd6abda34004e1e7bb20b21568186e929e0c44fd"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/dorcel.json"
-hash = "d5ca247fd40692fdc4b228d775e5dde44bfb9ff49127132b3f504343e5719996"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/felicia_daisy.json"
-hash = "eda5a3d0b2d3acec8894fe05d64d4d72ff7b19628508f341eb0ad1e94e3f3e70"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/fireweed.json"
-hash = "c6a3f4d0243008f989e61751674993a520f801f0b195b7ec9f780b4fd759aa31"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/green_bioshroom.json"
-hash = "3b1f012aac1e79e470ad281ef780c98bcb90df231458bdaa2bb9ea1cf8d33fe5"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/hyssop.json"
-hash = "f292453d1014523bc9b660def840eaa846cdfc0a18c9e5fabeaaef94d91d1c39"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/pink_bioshroom.json"
-hash = "147c66b8a52f63232aec73e7285dc356bc6080412705e742e4e58a4cd9d6f98f"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/pink_lupine.json"
-hash = "e608c9b065c01637e58ed2a4e111c25b66106960856d05a88dbeb28f0c8dc729"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/poppy_bush.json"
-hash = "162e6ac100800c1e79493e8038d06cf9e6e5ecb09100b936a8778e0bccb86e21"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/purple_lupine.json"
-hash = "df0e341ec3a478708845e6e4c0dea4e128d7a84fcfa54699c9836940876d3547"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/red_lupime.json"
-hash = "6e03ecf2bf28732b0f9e8392f1fe384c53791678ce3ca2e6c7f38543e2edd621"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/tassel.json"
-hash = "dd1ba64c6699e4f2f85b952ff93863f2b1c47928ae66309ab8d47cca8c39b48f"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/tsubaki.json"
-hash = "8308a4b320a1595ce751833dd2dbfacf05ad94d42dec0fc1569b8d3b831a0eef"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/waratah.json"
-hash = "68257d93f292bdc8508efc7a4930651beab1d13c29fb43d719c9599a95e496e8"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/white_trillium.json"
-hash = "d1a914a3d2c0103678e0add4406c4c72195892fe6ac73dd23ecf052e4d81635c"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/wilting_trillium.json"
-hash = "a2c99e76a038105316fc9c02109cfcb42e00cdfd6775212596bb5d2a4d6c3e87"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/yellow_bioshroom.json"
-hash = "cb56747fc458115c48bdcae703e11f632a952cf09416232727b81eb0771b7b2e"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/yellow_lupine.json"
-hash = "b49998e901739f7cf651041c1bce60e363298fc49416b3fae48d5aefd4485545"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/blasting/smooth_basalt.json"

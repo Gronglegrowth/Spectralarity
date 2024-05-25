@@ -1,12 +1,12 @@
 name = "Spectralarity"
 author = "EsetKalenko"
-version = "v7d"
+version = "v8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a193d5c3386a93f2581587ec3288166268316a95a3b9b35561a847aead7824cf"
+hash = "6713180838ae1442b507b28a247814571b39f218c6ca3202abfdd605fead9a14"
 
 [versions]
 minecraft = "1.19.2"
