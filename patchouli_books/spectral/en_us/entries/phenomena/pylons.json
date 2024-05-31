@@ -1,6 +1,6 @@
 {
     "name": "Pylons",
-    "category": "patchouli:things",
+    "category": "patchouli:phenomena",
     "icon": "spectrum:basalt_pillar",
     "advancement": "spectralarity:find_pylon",
     "secret": true,

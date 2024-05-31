@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Spectralarity Changelog.txt"
-hash = "45c5b5275b369a4a427bbed50bfeaec2c70039765e4cd22e2cd20906f5b81f2c"
+hash = "0387e31a2eba2eb54371dab88e3356356eab863ca9ae2f3797e0ebe2f5801647"
 
 [[files]]
 file = "Spectralarity Credits.txt"
@@ -67,14 +67,6 @@ hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 [[files]]
 file = "config/architects_palette.json5"
 hash = "759534ddefd9c91f7826ec5c7a7fc593029a9aec82ac43924efd7a94d2ff8553"
-
-[[files]]
-file = "config/artifacts/general.toml"
-hash = "fb0f6d6e2f4e0bb23ed45b33cf959e0df4f1747040e7ce964aeac9131d9da337"
-
-[[files]]
-file = "config/artifacts/worldgen.toml"
-hash = "a0d46432e3479f0c51eaf2c752152ea19d733ecde1cf8acef73960e8479782ce"
 
 [[files]]
 file = "config/astronomical.json"
@@ -481,18 +473,6 @@ file = "config/midnightlib.json"
 hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
-file = "config/minecells-client.json5"
-hash = "ed67dcab0839a7dd5a3a4806e44a2507373fa9a35dc2039100f919fb1b043415"
-
-[[files]]
-file = "config/minecells-common.json5"
-hash = "6d4db06cd80950fc2f4c9e3598e65b71273eb548bb853e0aded9c5a3cc52c63c"
-
-[[files]]
-file = "config/miskatonicmysteries.json"
-hash = "b8dde5e563451167675f02797804dc4686a1c2ba99ed223f8dd6961dd49967c3"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "30f7ccab7e3b513d9cea799620274cfb44f601c2fd3957f85851bac36e3b7208"
 
@@ -502,7 +482,7 @@ hash = "6132aa9cddaf0ee379d07f90303703622ffef811763c68ff8146255eb79c942b"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "f759f86513bd6cefe9080a1e3ffec0ee98b5829a98c8bc41434ae062beeca398"
+hash = "1e0bd747faef05622dfe13c4a3c2b2ec56a3b1076444273a234deeaebde466d3"
 
 [[files]]
 file = "config/naturescompass.json"
@@ -569,10 +549,6 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "19949b057c09111fc2493b511498f43823b1c1c395b335b3491534a296734b9c"
 
 [[files]]
-file = "config/probablychests.toml"
-hash = "b86077bd38fe181569acf1c364dc16001346dd8470aba5a3c783e3499477d429"
-
-[[files]]
 file = "config/quilt-loader-overrides.json"
 hash = "0c656243c02f5b4ba6d9f6fbc04c3f67309eee40f57ecf32a5d859fdb28e5746"
 
@@ -587,10 +563,6 @@ hash = "c3a0cbcf8278e4fb6fd5b8629fc2582a3d48d969ebb05fb42b5f4e39165686d2"
 [[files]]
 file = "config/reacharound.json"
 hash = "9240e617374d7c0691c537b940b1c5d417a94c4301908a1d9fbf08506a346ab1"
-
-[[files]]
-file = "config/resourceful-config-web.json"
-hash = "fb2c1c997d04635717dce917db0ff8eaf9d6b241973011bc31ebdc3b2f9f0a1e"
 
 [[files]]
 file = "config/rrp.properties"
@@ -1340,19 +1312,27 @@ hash = "8a9028411e7f236d5f1043713b7ac7f513c29c15f97743073999b38d67293583"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/categories/changes.json"
-hash = "374d77eba2b350bd012cc9c2d4232b1f9abd4ddeea4307f940c354562e669a63"
+hash = "f2ed8e72e60424efa10ff747b242f3bd6cc6b93c876ccf700a0b04b6001c41fc"
 
 [[files]]
-file = "patchouli_books/spectral/en_us/categories/features.json"
-hash = "fd8452a1b1ef288ac7bc635ec1e0c66133b05778c7b6d6268b01de33fc221936"
+file = "patchouli_books/spectral/en_us/categories/constructs.json"
+hash = "957d0a21f1d25ff3fb1717224e670ca0365db8cd2dc1959541c1934ea5452cee"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/categories/discoveries.json"
+hash = "d6e468fff1dfdd11080cf28f4c2a799f65d52366e6c4e3cd572b73c4c913f674"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/categories/phenomena.json"
+hash = "54e8b0e95a392244350f450df2a57720ea5b1ca3b62aa7fa6d3acb97ff81836e"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/categories/progression.json"
-hash = "244d333151cedae177abde1c765f0b1f0b1b7bfb522ca80da8d1463df579f375"
+hash = "d430306e3b12a93e2d8ad0316ebc64d4a7e393bdd3514810dfeec018ab32d6a9"
 
 [[files]]
-file = "patchouli_books/spectral/en_us/categories/things.json"
-hash = "2e251daa754690080430baa8476a7ad7bdcb424235a7e7b4b554de09136d1c74"
+file = "patchouli_books/spectral/en_us/entries/astronomical.json"
+hash = "f8ff29acf36af8021d4f80534f88481411d40ab3460ce468cc5df1bd96a18c42"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/balance.json"
@@ -1403,24 +1383,44 @@ file = "patchouli_books/spectral/en_us/entries/changes/tweaks.json"
 hash = "1a01269501f9cc752a66fcaeb12bf7bfb659308201126004af6d1dd2647c1a94"
 
 [[files]]
-file = "patchouli_books/spectral/en_us/entries/features/astronomical.json"
-hash = "f8ff29acf36af8021d4f80534f88481411d40ab3460ce468cc5df1bd96a18c42"
+file = "patchouli_books/spectral/en_us/entries/constructs/accessors.json"
+hash = "3f58e4a56608ae8c13d29cb4126a867a60cdc3481640ec2c98d10bbc0a95fb9d"
 
 [[files]]
-file = "patchouli_books/spectral/en_us/entries/features/early_blaze.json"
+file = "patchouli_books/spectral/en_us/entries/constructs/natures_compass.json"
+hash = "5d99aee04a5dd8a0e68f00f7738a87b0ffdd11b51fe803b970e1981515254b0e"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/constructs/packages.json"
+hash = "fcf7cf2575f36f9e8f22d91d555285c4e9b4083f35eb93ebee0deab48f7cac14"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/constructs/time_in_a_bottle.json"
+hash = "a08cc09f8d60a28cc1af5f39e85d0257b552f34d6415b0a801d84325714ac684"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/discoveries/gaia_spirit.json"
+hash = "36c9908a89bbb556f2c71002bf47aceb5dd9f368710578ee3f30be2e5c2fa236"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/discoveries/luminous_pearl.json"
+hash = "c5e1fc0519089274abe681d77c468df487a9720d7e34f49df7569eda17346870"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/discoveries/resource_painting.json"
+hash = "0f3a26464da3018aac6579f2016b2136863bd3add431961dfd881fcb5a87bc31"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/early_blaze.json"
 hash = "dd53e2e0029af050c95ae7b2997b9332976cd6cf6b0a0195a65a1f5b2543f51d"
 
 [[files]]
-file = "patchouli_books/spectral/en_us/entries/features/inventory.json"
-hash = "bc23c6cf133a3c8b93201597752bbc3b75ef22c43456b81d23cad375dab388a2"
+file = "patchouli_books/spectral/en_us/entries/phenomena/meteors.json"
+hash = "1b37278aca6d08e9c07c9d84e4ea98fc3282d5a07d193a959c90fa474d1425fd"
 
 [[files]]
-file = "patchouli_books/spectral/en_us/entries/features/movement.json"
-hash = "f813a0e50c8952c35f3739e77c32d4863c0759329cf5859a46642d16c10dda74"
-
-[[files]]
-file = "patchouli_books/spectral/en_us/entries/features/vein_miner.json"
-hash = "6da2db2153eba5c418c848933c290d5e50a9ea1c67b7e4d9324a655147dc2ab0"
+file = "patchouli_books/spectral/en_us/entries/phenomena/pylons.json"
+hash = "3aab8de7c59b091f694b4c78bb171d847c23376ac4d1e9b7880fd9747a50bb89"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/botania.json"
@@ -1436,7 +1436,7 @@ hash = "9b2e3da4969da79a462a2974c109c21366f4f84878d1a2e15746895a4d2af780"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/create.json"
-hash = "f336b49c30526210549f2411973c351fb17e96bcc40769004ef767241604e72d"
+hash = "9bfdff67284910177f65c292afdad21e4af16b5e9d4a593ed64cfddcb6c25506"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/spectrum_cmy.json"
@@ -1444,43 +1444,15 @@ hash = "22b39a1fb5590b5c2a1493469160366e9e0fcfe497c0c6fa85f0f03857bbd2ed"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/spectrum_k.json"
-hash = "c284cdc997ac70b3ada32d4778d712a5699ccc29705471c0c885391eb3bdba0a"
+hash = "bc9d29b6c74de1ea22f9b3a46b9b6354290ea636e4bef92fdc9edd46982f96fe"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/start.json"
 hash = "4b1c1e714808f171506cd531a4fe73c577b7fe70f2c063a906c527c50b401ed3"
 
 [[files]]
-file = "patchouli_books/spectral/en_us/entries/things/accessors.json"
-hash = "bb2a44814f351be38f1a3a319247c2504f99e7b9986332aedfd9094078c39f14"
-
-[[files]]
-file = "patchouli_books/spectral/en_us/entries/things/gaia_spirit.json"
-hash = "42946eb3ce6e3b594afc95dbef00437f2b53421cd9cbe4a8385a062644786123"
-
-[[files]]
-file = "patchouli_books/spectral/en_us/entries/things/luminous_pearl.json"
-hash = "33f292cd3ff39c476965c34191c6f244ed3baf3fd55df5a3502548239482aff8"
-
-[[files]]
-file = "patchouli_books/spectral/en_us/entries/things/meteors.json"
-hash = "df1acc64591232db7e4b057fedb1d752f63a8fa3873ba3bfbdc3de87a7aaacf4"
-
-[[files]]
-file = "patchouli_books/spectral/en_us/entries/things/natures_compass.json"
-hash = "fd753942f81507fc012de8641461da172e0b853d62fd1c0efa4373fd34162a7e"
-
-[[files]]
-file = "patchouli_books/spectral/en_us/entries/things/pylons.json"
-hash = "d47332fa03d8a6cce79c75d1e1a83f5ab07455511f89f32faae0a9e1e006211f"
-
-[[files]]
-file = "patchouli_books/spectral/en_us/entries/things/resource_painting.json"
-hash = "757d684d614a9a2eeb09d97ddd61cfa4f9aeda7af64e41ea53792a7621cf2daa"
-
-[[files]]
-file = "patchouli_books/spectral/en_us/entries/things/time_in_a_bottle.json"
-hash = "6e5446fbc388dac7adb2355c1fff04822d1d76b782268330a8e8290790500443"
+file = "patchouli_books/spectral/en_us/entries/vein_miner.json"
+hash = "6da2db2153eba5c418c848933c290d5e50a9ea1c67b7e4d9324a655147dc2ab0"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/botania/lang/en_us.json"
@@ -2475,6 +2447,10 @@ file = "resources/spectralarity_resources/assets/emi/aliases/chroma.json"
 hash = "534800000c49b1861794f68df70955a4117b3bc3e8e5eddc474b792fa9ac10eb"
 
 [[files]]
+file = "resources/spectralarity_resources/assets/emi/aliases/taking_the_fun_out.json"
+hash = "c9fec1c29abfcd358e2db1951ee7dc8fa32cf59bc80d7b44ded419757419beeb"
+
+[[files]]
 file = "resources/spectralarity_resources/assets/emi/index/stacks/additions.json"
 hash = "6d70189bb784f754950fbb5a4a77fb4b8af23913172b1874f2c254f06307fb5a"
 
@@ -2508,7 +2484,7 @@ hash = "abd0d5e125c4b330d9d0f06d8865c24349b25f262a008ee4ff1e8dc7c6e0378b"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/spectral/lang/en_us.json"
-hash = "b1289f8e72d518e58d2e0d92b9d141b5fcc4f7ff8d14d0e9691bedc516ecf540"
+hash = "7d460999076c5a3a9ece2c18e016b8dc4f04521510c2a49860e3783eeb4abf64"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/spectral/textures/gui/a.txt"

@@ -1,6 +1,6 @@
 {
     "name": "Meteors",
-    "category": "patchouli:things",
+    "category": "patchouli:phenomena",
     "icon": "spectralarity:meteor_stone",
     "advancement": "spectralarity:collect_meteor_stone",
     "secret": true,

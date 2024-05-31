@@ -1,0 +1,28 @@
+{
+    "aliases": [
+        {
+            "stacks": [
+                "item:minecraft:tnt"
+            ],
+            "text": [
+                "alias.spectral.dynamite",
+            ]
+        },
+        {
+            "stacks": [
+                "item:botania:lexicon"
+            ],
+            "text": [
+                "alias.spectral.bosnia",
+            ]
+        },
+        {
+            "stacks": [
+                "item:minecraft:gunpowder"
+            ],
+            "text": [
+                "alias.spectral.creeper_dust",
+            ]
+        }
+    ]
+}

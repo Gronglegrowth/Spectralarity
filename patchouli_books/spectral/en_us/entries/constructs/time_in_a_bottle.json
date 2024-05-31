@@ -1,6 +1,6 @@
 {
     "name": "Time in a Bottle",
-    "category": "patchouli:things",
+    "category": "patchouli:constructs",
     "icon": "timeinabottle:time_in_a_bottle",
     "advancement": "spectrum:lategame/grow_malachite_in_crystallarieum",
     "pages": [

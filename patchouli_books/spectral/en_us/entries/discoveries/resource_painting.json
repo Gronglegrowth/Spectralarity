@@ -1,6 +1,6 @@
 {
     "name": "Resource Painting",
-    "category": "patchouli:things",
+    "category": "patchouli:discoveries",
     "icon": "spectrum:paintbrush",
     "advancement": "spectralarity:milestones/resource_painting",
     "secret": true,

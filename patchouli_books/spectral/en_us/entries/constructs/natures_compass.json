@@ -1,6 +1,6 @@
 {
     "name": "Nature's Compass",
-    "category": "patchouli:things",
+    "category": "patchouli:constructs",
     "icon": "naturescompass:naturescompass",
     "advancement": "spectralarity:unlocks/natures_compass",
     "pages": [

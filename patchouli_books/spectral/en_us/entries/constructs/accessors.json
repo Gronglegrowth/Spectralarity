@@ -1,6 +1,6 @@
 {
     "name": "Accessors",
-    "category": "patchouli:things",
+    "category": "patchouli:constructs",
     "icon": "calibrated:skilled_accessor",
     "advancement": "spectrum:collect_shimmerstone",
     "pages": [

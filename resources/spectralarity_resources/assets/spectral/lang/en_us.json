@@ -25,6 +25,10 @@
     "alias.spectral.red": "Karmir",
     "alias.spectral.black": "Kuro",
 
+    "alias.spectral.bosnia": "Botania",
+    "alias.spectral.creeper_dust": "Gunpowder",
+    "alias.spectral.dynamite": "TNT",
+
     "recipeGroup.spectrum.resource_painting": "Resource Painting",
 
     "tag.item.another_furniture.benches": "Benches",

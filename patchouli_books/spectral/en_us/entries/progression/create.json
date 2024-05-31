@@ -15,12 +15,6 @@
             "title": "Processed Sheets",
             "advancement": "create:mechanical_press",
             "text": "  Indeed it can, and these sheets are only the beginning."
-        },
-        {
-            "type": "patchouli:image",
-            "title": "",
-            "advancement": "create:mechanical_press",
-            "text": "  A strange sketch, hidden in your notes. You don't remember making it...."
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name": "Gaia Spirit Fabrication",
-    "category": "patchouli:things",
+    "category": "patchouli:discoveries",
     "icon": "botania:life_essence",
     "advancement": "spectralarity:unlocks/gaia_spirit",
     "pages": [

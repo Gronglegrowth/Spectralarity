@@ -1,6 +1,6 @@
 {
-    "name": "Progression",
-    "description": "  This section of the guide contains an overview of progression. The first page of every entry provides a hint; upon successfully doing what the text suggests, new pages and entries may reveal themselves....",
+    "name": "Your Journey",
+    "description": "  Progression milestones.",
     "icon": "spectrum:mysterious_compass",
-    "sortnum": 3
+    "sortnum": 2
 }

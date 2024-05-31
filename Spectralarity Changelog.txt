@@ -3,7 +3,7 @@ by Eset Kalenko / Gronglegrowth
 homepage: https://modrinth.com/modpack/spectralarity
 
 This file documents all changes that were made for the pack, ordered by category.
-File version: v7d
+File version: v8
 
 Tweaks:
 - Botania Orechids can now generate a variety of modded ores.
@@ -22,7 +22,6 @@ Tweaks:
 - Allowed Basalt/Calcite Tiles to be a valid base block for Spectrum multis.
 - Rotten Flesh is compostable.
 - Added blasting recipe for basalt > smooth basalt.
-- Regions Unexplored flowers may be anvil crushed for extra dye.
 
 Balance:
 - Removed several items that should be unobtainable from the Continuity Drop gift pool.
@@ -33,10 +32,6 @@ Balance:
 - Boosted the Bedrock Jetpack's ink capacity.
 
 Disabled Content:
-- Regions Unexplored Biomes:
-  - Autumnal Maple Woods
-  - Redwoods (overlap with Terrestria)
-  - Sparse Redwoods (overlap with Terrestria)
 - Botania's tall mystical flowers and shimmering mushrooms do not spawn
 - Crafting recipes for Botania's shimmering mushrooms (progression skip)
 - Crushing Wheel recipe for Amethyst Shard into Amethyst Dust (recipe conflict)
@@ -88,6 +83,3 @@ Recipes:
   - Nature's Compass needs Cyan Pigment instead of Saplings.
   - Luminous Pearls are now crafted in the Pigment Pedestal using either Shimmerstone or Yellow Pigment, with the latter doubling the yield.
   - Accessors are crafted in the Pigment Pedestal with various thematic resources depending on tier.
-
-Fixes:
-- Fixed certain Regions Unexplored leaves not being compostable.

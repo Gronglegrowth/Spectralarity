@@ -96,13 +96,13 @@
 		eat: true
 		// Refill when dropping stacks from the hotbar.
 		// default: true
-		drop: true
+		drop: false
 		// Refill when using up items, like tools or weapons.
 		// default: true
 		use: true
 		// Refill on other occasions.
 		// default: true
-		other: true
+		other: false
 		// Configure with which new item the previous stack will be refilled.
 		rules: {
 			// Tries to find any other block items.
@@ -136,7 +136,7 @@
 		// Refill when the item just used changes to a different item.
 		// This is e.g. triggered when filling or emptying water buckets.
 		// default: true
-		item-changes: true
+		item-changes: false
 		// Plays a sound after refilling a stack.
 		// default: true
 		play-sound: true

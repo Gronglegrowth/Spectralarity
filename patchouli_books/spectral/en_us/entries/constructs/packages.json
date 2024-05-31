@@ -1,11 +1,11 @@
 {
-    "name": "Backpacks?",
-    "category": "patchouli:features",
-    "icon": "spectrum:bottomless_bundle",
+    "name": "Packages",
+    "category": "patchouli:constructs",
+    "icon": "packages:package_maker",
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  There are several ways to increase your inventory space or help condense what you're carrying, described here."
+            "text": "  anecdote here..."
         },
         {
             "type": "patchouli:spotlight",
@@ -23,18 +23,6 @@
             "items": [ "scout:pouch", "scout:satchel", "scout:upgraded_pouch", "scout:upgraded_satchel" ],
             "title": "Storage Trinkets",
             "text": "  You can equip, in your trinket slots, up to two Pouches and one Satchel, which physically expand your inventory space. They retain their inventory when taken off, as well."
-        },
-        {
-            "type": "patchouli:spotlight",
-            "item": "minecraft:bundle",
-            "title": "Bundles",
-            "text": "  Bundles are craftable, and in addition to their vanilla behavior, you may scroll with the mousewheel over them to cycle the items inside."
-        },
-        {
-            "type": "spectrum:collection",
-            "items": [ "spectrum:bottomless_bundle", "botania:black_hole_talisman" ],
-            "title": "Hoarding",
-            "text": "  When mining, you find plenty of ore and treasure, but also plenty of other blocks like stone. You may not prefer to throw them away, but there may come a point when packages are not enough to carry them home. Thus, these two items are specifically for carrying a large amount of one thing - such as stone."
         }
     ]
 }
