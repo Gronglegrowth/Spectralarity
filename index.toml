@@ -5471,10 +5471,6 @@ file = "resources/spectralarity_resources/data/spectralarity/advancements/unlock
 hash = "206e5f9e953140515c724531e2e0dbee1f30373516f925120a619b019780ef5c"
 
 [[files]]
-file = "resources/spectralarity_resources/data/spectralarity/loot_tables/ew.txt"
-hash = "50f63c25d5e4dfcf38e0bf5db6cd706816bf0e7db4fcccf080ff41c8cdda56e6"
-
-[[files]]
 file = "resources/spectralarity_resources/data/spectralarity/loot_tables/grant_guidebook.json"
 hash = "664fccf38b6ac176d9349ecef67d11a2b7d1211418353f2f8d891a9d0e879f65"
 
