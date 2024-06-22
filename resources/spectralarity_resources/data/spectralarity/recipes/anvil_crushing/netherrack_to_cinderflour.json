@@ -1,0 +1,15 @@
+{
+  "type": "spectrum:anvil_crushing",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "crushedItemsPerPointOfDamage": 2,
+  "experience": 0.25,
+  "result": {
+    "item": "create:cinder_flour",
+    "count": 2
+  },
+  "particleEffectIdentifier": "cloud",
+  "particleCount": 2,
+  "soundEventIdentifier": "block.netherrack.break"
+}

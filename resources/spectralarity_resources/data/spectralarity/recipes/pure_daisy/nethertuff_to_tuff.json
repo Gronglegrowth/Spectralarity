@@ -1,0 +1,10 @@
+{
+  "type": "botania:pure_daisy",
+  "input": {
+    "type": "block",
+    "block": "yttr:nethertuff"
+  },
+  "output": {
+    "name": "minecraft:tuff"
+  }
+}

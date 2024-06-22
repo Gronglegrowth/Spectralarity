@@ -217,54 +217,6 @@ file = "config/fallingtree.json"
 hash = "16126a2a7216371ed69d0c43d242476e34eba6a6ed8179d56d9c7fc453bda043"
 
 [[files]]
-file = "config/fancymenu/config.txt"
-hash = "229ee0e54fa6194335d780da66662824e98848ba463cf7915273017e62bb6678"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
-
-[[files]]
-file = "config/fancymenu/customization/spectralarity_main.txt"
-hash = "eca7968b5987389f40e5be6695e71402c919ca844cc1feccc5a5c18d171899b7"
-
-[[files]]
-file = "config/fancymenu/locals/de_de.local"
-hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
-
-[[files]]
-file = "config/fancymenu/locals/en_us.local"
-hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
-
-[[files]]
-file = "config/fancymenu/locals/pl_pl.local"
-hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
-
-[[files]]
-file = "config/fancymenu/locals/pt_br.local"
-hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
-
-[[files]]
-file = "config/fancymenu/locals/ru_ru.local"
-hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
-
-[[files]]
-file = "config/fancymenu/locals/uk_ua.local"
-hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
-
-[[files]]
-file = "config/fancymenu/locals/zh_cn.local"
-hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
-
-[[files]]
-file = "config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
 
@@ -425,22 +377,6 @@ file = "config/jade/usernamecache.json"
 hash = "636eb109245cca391cae37ba4cddefd33bf043b5a29ecbdd6bea5a3438aeb51d"
 
 [[files]]
-file = "config/konkrete/locals/de_de.local"
-hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
-
-[[files]]
-file = "config/konkrete/locals/en_us.local"
-hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
-
-[[files]]
-file = "config/konkrete/locals/pl_pl.local"
-hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
-
-[[files]]
-file = "config/konkrete/locals/pt_br.local"
-hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
-
-[[files]]
 file = "config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
@@ -455,14 +391,6 @@ hash = "27a9ab4ef34572ed32ba7ad0ea9efd49cca21886a84526bb28c1b2e71a3ad63f"
 [[files]]
 file = "config/magna.json"
 hash = "41b63f8dd471047e1e5d4ffdc3ef2802f7a766c8408b59be050b529576d404e2"
-
-[[files]]
-file = "config/malum-client.json"
-hash = "5bd71f305093cbb29765264861921698d18b09d14515843bd4585d4764eefff7"
-
-[[files]]
-file = "config/malum.json"
-hash = "b5480fabcaf5c9bb85530cd6bd872919994fbe8a35e4f39080475424760d29df"
 
 [[files]]
 file = "config/mialeemisc.json"
@@ -832,6 +760,11 @@ hash = "833514ff7f2135322e9c85db8563a7f04182dbc816b03c4e71a04c46eee21b50"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "7c6cfc6c9e2a2858b78e4b3f7a68d4ad91701d989b31e020a9f102f66ac3c187"
+metafile = true
+
+[[files]]
 file = "mods/bundle-tweaks.pw.toml"
 hash = "6ec3ea681b12585b0f5a530c27ed2a86250a2f9267795578f2c2c3a185b72f7e"
 metafile = true
@@ -874,6 +807,16 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "c90125ae14b9f9a43b42daca4c927b6a913e2f28ea3ce4cc7b18940106bd896d"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "976afe5c2083d03053ad6006adab7a3746a2e83a28a654822fd38621d395870b"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "949d3cc8a0181788efd2011a2fdf5d393c4557ba85d72a19245746be95d2a57b"
 metafile = true
 
 [[files]]
@@ -939,11 +882,6 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "a38c9410cee31f55b58069db615dbbb34a7f6f63b0ae6b0a4e6acb10d44a78df"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "7ec5944e0d0410d12d8f48e39ff88f6b972deeeeec811fc2a1b61c1ca1d54956"
 metafile = true
 
 [[files]]
@@ -1017,18 +955,8 @@ hash = "6cc5375dd42e85deb55ed6c7e773a70d7ee43ce3efa192b892a73d94069d1492"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "34c51a6dd32cec1a8837de7d275778148ea27d6286f07c3587c2020a5b555bc3"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a968f9121d81c23cc8b0c0f156a2edc4962f5679de4b54abf0a8fe27c571fe82"
-metafile = true
-
-[[files]]
-file = "mods/malum-quilt.pw.toml"
-hash = "d881c0951c0592d510e2556fb6f7d402bf44b4d5978339a37594a02360bd7a35"
 metafile = true
 
 [[files]]
@@ -2463,10 +2391,6 @@ file = "resources/spectralarity_resources/assets/hexcasting/lang/en_us.json"
 hash = "849125067fdf931c84471a710003ba185945c25472fa2a9dc9b486c05bfe57dc"
 
 [[files]]
-file = "resources/spectralarity_resources/assets/malum/lang/en_us.json"
-hash = "b52323cb319753d3d06a25a66a7c189e2eafb425afc21fdd2916e92b82f99a87"
-
-[[files]]
 file = "resources/spectralarity_resources/assets/minecraft/sounds.json"
 hash = "1b59cc32a8d0249acda024a463c8b699108892465995bbbcb2d4a55103fc3704"
 
@@ -2656,7 +2580,7 @@ hash = "e6ded79271a4772f3c55ed6f59121177adf6859ab691571d9859669432d34d97"
 
 [[files]]
 file = "resources/spectralarity_resources/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "5c8bf9689eb3d8ec24811c136058d70a91b2a572a9fd28cb21aa3d71ca8d92cf"
+hash = "640edd4047f762474c7d82f7f0b73b60257eae043a916b1e2111ed9e4023a700"
 
 [[files]]
 file = "resources/spectralarity_resources/data/calibrated/recipes/expert_accessor.json"
@@ -5391,58 +5315,6 @@ file = "resources/spectralarity_resources/data/hexgloop/recipes/staffs/wither_st
 hash = "4edfe571859bd5980f94b7b594290ae018dda9649807a40c40f2d94e2079e1f5"
 
 [[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/arcane_charcoal_fragment.json"
-hash = "ac6d9f1a6c06f049609e57cf16101edcfa8011994b01837a96476d2c6c7c2ea4"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/arcane_charcoal_from_fragments.json"
-hash = "beff2beec5c476ac982e6dd4c930f14dd5209b49c284c0a54c95380a5f26db0a"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/charcoal_fragment.json"
-hash = "9ee66bfd5301b835efc9316d867e3f2ee4d7d7740139ed93b33721e2a37661fb"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/charcoal_from_fragments.json"
-hash = "0a1c1c0f816c74fa1932f81ceaa948e0ef385a93b318ec7b7ac0119fb3df5731"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/coal_fragment.json"
-hash = "fe19caf42c14de958c79064d2a95cf519f74437165bceee03e79422a8ad10a50"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/coal_from_fragments.json"
-hash = "e5991016d22970a8cf94921cc6bdbe15514a401c346aa8955eba81a6d81a3984"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/spirit_altar.json"
-hash = "4f0f3be8ffb8d39b311ad3e5469e010a833ed30586027ef640849785938a4d01"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/spirit_crucible/zinc_node.json"
-hash = "5ac35accad4458f2d4931215091d069dc7c266707ee8b9ee5c7fa24946b46c6f"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/spirit_infusion/hex_ash.json"
-hash = "0fe63fb41ff7ec1c08b3faa8a457061790cb0903ab02bb97e929e15aeed5aa78"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/spirit_infusion/soul_stained_steel_ingot.json"
-hash = "badce8044429cdae631c7af8b2d8ba9125f8fcc640e52edf5b389567ca02f049"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/spirit_infusion/zinc_impetus.json"
-hash = "f3b6a559800ca73e7be72083a25a6d7ca62df16f16b6ad2106031050da718f03"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/zinc_from_node_blasting.json"
-hash = "2461858e1a8f5448120ccc73a5019d1e59be30d68bfb99977403d0706d6f3c07"
-
-[[files]]
-file = "resources/spectralarity_resources/data/malum/recipes/zinc_from_node_smelting.json"
-hash = "cd0d0b03ae3c036f7a4b2dcf3f453715f8a51bf742c325c34298a9d6e28b910a"
-
-[[files]]
 file = "resources/spectralarity_resources/data/naturescompass/recipes/natures_compass.json"
 hash = "57c4344ae8cb4e9275e32d58a87d73e02820d487560c11f91a51f1f24b4b12a0"
 
@@ -5475,8 +5347,20 @@ file = "resources/spectralarity_resources/data/spectralarity/loot_tables/grant_g
 hash = "664fccf38b6ac176d9349ecef67d11a2b7d1211418353f2f8d891a9d0e879f65"
 
 [[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/netherrack_to_cinderflour.json"
+hash = "34e6fdf8474ba63a11979cc182c81b895e0781425e83881e0c1facee1c8460a2"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/nethertuff_to_cinderflour.json"
+hash = "5c51498e467c34a6a7e731e47b02fa28146c7a3ffec5c219c7ced3528fb1c320"
+
+[[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/blasting/smooth_basalt.json"
 hash = "54bd70165575a020325ccaa27b2ccd8b902deb2ce757edc9d4343e6346a06428"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/crushing/nethertuff.json"
+hash = "da1dfacd03d5081d88f32a94602cbba07fe8219a292693b2e47d9461149ec19b"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/gaia_spirit.json"
@@ -5489,6 +5373,10 @@ hash = "824111b2fd4c410ae682def672376b8140ebd78798be1f034b66512b5079545e"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/resource_painting/paint_terrasteel_pink.json"
 hash = "8cd8b70f4408ee0eed81b1a15a9b5e71fe4e2829e07e243e6d31537d7586b9a1"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/pure_daisy/nethertuff_to_tuff.json"
+hash = "c57bddedbd372f548598e08d12f0a95057996a8385c149b11aea1425f0af4b0e"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/revelations/reveal_mystical_flowers.json"
@@ -5529,18 +5417,6 @@ hash = "4193df7c455793f8273f3e7a852a6872ae856cefa29715330477f30a02a08fbe"
 [[files]]
 file = "resources/spectralarity_resources/data/spectrum/advancements/unlocks/trinkets/artists_palette.json"
 hash = "5e7459a25b1b09b56503f05154206d365065cbfa60be60d568719afa2dc1e885"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectrum/advancements/unlocks/upgrades/upgrade_efficiency2.json"
-hash = "cba185e2a236ba16aef122d193e78efd20060a62860c251358e471e7b5c7b1e0"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectrum/advancements/unlocks/upgrades/upgrade_speed3.json"
-hash = "2619d9f69cc1d37bddae5b25ca8bf34e69e7b870af8493ae22ba80f33d838868"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectrum/advancements/unlocks/upgrades/upgrade_yield2.json"
-hash = "a1f9f48f90f41b9a019c97d3f177ae61a79bb0e54f9e79378d914b78556f4b06"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectrum/recipes/fusion_shrine/bedrock/bedrock_axe.json"
@@ -5632,23 +5508,11 @@ hash = "06a9a4485a54aaab0f960bbdfa0ef87b03d2bd6a5c8c639491d76d5f3c62c308"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectrum/recipes/pedestal/tier2/pedestal_onyx.json"
-hash = "88466948e02cffd06a07133bcf9593a0649ab5fc5244ef1c400fddafdd01ab9e"
+hash = "d852c9fc294d0a3a4c51c3f1ef8320569a1d71213f3eacae39d6a1739d53fc9e"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectrum/recipes/pedestal/tier3/pedestal_moonstone.json"
-hash = "a269f09e3cb5a41e4cffd4f216cb5d0d9bdb4188654f2480250ad06db3462424"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectrum/recipes/pedestal/tier4/upgrade_efficiency2.json"
-hash = "7ac81a0b63cdecea3a74200092fff60c4acc640234d3901f2d6ed91a5f6c0a9e"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectrum/recipes/pedestal/tier4/upgrade_speed3.json"
-hash = "33ebbf2bc472def9dc1d107980cd37d427cd3ee2bac511b9df33663787522516"
-
-[[files]]
-file = "resources/spectralarity_resources/data/spectrum/recipes/pedestal/tier4/upgrade_yield2.json"
-hash = "3a5a74f30e59aacd94ede7a82a3a226262a8868f9adf337a24257fd7e173e226"
+hash = "24e2efda39173a643a922026c813ffa0640f63bdab6c71805288a4a8e55c1ccd"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectrum/recipes/titration_barrel/reprise.json"
