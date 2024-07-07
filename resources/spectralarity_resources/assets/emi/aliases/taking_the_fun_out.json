@@ -5,7 +5,7 @@
                 "item:minecraft:tnt"
             ],
             "text": [
-                "alias.spectral.dynamite",
+                "alias.spectral.dynamite"
             ]
         },
         {
@@ -13,7 +13,7 @@
                 "item:botania:lexicon"
             ],
             "text": [
-                "alias.spectral.bosnia",
+                "alias.spectral.bosnia"
             ]
         },
         {
@@ -21,7 +21,7 @@
                 "item:minecraft:gunpowder"
             ],
             "text": [
-                "alias.spectral.creeper_dust",
+                "alias.spectral.creeper_dust"
             ]
         }
     ]

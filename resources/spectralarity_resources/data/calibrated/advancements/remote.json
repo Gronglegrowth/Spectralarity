@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "icon": {
+      "item": "calibrated:novice_accessor"
+    },
+    "title": {
+      "translate": "advancements.calibrated.remote.title"
+    },
+    "description": {
+      "translate": "advancements.calibrated.remote.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "acquire_remote": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "calibrated:remotes"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -20,6 +20,14 @@
             {
                 "namespace": "hexcasting",
                 "path": "recipes/compat/create/*"
+            },
+            {
+                "namespace": "calibrated",
+                "path": "recipes/calibrator"
+            },
+            {
+                "namespace": "calibrated",
+                "path": "recipes/unlimited_accessor"
             }
         ]
     }

@@ -1,0 +1,30 @@
+{
+  "parent": "calibrated:remote",
+  "display": {
+    "icon": {
+      "item": "minecraft:enchanting_table"
+    },
+    "title": {
+      "translate": "advancements.calibrated.target_enchanting_table.title"
+    },
+    "description": {
+      "translate": "advancements.calibrated.target_enchanting_table.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "use_remote": {
+      "trigger": "calibrated:remote_used",
+      "conditions": {
+        "target": {
+          "blocks": [
+            "minecraft:enchanting_table"
+          ]
+        }
+      }
+    }
+  }
+}

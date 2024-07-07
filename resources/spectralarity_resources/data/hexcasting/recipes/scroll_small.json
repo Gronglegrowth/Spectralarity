@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "A": {
-      "item": "spectrum:amethyst_dust"
+      "item": "spectrum:amethyst_powder"
     },
     "P": {
       "item": "minecraft:paper"

@@ -1,0 +1,26 @@
+{
+  "parent": "calibrated:remote",
+  "display": {
+    "icon": {
+      "item": "calibrated:skilled_accessor"
+    },
+    "title": {
+      "translate": "advancements.calibrated.interdimensional.title"
+    },
+    "description": {
+      "translate": "advancements.calibrated.interdimensional.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "use_remote": {
+      "trigger": "calibrated:remote_used",
+      "conditions": {
+        "interdimensional": true
+      }
+    }
+  }
+}

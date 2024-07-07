@@ -1,0 +1,71 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "yttr:void_bucket"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "spectrum:chests/sub_tables/redstone_components"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "spectrum:infused_beverage",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Variant: \"rum\", Color: 10505507 }"
+            },
+            {
+              "function": "spectrum:ferment_randomly",
+              "fermentation_recipe_id": "spectrum:titration_barrel/infused_beverages/rum",
+              "days_fermented": {
+                "min": 6000,
+                "max": 8000
+              },
+              "thickness": 1.0
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spectrum:infused_beverage",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Variant: \"beer\", Color: 16762703 }"
+            },
+            {
+              "function": "spectrum:ferment_randomly",
+              "fermentation_recipe_id": "spectrum:titration_barrel/infused_beverages/beer",
+              "days_fermented": {
+                "min": 6000,
+                "max": 8000
+              },
+              "thickness": 1.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "calibrated:interdimensional",
+  "display": {
+    "icon": {
+      "item": "calibrated:unlimited_accessor"
+    },
+    "title": {
+      "translate": "advancements.calibrated.unlimited.title"
+    },
+    "description": {
+      "translate": "advancements.calibrated.unlimited.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "acquire_remote": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "calibrated:unlimited_accessor"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -2376,7 +2376,7 @@ hash = "534800000c49b1861794f68df70955a4117b3bc3e8e5eddc474b792fa9ac10eb"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/emi/aliases/taking_the_fun_out.json"
-hash = "c9fec1c29abfcd358e2db1951ee7dc8fa32cf59bc80d7b44ded419757419beeb"
+hash = "dd76eb467c06573e0b6be5189a2a7f8db9b7fb0246451efad106451b198b4b35"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/emi/index/stacks/additions.json"
@@ -2449,42 +2449,6 @@ hash = "e5baf237e142f7ff02c9be61ac2a49df7875263a65b609d35178db4005793ca8"
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/corporea_spark.json"
 hash = "9d5cf3662f990a562f00ccb499a1708e1560e6a53342452e8cebcdd26c6ad532"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid/azurite.json"
-hash = "d88d856eb53916d19b7114957de62e36794e7f5e3835ee101cbcadae0465592b"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid/brookite.json"
-hash = "8b95e9d35533fdf685c2b9ee556b97314af64ecba7ee15d65fef7c91fc0a5e90"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid/deepslate_azurite.json"
-hash = "9f2ee4f9f24be487cd1b69cd3ec6e7ace07cb8887cb580d3706c198ace01b512"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid/deepslate_brookite.json"
-hash = "bb6d6b226a4efd3adf96095c3736b6767d5acc02d7298ea71db73717af4fc1ed"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid/deepslate_gadolinite.json"
-hash = "7e19f9cee244aa9977998e68d57b3dae0935e3124dd5b6d1bbee685b8f689888"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid/deepslate_shimmerstone_ore.json"
-hash = "d7b3ff670e3db5af0dd9ffa493afaf9d2322c7712c7fa7a458e8e7fd5fdd4b44"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid/gadolinite.json"
-hash = "996c12d574c3cbdf526d690520396d7e4991d457eb19a0f453fca026eef7c5e4"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid/shimmerstone_ore.json"
-hash = "69b7512d59932d18a49bb0c6cea7df55c96d601e5fc799058fc5ae26e285bdf1"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/orechid_ignem/stratine_ore.json"
-hash = "c50ea4bde7f2bd34e8c0a2f125663f42871759fc52f46a3cd7930f4c01b005c5"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/orechid.json"
@@ -2581,6 +2545,42 @@ hash = "e6ded79271a4772f3c55ed6f59121177adf6859ab691571d9859669432d34d97"
 [[files]]
 file = "resources/spectralarity_resources/data/c/tags/items/hidden_from_recipe_viewers.json"
 hash = "640edd4047f762474c7d82f7f0b73b60257eae043a916b1e2111ed9e4023a700"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/interdimensional.json"
+hash = "d8f6c8be0aef6f757ea4d20b5639804a20a22b26cc856f57b7676657c23443ed"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/recipes/calibrated.main/calibrator.json"
+hash = "061e8c21fb71dd7c4ab135970c6867d43b523637d2bf47b77456f26499ef9f69"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/recipes/calibrated.main/expert_accessor.json"
+hash = "360db992a113c98d0976233f51ecad2ec27606d9e532cd2e854ce17a234bd999"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/recipes/calibrated.main/novice_accessor.json"
+hash = "e535e21a68d1740d3c10ebb09e13a2c147144880e6bb9ea0cd750cda6940d884"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/recipes/calibrated.main/skilled_accessor.json"
+hash = "6c5eac5d14882ebc0b6bb8f12f59770c04f718f24022c99d8f70f3eb85904fb3"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/recipes/calibrated.main/unlimited_accessor.json"
+hash = "51e77d65c87cef069bc3c01535bf3a6c966a992d999051d642c0ceb23e169594"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/remote.json"
+hash = "21881ff9a2e586a1a7f2f3172457fee6614a1d0649c4f1364ec07ff9fd4ca28c"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/target_enchanting_table.json"
+hash = "f50f4166b3524b1708c944d060afa6cbd231d985abfb7db9b406a71746d919c5"
+
+[[files]]
+file = "resources/spectralarity_resources/data/calibrated/advancements/unlimited.json"
+hash = "50f85fe6d17e2bb3a5785101da30828051dc1b63e3283d97f4357ba8ad10a43a"
 
 [[files]]
 file = "resources/spectralarity_resources/data/calibrated/recipes/expert_accessor.json"
@@ -5232,7 +5232,7 @@ hash = "d42b822c5630ad436f5bb2067986531959e46efe3e8e16ebbb548e9b1913de24"
 
 [[files]]
 file = "resources/spectralarity_resources/data/hexcasting/recipes/scroll_small.json"
-hash = "22194e21f4b15097d5a249cbf4a4ea1ed1d3bd6eed58172e7f95f44bc3bfeef0"
+hash = "b7376721c4ace4efb8e2a7835b60d07ea298b286db013d2508d01ea0ed513fdd"
 
 [[files]]
 file = "resources/spectralarity_resources/data/hexcasting/recipes/spruce_staff.json"
@@ -5320,7 +5320,7 @@ hash = "57c4344ae8cb4e9275e32d58a87d73e02820d487560c11f91a51f1f24b4b12a0"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/advancements/find_pylon.json"
-hash = "e16f1596201850fd4a63680b27f603cb64e67176159be3d8ed78a4403fdb1700"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/advancements/grant_guidebook.json"
@@ -5345,6 +5345,10 @@ hash = "206e5f9e953140515c724531e2e0dbee1f30373516f925120a619b019780ef5c"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/loot_tables/grant_guidebook.json"
 hash = "664fccf38b6ac176d9349ecef67d11a2b7d1211418353f2f8d891a9d0e879f65"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/loot_tables/scorched_house_chest.json"
+hash = "709bdf299fbecc8e2ea9a70ad63a68cda78c5e83970a46b92aa6a2172a8b3aa9"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/anvil_crushing/netherrack_to_cinderflour.json"
@@ -5373,6 +5377,42 @@ hash = "824111b2fd4c410ae682def672376b8140ebd78798be1f034b66512b5079545e"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/resource_painting/paint_terrasteel_pink.json"
 hash = "8cd8b70f4408ee0eed81b1a15a9b5e71fe4e2829e07e243e6d31537d7586b9a1"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid/azurite.json"
+hash = "d88d856eb53916d19b7114957de62e36794e7f5e3835ee101cbcadae0465592b"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid/brookite.json"
+hash = "8b95e9d35533fdf685c2b9ee556b97314af64ecba7ee15d65fef7c91fc0a5e90"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid/deepslate_azurite.json"
+hash = "9f2ee4f9f24be487cd1b69cd3ec6e7ace07cb8887cb580d3706c198ace01b512"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid/deepslate_brookite.json"
+hash = "bb6d6b226a4efd3adf96095c3736b6767d5acc02d7298ea71db73717af4fc1ed"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid/deepslate_gadolinite.json"
+hash = "7e19f9cee244aa9977998e68d57b3dae0935e3124dd5b6d1bbee685b8f689888"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid/deepslate_shimmerstone_ore.json"
+hash = "d7b3ff670e3db5af0dd9ffa493afaf9d2322c7712c7fa7a458e8e7fd5fdd4b44"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid/gadolinite.json"
+hash = "996c12d574c3cbdf526d690520396d7e4991d457eb19a0f453fca026eef7c5e4"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid/shimmerstone_ore.json"
+hash = "69b7512d59932d18a49bb0c6cea7df55c96d601e5fc799058fc5ae26e285bdf1"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid_ignem/stratine_ore.json"
+hash = "c50ea4bde7f2bd34e8c0a2f125663f42871759fc52f46a3cd7930f4c01b005c5"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/pure_daisy/nethertuff_to_tuff.json"
@@ -5471,6 +5511,10 @@ file = "resources/spectralarity_resources/data/spectrum/recipes/fusion_shrine/be
 hash = "8f3d3e5158eaa1f5f782c3e4d2d65948ee8f61b675852c38a274a3ce716fe0d7"
 
 [[files]]
+file = "resources/spectralarity_resources/data/spectrum/recipes/fusion_shrine/onyx_shard.json"
+hash = "dc573a36f433ef1bff45956729bc2bc0b1d232a63ea87c2e666bbe45db62c337"
+
+[[files]]
 file = "resources/spectralarity_resources/data/spectrum/recipes/fusion_shrine/trinkets/artists_palette.json"
 hash = "06c6fbbc88fd4264bd2b2b8bf899475c1304c8194abe926c932c17c33a61499e"
 
@@ -5528,7 +5572,7 @@ hash = "8bc3147c53d41f2a5765f2f41622090f5612f246e7f9488cc9c5da4286c19f2c"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectrum/tags/items/indestructible_blacklisted.json"
-hash = "57f89844c7e35e5c4736ed9c92036bf5f4c7ac9a311a57e968073a34fc88a7f1"
+hash = "5cc26d0b0ab07c61c34676966a8e2106db10358ec3c0a7431e27d03eeb45b90a"
 
 [[files]]
 file = "resources/spectralarity_resources/data/timeinabottle/recipes/time_in_a_bottle.json"
@@ -5551,12 +5595,16 @@ file = "resources/spectralarity_resources/data/yttr/recipes/smashing/ultrapure_c
 hash = "38db689c5bdabd6359840cc5b345c9c2f6077079b49da54534def80f400bddf0"
 
 [[files]]
+file = "resources/spectralarity_resources/data/yttr/structures/terminus_house.nbt"
+hash = "85836352ede7483b566aacd931005f3a0b67186254d604163e9b707eeb128b61"
+
+[[files]]
 file = "resources/spectralarity_resources/data/yttr/tags/items/not_gifts.json"
-hash = "29f7e918d984eebf2eea4d11131ccf5d0ff89231c3679b2a3a7f8d57dd74d0b8"
+hash = "d0bd420a560478d8f0b8baa31008d6a876c8e6fa1a92bb9a79bad91b7c543eef"
 
 [[files]]
 file = "resources/spectralarity_resources/pack.mcmeta"
-hash = "f38aad860edcd4f7d489872d86a78e7ee117508753f08640e0c28f9a702a5861"
+hash = "b7712b744ac49912762d305482e0ab187a5822f5cf337211909019f38124daee"
 
 [[files]]
 file = "resources/spectralarity_resources/pack.png"
