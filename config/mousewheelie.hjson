@@ -90,7 +90,7 @@
 		// Restore the refilled item to the originally selected slot.
 		// This will take a tad more time. You might want to turn this off on slow connections.
 		// default: false
-		restore-selected-slot: true
+		restore-selected-slot: false
 		// Refill when the last food item in the hand has been consumed.
 		// default: true
 		eat: true
