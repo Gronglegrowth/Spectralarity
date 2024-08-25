@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:rune_water"
+    },
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "tag": "minecraft:saplings"
+    },
+    {
+      "tag": "minecraft:saplings"
+    },
+    {
+      "tag": "minecraft:saplings"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "mana": 8000,
+  "output": {
+    "item": "botania:rune_spring"
+  }
+}

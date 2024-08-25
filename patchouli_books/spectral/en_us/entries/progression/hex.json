@@ -1,0 +1,20 @@
+{
+    "name": "The Patterns of Time",
+    "category": "patchouli:progression",
+    "icon": "hexgloop:casting_ring",
+    "turnin": "botania:main/rune_pickup",
+    "advancement": "spectrum:collect_pigment",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  The purple notebook that lists the patterns etched into amethysts mentions a certain kind of staff required for the art, but not how to make one. After looking at magenta pigment, I was struck with inspiration - I may well have a way to acquire such staves, now."
+        },
+        {
+            "type": "patchouli:text",
+            "advancement": "botania:main/rune_pickup",
+            "title": "Hex Casting",
+            "text": "  With a staff in hand, and the notebook as my reference, I begin to unravel the magenta gems' secrets. This art seems very capable indeed, should I have the patience."
+        }
+    ]
+}

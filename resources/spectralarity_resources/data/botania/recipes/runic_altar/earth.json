@@ -1,0 +1,30 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "tag": "botania:mana_dusts"
+    },
+    {
+      "tag": "botania:manasteel_ingots"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:coal_block"
+    },
+    [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      }
+    ]
+  ],
+  "mana": 5200,
+  "output": {
+    "count": 2,
+    "item": "botania:rune_earth"
+  }
+}

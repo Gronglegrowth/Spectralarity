@@ -410,7 +410,7 @@ hash = "6132aa9cddaf0ee379d07f90303703622ffef811763c68ff8146255eb79c942b"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "1e0bd747faef05622dfe13c4a3c2b2ec56a3b1076444273a234deeaebde466d3"
+hash = "67e1a3ce6db7a0c2eaeb3235b724a037fcf944b06b8f10d5c5581a2f0ba2886c"
 
 [[files]]
 file = "config/naturescompass.json"
@@ -1236,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/spectral/book.json"
-hash = "8a9028411e7f236d5f1043713b7ac7f513c29c15f97743073999b38d67293583"
+hash = "5d5f30e0030783f230ce10f78d48be4e28e08f35745b613c4e73a109da95bc45"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/categories/changes.json"
@@ -1260,7 +1260,7 @@ hash = "d430306e3b12a93e2d8ad0316ebc64d4a7e393bdd3514810dfeec018ab32d6a9"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/astronomical.json"
-hash = "f8ff29acf36af8021d4f80534f88481411d40ab3460ce468cc5df1bd96a18c42"
+hash = "cbc73c619cd887c243964e8bdda67bf8800df91ebcd46c42bce69db56bccdca3"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/balance.json"
@@ -1269,6 +1269,10 @@ hash = "590d2d16e93668603a4a4ad379c44e2dfff79053915d3c31c44433778d73b334"
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/disabled.json"
 hash = "77c667bb34dc3de18ffcc660a5d8cd19fac436d2e90be55dd947bd6e4671212f"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/changes/fabrication.json"
+hash = "11fe4cc231695274aed80eef7ecdf183824754896ef8f6fcb39cdccd1ed1941d"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/changes/fixes.json"
@@ -1312,7 +1316,7 @@ hash = "1a01269501f9cc752a66fcaeb12bf7bfb659308201126004af6d1dd2647c1a94"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/constructs/accessors.json"
-hash = "3f58e4a56608ae8c13d29cb4126a867a60cdc3481640ec2c98d10bbc0a95fb9d"
+hash = "a63865436f17cb61048a12fbf14ec85d7e121e882dbd68e625f7f214e0690439"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/constructs/natures_compass.json"
@@ -1320,30 +1324,38 @@ hash = "5d99aee04a5dd8a0e68f00f7738a87b0ffdd11b51fe803b970e1981515254b0e"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/constructs/packages.json"
-hash = "fcf7cf2575f36f9e8f22d91d555285c4e9b4083f35eb93ebee0deab48f7cac14"
+hash = "afeb700311035e08a500930009e64bace7800d84d3b75770f3efda4d797dfe3f"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/constructs/time_in_a_bottle.json"
-hash = "a08cc09f8d60a28cc1af5f39e85d0257b552f34d6415b0a801d84325714ac684"
+hash = "b519fef769a3fa7f5e264e7138eff15167cf85e4ea77ed46451ffe87a448fb7c"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/constructs/yttr_centrifuge.json"
+hash = "7dc76b2c483552445f399190f7c95df6547bca9ce0645abecd035b7b8c10b734"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/constructs/yttr_rifle.json"
+hash = "7dc76b2c483552445f399190f7c95df6547bca9ce0645abecd035b7b8c10b734"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/discoveries/gaia_spirit.json"
-hash = "36c9908a89bbb556f2c71002bf47aceb5dd9f368710578ee3f30be2e5c2fa236"
+hash = "fbcfe2d9ab55b72771df2d06ee1d936068558be07b1aa1f0d096cf2395808758"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/discoveries/luminous_pearl.json"
-hash = "c5e1fc0519089274abe681d77c468df487a9720d7e34f49df7569eda17346870"
+hash = "490a6c6cf01b6dcb1a36511c590dbd0377e865072e0ab03f26f8dfd4a23d23bf"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/discoveries/resource_painting.json"
-hash = "0f3a26464da3018aac6579f2016b2136863bd3add431961dfd881fcb5a87bc31"
+hash = "df62b75a5400d3fa240dc20deb0bca909fc6521852d608372c67c40f4e429f8e"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/early_blaze.json"
-hash = "dd53e2e0029af050c95ae7b2997b9332976cd6cf6b0a0195a65a1f5b2543f51d"
+hash = "1f0e20e0927e2ba90c715c9a91f471ff7877019773090f0245d6e0a8a65fbfe1"
 
 [[files]]
-file = "patchouli_books/spectral/en_us/entries/phenomena/meteors.json"
+file = "patchouli_books/spectral/en_us/entries/phenomena/meteors.jsonx"
 hash = "1b37278aca6d08e9c07c9d84e4ea98fc3282d5a07d193a959c90fa474d1425fd"
 
 [[files]]
@@ -1352,7 +1364,7 @@ hash = "3aab8de7c59b091f694b4c78bb171d847c23376ac4d1e9b7880fd9747a50bb89"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/botania.json"
-hash = "2d7d79b6fe426c34924a15dbaf2ffa824730c11eecf55c530d96387e6a41ba21"
+hash = "0b4929cfc74b959626ff9cf6cbe90e8975c3100d5b1bfea12dff14624bbdc5ce"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/botania_three.json"
@@ -1367,20 +1379,24 @@ file = "patchouli_books/spectral/en_us/entries/progression/create.json"
 hash = "9bfdff67284910177f65c292afdad21e4af16b5e9d4a593ed64cfddcb6c25506"
 
 [[files]]
+file = "patchouli_books/spectral/en_us/entries/progression/hex.json"
+hash = "4873a9d52b82a2501b0a861d8e8c9382ef9153322d066d423babf44d2b066687"
+
+[[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/spectrum_cmy.json"
-hash = "22b39a1fb5590b5c2a1493469160366e9e0fcfe497c0c6fa85f0f03857bbd2ed"
+hash = "2e627128f535154b7df03b7055df30bb931504c3c89a81b0e9fa2bbc07203c91"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/spectrum_k.json"
-hash = "bc9d29b6c74de1ea22f9b3a46b9b6354290ea636e4bef92fdc9edd46982f96fe"
+hash = "e098dabf41f0f7762ca7b0c45bff7d3a02bc7554994bf8706a44116264d4d0cc"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/progression/start.json"
-hash = "4b1c1e714808f171506cd531a4fe73c577b7fe70f2c063a906c527c50b401ed3"
+hash = "676a3a3d27afcb91e8bd14f05b6e8d6b2fca6878284f82a95fd593dc38f421f0"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/vein_miner.json"
-hash = "6da2db2153eba5c418c848933c290d5e50a9ea1c67b7e4d9324a655147dc2ab0"
+hash = "5f5c72a212689cb787f5e9e5d85640c42a757c80d1df43a5e0a13069542f6218"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/botania/lang/en_us.json"
@@ -2391,14 +2407,6 @@ file = "resources/spectralarity_resources/assets/hexcasting/lang/en_us.json"
 hash = "849125067fdf931c84471a710003ba185945c25472fa2a9dc9b486c05bfe57dc"
 
 [[files]]
-file = "resources/spectralarity_resources/assets/minecraft/sounds.json"
-hash = "1b59cc32a8d0249acda024a463c8b699108892465995bbbcb2d4a55103fc3704"
-
-[[files]]
-file = "resources/spectralarity_resources/assets/minecraft/sounds/music/radiarc_gazing_through_a_window.ogg"
-hash = "36fcc999528a77f14649f794efcb09828d622c0b308da16fc8997f79296c73b1"
-
-[[files]]
 file = "resources/spectralarity_resources/assets/minecraft/textures/gui/accessibility.png"
 hash = "d3399f287c389ce135bb6d6a66f8350e80f397ab5e15533c686e6425fc499524"
 
@@ -2432,7 +2440,7 @@ hash = "bca3706d4b1bba8114610a05624a3fe8ab557cab0ca1372bbac1f360831154f7"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/spectral/textures/gui/spectralarity_logo.png"
-hash = "e03216c5466a2b2e1775e7d570e90d0e2a4f8023f16a63e2b859eef91aafdf36"
+hash = "f9479d23cdf4e6b3f6d5e5712de973dbddb917b39b368e1cbec53058b6957e07"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/yttr/textures/item/diffractor.png"
@@ -2451,12 +2459,84 @@ file = "resources/spectralarity_resources/data/botania/recipes/corporea_spark.js
 hash = "9d5cf3662f990a562f00ccb499a1708e1560e6a53342452e8cebcdd26c6ad532"
 
 [[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/flighttiara_0.json"
+hash = "cb33b470daad131a35372236299a04e199751ca7a3166c217107c2e7c29f5325"
+
+[[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/orechid.json"
 hash = "75c96d4d25049c894b7f336aab4226c82a965dc28cacf30b7da82648aae75b96"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar.json"
 hash = "3f6932e5f61b4180d4565ba192b42eec069a7d71b18d154ab68444b55afa9786"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/air.json"
+hash = "c83f4411ecda339f153ce362774460729d5431cddabb5be7cc805f8ac49ef0fa"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/autumn.json"
+hash = "d69e87a1f38e3f7581486d85ed45cb22921c265e3a04e160c625186ddea13d73"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/earth.json"
+hash = "4a5b12c6362827fca0363eded5d218439b89404c05ad85ef55b80619e9754670"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/envy.json"
+hash = "3a4a130953c284fac842c83812f62600c0b3d4320ebad01d407f15539bbb754a"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/fire.json"
+hash = "61296c52c40072376db78171b1dce12d10f2fffe9491d800e650a7432c3fd971"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/gluttony.json"
+hash = "8db42728f0492501565ecc73f870b0d36fb4fd8c0232103aae58defb31a0fe63"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/greed.json"
+hash = "3083a1d860ad16b0c8e013431a3c2523fb6a8296ecdb40a189db310772276113"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/head.json"
+hash = "dee8db8789943a60cdacacdcd3c118b63aae9526859245312032251fd546ce5a"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/lust.json"
+hash = "03124c682096aaa5cc099e2a5e2175c164afb65e22f4771d368542ed361d3f16"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/mana.json"
+hash = "2a9d5532623704f58306704ff2b14d972ad23c9f1af2cace66d6f44c62e60bcf"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/pride.json"
+hash = "ee5c5028284a51c8a35bb503286adbc14209113a9e06659bb4787a56db7002e0"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/sloth.json"
+hash = "f4c1c877aaf6187d94369e49c21868bd431ec5b94e5a0729f0e15601c9abc9aa"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/spring.json"
+hash = "847032e753378e50a5cd62b2e1d5bfef101242559c2000371d8ce463e251e72c"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/summer.json"
+hash = "3545d5e1c405212c926928b41d295e29fd99f6eaa9c0a6b1c04c764926d6a887"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/water.json"
+hash = "a6a4c50d14ff7a3120a17cfd62e0fc1ed7d9e881a11e6677351f01dc6429e671"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/winter.json"
+hash = "2cb8a5f80f6b48b14cd457f40c4a659e32ab3d0e66cbd3664f2b52e347be85d6"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/wrath.json"
+hash = "5d818dd8e47d8985c67b19565d76088d37af7221edb93406db21969041f043a0"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar_alt.json"
@@ -5371,8 +5451,12 @@ file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shri
 hash = "ee55c942c1f77716ed0cdcfca2df2e42d0f28fb2e6e8ba5e3b4a226b64f50b0e"
 
 [[files]]
-file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/resource_painting/gold.json"
-hash = "824111b2fd4c410ae682def672376b8140ebd78798be1f034b66512b5079545e"
+file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/resource_painting/paint_iron_to_copper.json"
+hash = "ccae2070c9a80f083827cf86d2067344ea29efc5b02606c9544b463db4b9e7dd"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/resource_painting/paint_iron_to_gold.json"
+hash = "6bac8e55aaba4884f3941208475428dfc2f5f14807396e585b66eac0962596d1"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/resource_painting/paint_terrasteel_pink.json"
@@ -5413,6 +5497,10 @@ hash = "69b7512d59932d18a49bb0c6cea7df55c96d601e5fc799058fc5ae26e285bdf1"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid_ignem/stratine_ore.json"
 hash = "c50ea4bde7f2bd34e8c0a2f125663f42871759fc52f46a3cd7930f4c01b005c5"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/potion_workshop/ender_air.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/pure_daisy/nethertuff_to_tuff.json"

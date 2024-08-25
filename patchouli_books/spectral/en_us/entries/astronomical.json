@@ -1,6 +1,6 @@
 {
     "name": "Astral Aesthetics",
-    "category": "patchouli:features",
+    "category": "patchouli:constructs",
     "icon": "astronomical:astral_container",
     "secret": "true",
     "advancement": "spectralarity:unlocks/marshmallows",

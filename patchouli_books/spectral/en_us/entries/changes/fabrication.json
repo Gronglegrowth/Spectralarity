@@ -1,0 +1,46 @@
+{
+  "name": "Fabrication Changes",
+  "category": "patchouli:changes",
+  "icon": "spectrum:guidebook",
+  "pages": [
+    {
+      "type": "text",
+      "text": "  This lists all enabled Fabrication options, organized by category."
+    },
+    {
+      "type": "text",
+      "title": "General",
+      "text": "$(li)\"Fixes\" category enabled (incl. Extras).$(li)\"Utility\" category enabled + Chat Markdown and Show Bee Count On Items from Extras.$(li)\"Tweaks\" category enabled."
+    },
+    {
+      "type": "text",
+      "title": "Minor Mechanics",
+      "text": "$(li)Cactus Punching Hurts$(li)Crawling$(li)Fire Aspect Is Flint and Steel$(li)Furnace Minecart Accepts Any Fuel$(li)InfiBows$(li)Mechanism Muffling$(li)Note Block Notes$(li)Spreadable Moss$(li)Unsaddle Creatures"
+    },
+    {
+      "type": "text",
+      "title": "Mechanics",
+      "text": "$(li)Anvil Repair$(li)Bottled Air$(li)Toggleable Furnace Carts$(li)Wool Protected Sheep"
+    },
+    {
+      "type": "text",
+      "title": "Balance",
+      "text": "$(li)Anvil No Level Limit$(li)Anvil Rename Always Costs One$(li)Disable Prior Work Penalty$(li)Drop More Experience On Death$(li)Environmentally Friendly Creepers$(li)Anvils Take Damage Only When Falling$(li)Anvil Fully Repairs$(li)Anvil No XP Cost$(li)Disable Mending$(li)Disable Mending Trade$(li)Ender Dragon Always Spawns Dragon Egg$(li)Full Ender Dragon XP$(li)Tools In Bundles"
+    },
+    {
+      "type": "text",
+      "title": "Weird Tweaks",
+      "text": "$(li)Chaining Creepers$(li)Crunchy Cake$(li)Drop Experience With keepInventory$(li)Deja Void$(li)Creepers Explode When On Fire$(li)Villager Trades Reset$(li)Villagers Follow Emerald Blocks"
+    },
+    {
+      "type": "text",
+      "title": "WOINA",
+      "text": "$(li)More Explosion Particles$(li)Void Fog Particles$(li)Yellow Button Hover$(li)Void Fog"
+    },
+    {
+      "type": "text",
+      "title": "Pedantry",
+      "text": "$(li)TNT Is Dynamite"
+    }
+  ]
+}

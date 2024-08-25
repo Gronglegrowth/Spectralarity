@@ -8,13 +8,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  Hidden ores are one thing, but what are these? A variety of flowers in stunning hues that you don't remember seeing before. Surely they're of importance."
+            "text": "  Hidden ores are one thing, but what are these? A variety of faintly shimmering flowers in stunning hues dot the landscape that I don't remember seeing before. Surely they're of importance. I should gather some specimens for examination."
         },
         {
             "type": "patchouli:text",
             "advancement": "botania:main/flower_pickup",
             "title": "Mystical Flowers",
-            "text": "  On closer inspection, their vibrantly-colored petals teem with magic, waiting to be used.$(br2)  This strange book that appeared in your hands might provide the knowledge you need to tap into that magic."
+            "text": "  On closer inspection, their vibrantly-colored petals teem with magic, waiting to be used.$(br2)  This strange book that appeared in my hands might provide the knowledge to tap into that magic."
         }
     ]
 }

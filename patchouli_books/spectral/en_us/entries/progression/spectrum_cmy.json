@@ -8,13 +8,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  That gemstone table of yours is able to be improved, with all three shards and a pinch of that blue powder your flowers have granted you. But to what end?"
+            "text": "  That gemstone table I've been working with is able to be improved, with all three shards and a pinch of that blue powder my flowers have granted me. But to what end?"
         },
         {
             "type": "patchouli:text",
             "title": "Pigment",
             "advancement": "spectrum:collect_pigment",
-            "text": "  This is color in its purest form. Such a resource will be invaluable, you're sure of that."
+            "text": "  This is color in its purest form, and harbors latent energy within. Such a resource will be invaluable, I'm sure of that."
         }
     ]
 }

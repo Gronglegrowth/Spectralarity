@@ -4,18 +4,17 @@
     "icon": "spectrum:onyx_shard",
     "turnin": "spectralarity:collect_void",
     "advancement": "spectrum:build_fusion_shrine",
-    "secret": true,
     "sortnum": 6,
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  You have heard rumors of a second layer to the nether. Might there be something useful up there?"
+            "text": "  I had heard rumors of a second layer to the nether before, and I remember in a half-forgotten dream that it was shielded by a layer of impenetrable rock, hiding something of immense value once pierced through. Could that be true of this world? What treasures await me?"
         },
         {
             "type": "patchouli:text",
             "title": "Liquid Void",
             "advancement": "spectralarity:collect_void",
-            "text": "  Indeed there was, and the Void you collected is surreal to behold."
+            "text": "  While incorrect in my assumption that the realm was capped, there were indeed constructions up there - some harboring a strange substance that reminds me of the void..."
         }
     ]
 }

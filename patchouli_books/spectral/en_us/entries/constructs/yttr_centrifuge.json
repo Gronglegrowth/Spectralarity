@@ -1,0 +1,17 @@
+{
+    "name": "Centrifuge",
+    "category": "patchouli:constructs",
+    "icon": "yttr:centrifuge",
+    "advancement": "yttr:obtain_yttrium_ingot",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Yttrium continues to have rather curious applications. You've devised a Centrifuge from it, which can break things down by spinning them very fast - as one would expect. It, like a furnace, requires fuel."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "  Shown here are many of the things you can process in the centrifuge."
+        }
+    ]
+}
+

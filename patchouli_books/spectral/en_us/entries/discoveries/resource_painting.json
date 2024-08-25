@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  You were told once that, through some form of long-lost magic, people could turn iron into gold. You may not have the faintest clue how those practitioners of old did it, but you may now have your own way to do just that - and more.$(br2)  Recalling your old experiment with terrasteel, you've taken the core idea and produced a method of painting that is able to alter something at its most basic level."
+            "text": "  I read once that, through some form of long-lost magic, people could turn iron into gold. I might not have the faintest clue how those practitioners of old did it, but I think I now have my own way to do just that - and more.$(br2)  Recalling my old experiment with terrasteel, I've taken the core idea and produced a method of painting that is able to alter something at its most basic level."
         },
         {
             "type": "patchouli:text",
-            "text": "  Iron, being both so perfectly mundane and rather white in color, proved a wonderful canvas on which to bring other, more colorful metals into being. So far, you've discovered you can only do this with nonmagical materials - copper, gold, yttrium, and similar. You may find a way around that problem yet."
+            "text": "  Iron, being both so perfectly mundane and rather white in color, proved a wonderful canvas on which to bring other, more colorful metals into being. So far, I've discovered my process only works with nonmagical materials - copper, gold, yttrium, and similar. I may find a way around that problem yet."
         }
     ]
 }

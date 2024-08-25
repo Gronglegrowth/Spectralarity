@@ -6,11 +6,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  You have instructions from that strange green book to summon some apparition that the elves say represents the embodiment of nature, and that you must \"prove yourself\" by slaying it. Supposedly, this will allow you to achieve the pinnacle of the botanical arts. But something about it makes you... hesitate. What if you don't want to fight?"
+            "text": "  I read an entry from that strange green book telling me to summon some apparition that the elves say represents the embodiment of nature, and that by slaying it, I will \"prove myself\". Supposedly, this will allow me to achieve the pinnacle of the botanical arts. But something about it makes me... hesitate. What if I don't want to fight?"
         },
         {
             "type": "patchouli:text",
-            "text": "  Up til now, you've been quite satisfied with constructing ever-elaborate contraptions with flowers and red math dust, with not a thought in all the worlds about a trial by combat to further your study. This sudden shift in tone feels wrong - you won't do this! You'll find a way to avoid this conflict if it's the last thing you do, the intended path of advancement be damned. And with the knowledge you now have from your findings Deeper Down, you just might have a way...."
+            "text": "  Up til now, I've been quite satisfied with constructing ever-elaborate contraptions with flowers and red math dust, with not a thought in all the worlds about a trial by combat to further my studies. This sudden shift in tone feels wrong - I won't do this! I'll find a way to avoid this conflict if it's the last thing I do, the intended path of advancement be damned. And with the knowledge I've gained from my findings Deeper Down, I just might have a way...."
         },
         {
             "type": "spectrum:fusion_shrine_crafting",

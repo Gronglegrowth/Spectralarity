@@ -6,17 +6,17 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  As it turns out, the luminous pearls you've been able to make possess... interesting properties when combined with the essence of MATTER and TIME. One of your experiments proved rather promising, allowing you to access one of your chests from far away. You've built upon the idea, forming a housing to allow the pearl some measure of stabilization."
+            "text": "  As it turns out, the luminous pearls I've been able to make possess... interesting properties when combined with the essence of MATTER and TIME. One of my experiments proved rather promising, providing access to one of my chests from far away. I built upon the idea, forming a housing to allow the pearl some measure of stabilization."
         },
         {
             "type": "patchouli:text",
-            "text": "  To use this device (which you've named an Accessor), it must first be bound to the block you wish to access with it, obviously. Simply sneak-interacting with it in hand is sufficient. However, Accessors can't be used forever: the link between it and the block is imperfect, and loses calibration the more it is used, requiring it be linked anew.$(br2)  You note that not all blocks can be linked."
+            "text": "  To use this device (which I call an Accessor), it must first be bound to the block one wishes to access with it, obviously. Simply sneak-interacting with it in hand is sufficient. However, Accessors can't be used forever: the link between it and the block is imperfect, and loses calibration the more it is used, requiring it be linked anew.$(br2)  I note that not all blocks can be linked."
         },
         {
             "type": "spectrum:pedestal_crafting",
             "recipe": "calibrated:novice_accessor",
             "title": "Pedestal Recipe",
-            "text": "  Now, the first design you've come up with is rather fragile, losing its calibration after a mere 3 uses, but you're sure ideas for refinement will come in time."
+            "text": "  Now, the first design I've come up with is rather fragile, losing its calibration after a mere 3 uses, but ideas for refinement will come in time I'm sure."
         },
         {
             "type": "spectrum:pedestal_crafting",
@@ -30,7 +30,7 @@
             "recipe": "calibrated:expert_accessor",
             "advancement": "spectralarity:unlocks/expert_accessor",
             "title": "Pedestal Recipe",
-            "text": "  Augmenting the accessor with rather exotic resources allows it to access blocks 15 times before having to recalibrate. You feel as though this is the best you can do."
+            "text": "  Augmenting the accessor with rather exotic resources allows it to access blocks 15 times before having to recalibrate. Something tells me this is the best I can do."
         }
     ]
 }

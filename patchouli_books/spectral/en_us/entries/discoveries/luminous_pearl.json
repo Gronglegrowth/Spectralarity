@@ -6,13 +6,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  Curiously, shards of an ender pearl can be fused with energy to create a set of luminous pearls. These things radiate pure light, and unsurprisingly prove excellent in the warping of it, which has already made you think of how best to put them to use."
+            "text": "  Curiously, shards of an ender pearl can be fused with energy to create a set of luminous pearls. These things radiate pure light, and unsurprisingly prove excellent in the warping of it, which has already spurred my mind to think of how best to put them to use."
         },
         {
             "type": "spectrum:pedestal_crafting",
             "recipe": "exco:luminous_pearl",
             "title": "Pedestal Recipe",
-            "text": "  You have a feeling Shimmerstone isn't quite the best for this process..."
+            "text": "  I have a feeling Shimmerstone isn't quite the best for this process..."
         },
         {
             "type": "spectrum:pedestal_crafting",

@@ -1,0 +1,24 @@
+{
+    "name": "Meteors",
+    "category": "patchouli:phenomena",
+    "icon": "spectralarity:meteor_stone",
+    "advancement": "spectralarity:collect_meteor_stone",
+    "secret": true,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  It seems the End, too, has new things to find. Large meteors of smooth, black rock unlike any you've seen before speckle the static sky.$(br2)  Their origin is unclear, but you feel they're not native to the End."
+        },
+        {
+            "type": "spectrum:collection",
+            "title": "Meteor Stone",
+            "text": "  Strange rocks dark as night and eerie as all things Ender, despite probably not originating there. You can shape them into several decorative blocks, and, like basalt and calcite, smelting them allows them to be shaped anew. The starry variant emits faint light."
+        },
+        {
+            "type": "spectrum:collection",
+            "title": "Unknown Technology",
+            "advancement": "spectralarity:collect_meteor_template",
+            "text": "  These templates, hidden within the cores of meteors, can likely be used to press metal sheets into much more refined forms - and rather helpfully, they can be duplicated and crafted into each other.$(br2)  They are made from a metal you've not yet seen, intricately machined with geometric patterns, and on the corner of each is inscribed \"ME Systems, Inc.\"."
+        }
+    ]
+}

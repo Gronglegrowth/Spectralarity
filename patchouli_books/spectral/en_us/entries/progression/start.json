@@ -7,13 +7,13 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  So you've awakened in a new world, one teeming with mysteries. Where can you find the - likely crystalline - materials you need to meaningfully begin to understand them?"
+            "text": "  I find myself in a new world, one teeming with mysteries. Surely there are materials - likely crystalline - that I can leverage to meaningfully understand them. Where might I encounter those?"
         },
         {
             "type": "patchouli:text",
             "title": "Gemstone Shards",
             "advancement": "spectrum:collect_all_basic_shards",
-            "text": "  Lurking high in mountains, sealed deep in the earth, and embedded in the middle of the world, these strange shards lay shielded away, fresh for the taking. With these, your understanding of the world and the forces that drive it can take shape."
+            "text": "  Lurking high in mountains, sealed deep in the earth, and embedded in the middle of the world, these strange shards lay shielded away, fresh for the taking. With these, my understanding of the world and the forces that drive it can take shape."
         }
     ]
 }
