@@ -1,0 +1,17 @@
+{
+    "name": "Pipe Facades",
+    "category": "patchouli:constructs",
+    "icon": "yttr:centrifuge",
+    "advancement": "spectrum:collect_all_basic_shards",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  While watching items travel through my pipes may be satisfying, the aesthetic of piping all over doesn't fit in every build. Simply... sawing apart blocks into smaller pieces, as if to cover them, proved to be the solution. Small enough \"facades\" can cover the pipes well, and cutting holes through them lets pipes through, too."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "  If I am feeling creative, I can surely also use these for intricate decor pieces."
+        }
+    ]
+}
+

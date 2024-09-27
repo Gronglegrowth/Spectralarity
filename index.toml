@@ -5,8 +5,8 @@ file = "Spectralarity Changelog.txt"
 hash = "0387e31a2eba2eb54371dab88e3356356eab863ca9ae2f3797e0ebe2f5801647"
 
 [[files]]
-file = "Spectralarity Credits.txt"
-hash = "0300733d9b8d15a91ad731758b842741815cdae61dc8df69e13a28d36b7580f7"
+file = "Spectralarity Credits.md"
+hash = "60e165b5f7afefb1c2ca60890b7c612b147c177cff22a0fb1dc09b8d572e9033"
 
 [[files]]
 file = "config/Adorn.json5"
@@ -38,7 +38,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/PaginatedAdvancements.json5"
-hash = "d24f5a5da52f9ab10562a444dec5336466945210dcf9d098c5158e1ec239cb4d"
+hash = "b406c76c90713b476e7ce9e6469e44e506dd6c0c137b9c88de509ca01d1658f7"
 
 [[files]]
 file = "config/Revelationary.json"
@@ -50,7 +50,7 @@ hash = "fa801695932155977cb11e1dca5132820925396acf41d10f05488bc052966700"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "8a2c22f9146348ae279d025975bcebf04cb355196bca73e45a5273d1f22dceee"
+hash = "e7e823f0a5c36651f9460316a3653f7aadd0cbbe7ce26985189b3bf5f5d8e2f6"
 
 [[files]]
 file = "config/StarrySky.json5"
@@ -125,6 +125,18 @@ file = "config/create-server.toml"
 hash = "e0a68c671cfa2ea9c134d88d625ad05319b0c80555b14715cbc91a41884dcbf9"
 
 [[files]]
+file = "config/create_new_age-client.toml"
+hash = "f231448f6be3eadfcc13545b90915434692d43159803424f635d5790b0b5e4ae"
+
+[[files]]
+file = "config/create_new_age-common.toml"
+hash = "d5369037e869af0a1403f76fb04c19b696c025f9f0a608db8b174fafd42ce8c8"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "bf77bf5eb7aa32b47214593f6c53e7f884b897dabf290ebf39e1e1a08e6e9107"
+
+[[files]]
 file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
@@ -146,7 +158,7 @@ hash = "a392f21c17c54d31ece781c3d8d74c51d9e18d957bb22cf9bfe6494dff16979e"
 
 [[files]]
 file = "config/emi.css"
-hash = "d0625a6940fca3e8dd1b248baf3e6bebc6853272b0b0087b02e428826ac99148"
+hash = "37ab57242a90f597830dbe927cdbf0eb83a5baa3b9f3655954320821ac638f65"
 
 [[files]]
 file = "config/emitrades.toml"
@@ -170,7 +182,7 @@ hash = "10d4bd0be8a3b7909425f87588a82f85ef4eb5c78bdf72bea2779c96e1fb11f6"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "db1c1c726534fcdc0009ab363f3999bc9bd7e8cdbdc5be28c6c7debf4336fb95"
+hash = "64f3b21512ce87a98badd6172d7221f814b7e88cde4e04e2b779be89e446a0b3"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -190,7 +202,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "3b49f801e6f54088d52914cc9109225556c960eeb173decc31f4e14b32547461"
+hash = "3745eb60ed7cfa8ab7f05d50aba124d0053d797692633cec83e72842387ac09b"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -217,6 +229,54 @@ file = "config/fallingtree.json"
 hash = "16126a2a7216371ed69d0c43d242476e34eba6a6ed8179d56d9c7fc453bda043"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "229ee0e54fa6194335d780da66662824e98848ba463cf7915273017e62bb6678"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/spectralarity_main.txt"
+hash = "eca7968b5987389f40e5be6695e71402c919ca844cc1feccc5a5c18d171899b7"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
 
@@ -227,6 +287,10 @@ hash = "23e18dec9694244399daa3557acd55b2f8b15546b3a461460f452a8c87185e4c"
 [[files]]
 file = "config/flywheel.json"
 hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "config/gravity_api.json"
+hash = "32f1c0cfbd62254a552c4f06e4de2265b728bbaa95fb1bfe9e95b50d67948301"
 
 [[files]]
 file = "config/hexal/client.json5"
@@ -242,7 +306,7 @@ hash = "30fd9bc456ce2f64aa0f0618b9fe3856478109a8e4c3518156e4247b759fd312"
 
 [[files]]
 file = "config/hexbound/config.toml"
-hash = "7cb7ef704c3846a1c55e7010e2097c7e99927b3f32e0e596ea532d7eb0e32c8f"
+hash = "17298c91c2f0c27d4237f5dbff61306aef4b20f8cfd8ed173fbde78f0a671bed"
 
 [[files]]
 file = "config/hexcasting/client.json5"
@@ -326,7 +390,7 @@ hash = "f9dfd6f86509750e326c6dbc36f21734e0cc4b4f57b07a44e209b0d47f0f462e"
 
 [[files]]
 file = "config/ironchests/defaults.properties"
-hash = "7b6849234a800aaa62c07e1fc6d9f1e3836174844340049b07bc8de4899c3e1b"
+hash = "9570361a2f59ec831ab29acacc472042aab1b786c578fab2379c82e5c5b8ad09"
 
 [[files]]
 file = "config/ironchests/upgrade_types/copper.json"
@@ -381,6 +445,10 @@ file = "config/libgui.json5"
 hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
+file = "config/libnetworkstack.txt"
+hash = "6cffb9f5852113311346ef545fa463584d31970b93e05b11880f54ed40a881ca"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
@@ -402,7 +470,7 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "30f7ccab7e3b513d9cea799620274cfb44f601c2fd3957f85851bac36e3b7208"
+hash = "6ed5334915d6f2a14fba540812dd673ef814e08780e509a0e64649c97db4bded"
 
 [[files]]
 file = "config/modmenu.json"
@@ -410,7 +478,7 @@ hash = "6132aa9cddaf0ee379d07f90303703622ffef811763c68ff8146255eb79c942b"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "67e1a3ce6db7a0c2eaeb3235b724a037fcf944b06b8f10d5c5581a2f0ba2886c"
+hash = "9a817db13a7ca9a89e5dd5a134b4e6cc3070c31d5be517c2bcefd3c1ef775a4d"
 
 [[files]]
 file = "config/naturescompass.json"
@@ -426,7 +494,7 @@ hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
-hash = "1ef30ac7880d323758e7b2b0c54abb6137f1272e5ecb4f6b0217a938f6c77f89"
+hash = "4f3682fcfef4d0e7c4e3d9212db79feb09ccad9864a7d2cd104a6d454113f564"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -486,7 +554,7 @@ hash = "d8cb9ea2a84220a06d663430f4b335a7ce5209d081b3aabfcb7dbf9c9485ee0e"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
-hash = "c3a0cbcf8278e4fb6fd5b8629fc2582a3d48d969ebb05fb42b5f4e39165686d2"
+hash = "4d397cde33eb9c53b8670d6c4295adb3de0484580c152beaa24fa3d743aa6617"
 
 [[files]]
 file = "config/reacharound.json"
@@ -514,19 +582,19 @@ hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "e650ff80c7c7dacdea0b89f0631392b74a0560959a441b9a082c8cd47ab58d31"
+hash = "ab5b88ce9dc7474308fe382749464c38b9be08fb0966dd50a64bb9b66089f940"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "7a586b12b6b73953e602c19fdf57eb783534510feb1c6ecbd050b9f4d22da5fe"
+hash = "ead89b018aab63bc303bfab14d204a2e6bf71eb2dddc199120053e3528595de4"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "2a0e823ebb90bc4cfffa5e40885292e3d70ff5c0306ddefd40936243fde6c17f"
+hash = "daab12dde39b0bcc70d841ca4f4e37013d6d9c12ba123566a7f39b464d05caa9"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "0841e77aec188a95510ba3290d862338cc8775b58cb3ca9e6d8417194d375d82"
+hash = "97ef74593212b99bde579047d74eb2a9a3cec0339b4844037ae9dcfe42ef4ebf"
 
 [[files]]
 file = "config/spark/activity.json"
@@ -674,11 +742,11 @@ hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "fc2be62b358d5ead72448c325fcdff9b156172189d40f74dec2ceeb040f0612c"
+hash = "45d6841d00290aade914b5e78bbee6fa96f399bee3a3db918c5bf15f1c6f9bd3"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "6fe034cd129c417c659ce792f40716c84f9b2bc397b42b0bc71db5fe04f04f69"
+hash = "068ed1c7ceccdab5a3d75f21e286776cb3d56c1c74c0dee66891c630318f75a9"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -690,7 +758,7 @@ hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "8551baff31c5f6577ef3adcc4eddab245c87a52cb9318b98ff229e890d9d0291"
+hash = "d96be57df22cbefb870049bceeb00d8f6f61b46f1d20573193f0514983cab2f2"
 
 [[files]]
 file = "config/yigd.toml"
@@ -732,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/astronomical.pw.toml"
 hash = "6859c4c80af9f61babc2dd7ce05baa471c17914c083c46ee46d92424f6a6f974"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "932dc2dde4defd1618e143d2c12807c6b75eaa29c26c480051303441299107a7"
 metafile = true
 
 [[files]]
@@ -1100,6 +1173,11 @@ hash = "8c0300d4de7a978c04fdc62b12db262a9850c4aaf1371c6ad7b80c64de44bc3b"
 metafile = true
 
 [[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "bbae8b27876b57c3b4beef8848fa34b0ab7edf85fead4fe36b5746d2a518fea0"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d3feed0d760f543ad663258012c0f6a152b2fdac60cefb13346e69d84d6b8332"
 metafile = true
@@ -1117,6 +1195,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "1e07a7baa1fd266dffb6111da02dcefb9efa852beb451fa66a40317857092348"
+metafile = true
+
+[[files]]
+file = "mods/spectral-decorations.pw.toml"
+hash = "6a6578438d1ce16b811691c8da7099ca82d3ed1e8a18f61b2f4ccc9377013638"
 metafile = true
 
 [[files]]
@@ -1235,6 +1318,14 @@ hash = "5cc0a4bdc2245793c2f6c7c6e3ae21bd577c65c56e01b55b3dcbd0be8cda5565"
 metafile = true
 
 [[files]]
+file = "moonscript/lua/common/recipes.lua"
+hash = "7cba89b65ec5e5f6e50fb7073a4017279b4b85b0383adacd3c8c20edfdc9509f"
+
+[[files]]
+file = "moonscript/lua/modules/pulsejet_recycling.lua"
+hash = "c8b3ccd2be4bc77c11b9926dd7afcb890e70861619fd391d6626ad351d5d7dad"
+
+[[files]]
 file = "patchouli_books/spectral/book.json"
 hash = "5d5f30e0030783f230ce10f78d48be4e28e08f35745b613c4e73a109da95bc45"
 
@@ -1327,8 +1418,20 @@ file = "patchouli_books/spectral/en_us/entries/constructs/packages.json"
 hash = "afeb700311035e08a500930009e64bace7800d84d3b75770f3efda4d797dfe3f"
 
 [[files]]
+file = "patchouli_books/spectral/en_us/entries/constructs/pipe_facades.json"
+hash = "cd3ddd1606a29da3dc2bcc18ee2aaa2991184dc12ea42441e92e316329729319"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/constructs/pipes.json"
+hash = "4c8b7ac90985986f475d7b0c7fcf79270d1c3476374198bad97e3c0486139422"
+
+[[files]]
 file = "patchouli_books/spectral/en_us/entries/constructs/time_in_a_bottle.json"
 hash = "b519fef769a3fa7f5e264e7138eff15167cf85e4ea77ed46451ffe87a448fb7c"
+
+[[files]]
+file = "patchouli_books/spectral/en_us/entries/constructs/triggers.json"
+hash = "e6c0e4f81c0daf194eff1624953abb2bfea2e1c92a81413fe88bf7d11636ffed"
 
 [[files]]
 file = "patchouli_books/spectral/en_us/entries/constructs/yttr_centrifuge.json"
@@ -5397,6 +5500,98 @@ hash = "4edfe571859bd5980f94b7b594290ae018dda9649807a40c40f2d94e2079e1f5"
 [[files]]
 file = "resources/spectralarity_resources/data/naturescompass/recipes/natures_compass.json"
 hash = "57c4344ae8cb4e9275e32d58a87d73e02820d487560c11f91a51f1f24b4b12a0"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_clay_fluid.json"
+hash = "a964881c7a9571881ff2da8380a8e7e9277d191124f949124854d6a9fef3e95a"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_clay_item.json"
+hash = "85913a46b4e2a43ac8eea5096a6d19ebfa7bc92a4e9f0a75883a3a2eb0adcf2d"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_diamond_item.json"
+hash = "9c6965b884bb2b5ea50f1ec67d645fa1baed14899e07cdec750a18609c43733a"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_gold_item.json"
+hash = "29e5281d0a4a5ddc58a1b3aaba552a05657f7eedb79488c1e20896617c0f001c"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_iron_fluid.json"
+hash = "b0b86e8d923b4ec0a5837934d989ff00b3a842f39b25f09dc43b86a5ad1d293e"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_iron_item.json"
+hash = "1c6a1d114c0bb63dfdb2cd97aeebc641e4cc25ae310bd08f4cf6669a6ab2447e"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_sponge_fluid.json"
+hash = "6caf474c753f85fa4fa58fe3ca2f42274104602dc3395a8b023c13d401004496"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_stone_fluid.json"
+hash = "839ea292548036c79fe4deb25b5ba8052e3917e8ed28f72683c537558968428d"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_stone_item.json"
+hash = "c37194c443ccf44e8c7a53a298898a732cfdadd5ecd4c6fe1d879aa9e2560563"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_wooden_fluid.json"
+hash = "f8839d4b135d5e7dfd9984249e474e86de6440bcdf7b258b829126a2375f25c4"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pipe_wooden_item.json"
+hash = "634cb4de105efd9b04b866224ee27f08e88cb9ce62cafd72d9f91bc0a6579175"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/pump.json"
+hash = "c54b99d97fa53ee629c81d3aceb2839d3314a0dfead35e78e03f063619137514"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/tank.json"
+hash = "da97b07037388ff1f49ac83c3b1a04f8e4a9035801c0d8d21a476fae7c080989"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_fluid_inv.json"
+hash = "38a75a2f6fb33c8b7259d51686e354a4a801f228e91155313f414c767b05521b"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_fluid_inv_contains.json"
+hash = "7ccb6f3ba8e20ca47f9f635313bb2b0a3ca31fe3c72b54e8af3f623dbf76733e"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_fluid_inv_empty.json"
+hash = "f9dc96409c8a4edbfbc290928efa49934763b27cb4e08230f12911b5f1b33fd1"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_fluid_inv_full.json"
+hash = "017177cd716723fad234263033cca6471e11f93214deef513bc47af3a706202c"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_fluid_inv_space.json"
+hash = "57fa3006bae8a48e379e4f1216f843263cb99526badf6f4dc32e9eebdca95440"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_item_inv.json"
+hash = "5b4bd206cfad698a6c1a03211eabaeaa3fae0d8e11aea5eb55593d2053db3af1"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_item_inv_contains.json"
+hash = "a55b76666f041c0c4ebce2928bc5b6e7666cd5a8dd35029366e86e2d1b5b75f0"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_item_inv_empty.json"
+hash = "aab0945ff55d451523e995ea158e383564fcb68b1b5c3d9c4ffc3f05c28208f5"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_item_inv_full.json"
+hash = "82eb7b284e1e6fc89ddf9ba578b974e55e2f6476bcda6cc5e80549ce5208a903"
+
+[[files]]
+file = "resources/spectralarity_resources/data/simplepipes/recipes/trigger_item_inv_space.json"
+hash = "71a20b08db8b53ab8d7ef098896091859ac589e1f592b0318f54416151601d66"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/advancements/find_pylon.json"

@@ -1,0 +1,10 @@
+{
+  "keepWorldLook": false,
+  "rotationTime": 500,
+  "server": false,
+  "worldVelocity": false,
+  "worldDefaultGravityStrength": 1.0,
+  "resetGravityOnDimensionChange": true,
+  "resetGravityOnRespawn": true,
+  "voidDamageAboveWorld": false
+}

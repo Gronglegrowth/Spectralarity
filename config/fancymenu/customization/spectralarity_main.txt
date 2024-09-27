@@ -1,0 +1,244 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-right
+  x = -102
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-right
+  x = -22
+  action = movebutton
+  y = 86
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-right
+  x = -102
+  action = movebutton
+  y = 38
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-right
+  x = -102
+  action = movebutton
+  y = 62
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-right
+  x = -59
+  action = movebutton
+  y = 86
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-right
+  x = -102
+  action = movebutton
+  y = -34
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-right
+  x = -102
+  action = movebutton
+  y = 14
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 228
+  action = deep_customization_element:title_screen_branding
+  actionid = d63b69e3-dcf0-4573-8584-a6fb69f1a26f1712825559126
+  y = 265
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 370
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 2ea585fb-47c9-462c-906e-37483f36ef631712825559130
+  y = 169
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 130
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = bd9c2e2b-4cb6-4187-b8fe-fb8e558c5e6a1712825559130
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-left
+  splash_color = #ffff00
+  hidden = true
+  x = 236
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 87321555-bc95-41d5-9486-03e658f05c231712825559130
+  y = 130
+  height = 30
+}
+
+customization {
+  advanced_height = 58
+  path = resources/spectralarity_resources/assets/spectral/textures/gui/spectralarity_logo.png
+  orientation = top-centered
+  x = -137
+  width = 274
+  action = addtexture
+  actionid = 4e54808b-69a8-4f75-9775-1508f8fb527c1712825617892
+  y = 28
+  advanced_width = 274
+  height = 58
+}
+
+customization {
+  orientation = top-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://modrinth.com/modpack/spectralarity%btnaction_splitter_fm%
+  x = -53
+  width = 50
+  action = addbutton
+  actionid = 8ee083ce-cdf2-4e0e-980e-ade30c5d223b1712828569343
+  y = 5
+  label = Modrinth
+  height = 20
+}
+
+customization {
+  orientation = top-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/VfGpvg3vXp%btnaction_splitter_fm%
+  x = -106
+  width = 50
+  action = addbutton
+  actionid = 8e7e06e3-fed0-460f-a7cc-36c44206fb171712828570564
+  y = 5
+  label = Discord
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Spectralarity v7d
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 1
+  width = 102
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = e7741e36-52d4-4b84-b770-44265c3fb3781712828912977
+  y = -23
+  alignment = left
+  height = 13
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Menu music "Gazing Through a Window" is (c) Radiarc
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -276
+  width = 275
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = be1fa839-30f7-45e3-9642-60b52f3fc59b1712835852212
+  y = -22
+  alignment = right
+  height = 11
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-right
+  x = -102
+  action = movebutton
+  y = 86
+}
+

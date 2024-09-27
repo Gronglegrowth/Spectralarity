@@ -1,22 +1,22 @@
 
 [client]
 	# Force Spider Construct to always use the alternative Robot model
-	# default: Optional[false]
+	# default: false
 	force_alternate_construct = false
 	# How many particles an activated Construct Broadcaster fires off
-	# range[0, 200]
-	# default: Optional[16]
+	# range: 0 - 200
+	# default: 16
 	broadcaster_particle_amount = 16
 
 [misc]
 	# Changes the required media charge for a Spider Construct Battery to fully charge (in amethyst dust units)
-	# range[1, 2147483647]
-	# default: Optional[50]
+	# range: 1 - 2147483647
+	# default: 50
 	spider_battery_charge = 50
 	# If a construct fails to get reasonably close to the target, it can try pathfinding to it again.
 	# Increasing this value will make constructs reaching their target more consistent, but can lead to trying to reach unreachable targets for too long, or cause lag.
-	# range[1, 10]
-	# default: Optional[3]
+	# range: 1 - 10
+	# default: 3
 	construct_pathfinding_attempts = 3
 
 [execution]
