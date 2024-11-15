@@ -1,0 +1,35 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "tag": "botania:petals/white"
+    },
+    {
+      "tag": "botania:petals/white"
+    },
+    {
+      "tag": "botania:petals/orange"
+    },
+    {
+      "tag": "botania:petals/orange"
+    },
+    {
+      "tag": "botania:petals/brown"
+    },
+    {
+      "tag": "botania:petals/brown"
+    },
+    {
+      "item": "botania:rune_gluttony"
+    },
+    {
+      "item": "botania:pixie_dust"
+    }
+  ],
+  "output": {
+    "item": "botania:kekimurus"
+  },
+  "reagent": {
+    "item": "spectrum:resonant_lily"
+  }
+}

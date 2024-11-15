@@ -1,0 +1,41 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "tag": "botania:petals/green"
+    },
+    {
+      "tag": "botania:petals/green"
+    },
+    {
+      "tag": "botania:petals/green"
+    },
+    {
+      "tag": "botania:petals/green"
+    },
+    {
+      "tag": "botania:petals/gray"
+    },
+    {
+      "item": "botania:rune_sloth"
+    },
+    {
+      "item": "botania:rune_gluttony"
+    },
+    {
+      "item": "botania:rune_envy"
+    },
+    {
+      "item": "botania:redstone_root"
+    },
+    {
+      "item": "botania:pixie_dust"
+    }
+  ],
+  "output": {
+    "item": "botania:loonium"
+  },
+  "reagent": {
+    "item": "spectrum:resonant_lily"
+  }
+}

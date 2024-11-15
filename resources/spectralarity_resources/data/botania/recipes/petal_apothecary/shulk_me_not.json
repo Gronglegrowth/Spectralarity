@@ -1,0 +1,35 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "tag": "botania:petals/purple"
+    },
+    {
+      "tag": "botania:petals/purple"
+    },
+    {
+      "tag": "botania:petals/magenta"
+    },
+    {
+      "tag": "botania:petals/magenta"
+    },
+    {
+      "tag": "botania:petals/light_gray"
+    },
+    {
+      "item": "botania:life_essence"
+    },
+    {
+      "item": "botania:rune_envy"
+    },
+    {
+      "item": "botania:rune_wrath"
+    }
+  ],
+  "output": {
+    "item": "botania:shulk_me_not"
+  },
+  "reagent": {
+    "item": "spectrum:resonant_lily"
+  }
+}

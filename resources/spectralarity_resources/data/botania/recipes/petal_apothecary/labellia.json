@@ -1,0 +1,35 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "tag": "botania:petals/yellow"
+    },
+    {
+      "tag": "botania:petals/yellow"
+    },
+    {
+      "tag": "botania:petals/blue"
+    },
+    {
+      "tag": "botania:petals/white"
+    },
+    {
+      "tag": "botania:petals/black"
+    },
+    {
+      "item": "botania:rune_autumn"
+    },
+    {
+      "item": "botania:redstone_root"
+    },
+    {
+      "item": "botania:pixie_dust"
+    }
+  ],
+  "output": {
+    "item": "botania:labellia"
+  },
+  "reagent": {
+    "item": "spectrum:resonant_lily"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "botania:petal_apothecary",
+  "ingredients": [
+    {
+      "tag": "botania:petals/red"
+    },
+    {
+      "tag": "botania:petals/red"
+    },
+    {
+      "tag": "botania:petals/white"
+    },
+    {
+      "tag": "botania:petals/white"
+    },
+    {
+      "tag": "botania:petals/pink"
+    },
+    {
+      "item": "botania:rune_pride"
+    },
+    {
+      "item": "botania:rune_greed"
+    },
+    {
+      "item": "botania:redstone_root"
+    },
+    {
+      "item": "botania:pixie_dust"
+    },
+    {
+      "item": "spectrum:storm_stone"
+    },
+    {
+      "item": "spectrum:cyan_pigment"
+    },
+    {
+      "item": "spectrum:light_blue_pigment"
+    }
+  ],
+  "output": {
+    "item": "botania:orechid_ignem"
+  },
+  "reagent": {
+    "item": "spectrum:resonant_lily"
+  }
+}

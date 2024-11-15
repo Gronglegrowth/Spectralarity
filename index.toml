@@ -2566,8 +2566,52 @@ file = "resources/spectralarity_resources/data/botania/recipes/flighttiara_0.jso
 hash = "cb33b470daad131a35372236299a04e199751ca7a3166c217107c2e7c29f5325"
 
 [[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/bubbell.json"
+hash = "57c084bb01f2c82f29dea58053378ed42dd73f1870222b1c617b7972f56ccb76"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/dandelifeon.json"
+hash = "d30f881c1eddeb2241310efdfd19317ca6833f79b68569efac510207a150a163"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/heisei_dream.json"
+hash = "070df37e3a328676dc0d207b041a212a37011ae750a06abebbc2738aff15403b"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/kekimurus.json"
+hash = "0cade65ccfdb26cf5c77b35f9151206a10c4979e4b9679d0220d41620015e891"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/labellia.json"
+hash = "3bcc6e428439ab949d9bd1d00d48c0ee80a6f3985e917504b368f37b4f9462ea"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/loonium.json"
+hash = "04944e7093f6a50d68fe5288024af3aafdaf2c115de6c6132eb4eadeaed4a415"
+
+[[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/orechid.json"
-hash = "75c96d4d25049c894b7f336aab4226c82a965dc28cacf30b7da82648aae75b96"
+hash = "57292a983f8018a73edd1d4f7598e7ee583cce3e6f3a63be7807e79e51a5ec4b"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/orechid_ignem.json"
+hash = "253bf033fb216ad77f0f4ec2bbf14d2a4d95f93188fa1cd981daf07deeec6355"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/rafflowsia.json"
+hash = "e8e7630b6c9d4adf8fe7df10d168e95d656b6614596f34cdaffb701c989218cb"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/shulk_me_not.json"
+hash = "3e77735ab99879d46b9d731daedb74431bdc4f342ccea9d936ed87ddc6df37f9"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/spectranthemum.json"
+hash = "8b0b9dc9cd906f4405d123e0b1059b45034784368c3426d258ac755347380768"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/spectrolus.json"
+hash = "1e6b3a9fd91bbec9747093f7e0c3c1b4c43b11296b189535bdaa9403eb2d16fa"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar.json"
