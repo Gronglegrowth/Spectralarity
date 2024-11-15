@@ -1,0 +1,66 @@
+{
+  "type": "botania:nbt_output_wrapper",
+  "nbt": "{SkullOwner:\"EsetKalenko\"}",
+  "recipe": {
+    "type": "botania:petal_apothecary",
+    "ingredients": [
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      },
+      {
+        "tag": "botania:petals/magenta"
+      }
+    ],
+    "output": {
+      "item": "minecraft:player_head",
+      "nbt": {
+        "SkullOwner": "EsetKalenko"
+      }
+    },
+    "reagent": {
+      "tag": "botania:seed_apothecary_reagent"
+    }
+  }
+}

@@ -1153,6 +1153,11 @@ hash = "b18803985f90f9510e9d97656ea7c9320392418462659c2ce174cde406692e21"
 metafile = true
 
 [[files]]
+file = "mods/red-bits.pw.toml"
+hash = "995672c4cc74a9ac9177c7cbd4f6ff1e470bad4ad495aac9d03949778fbd1edc"
+metafile = true
+
+[[files]]
 file = "mods/redirectionor.pw.toml"
 hash = "40f53425cdb1386d0eac2143c19657aeaf493e74be1366d40ff8720413b2bdfd"
 metafile = true
@@ -2552,6 +2557,10 @@ hash = "153e3bcb2ed3cd5e1a832c7ac3483a88c21aad00cb7deb929bb44744a78af52f"
 [[files]]
 file = "resources/spectralarity_resources/data/botania/advancements/main/elf_portal_open.json"
 hash = "bb29a9c765fba8fa9fbd00959ef8d26e3a89aa4f57461688540da3e5aabdfa5a"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/advancements/main/flower_pickup.json"
+hash = "1454f4cff2f53da83231bce9befb29690854fa045a01f810cbd055f029e59cfc"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/alfheim_portal.json"
@@ -5662,6 +5671,10 @@ file = "resources/spectralarity_resources/data/spectralarity/advancements/unlock
 hash = "206e5f9e953140515c724531e2e0dbee1f30373516f925120a619b019780ef5c"
 
 [[files]]
+file = "resources/spectralarity_resources/data/spectralarity/loot_tables/grant_bosnia_book.json"
+hash = "f51f7c9188c1f4793f5d78b5b228758566bfaec669cd268fcc03e8c1b3a49201"
+
+[[files]]
 file = "resources/spectralarity_resources/data/spectralarity/loot_tables/grant_guidebook.json"
 hash = "664fccf38b6ac176d9349ecef67d11a2b7d1211418353f2f8d891a9d0e879f65"
 
@@ -5736,6 +5749,10 @@ hash = "69b7512d59932d18a49bb0c6cea7df55c96d601e5fc799058fc5ae26e285bdf1"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid_ignem/stratine_ore.json"
 hash = "c50ea4bde7f2bd34e8c0a2f125663f42871759fc52f46a3cd7930f4c01b005c5"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/petal_apothecary/eset_head.json"
+hash = "826b87b9aa82e84bf46ffc455f87b2ffca0b4a382221d94a39ccc50d58874c1f"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/potion_workshop/ender_air.json"
