@@ -1,0 +1,13 @@
+{
+    "name": "Pylons",
+    "category": "patchouli:phenomena",
+    "icon": "spectrum:polished_basalt_pillar",
+    "advancement": "spectralarity:find_pylon",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  As I was exploring for geodes to strip bare for my ever-growing need of basalt and calcite, I stumbled across a... thing, made from one such stone. Just being in its presence is enough to charge the air with remnants of some sort of energy. Whatever this monolith is, it seems dormant now, and may prove valuable for salvage - though I can't quite shake off a feeling of unease...."
+        }
+    ]
+}
+

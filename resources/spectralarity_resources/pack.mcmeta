@@ -28,6 +28,10 @@
             {
                 "namespace": "calibrated",
                 "path": "recipes/unlimited_accessor"
+            },
+            {
+                "namespace": "create_new_age",
+                "path": "recipes/*"
             }
         ]
     }

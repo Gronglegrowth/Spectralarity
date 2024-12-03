@@ -10,7 +10,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{\"patchouli:book\": \"patchouli:spectral\"}"
+              "tag": "{\"patchouli:book\": \"patchouli:spectralarity_guide\"}"
             }
           ]
         }

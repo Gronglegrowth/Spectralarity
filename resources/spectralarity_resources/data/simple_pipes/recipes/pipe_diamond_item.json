@@ -1,0 +1,23 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 40,
+  "tier": "basic",
+  "magenta": 1,
+  "yellow": 0,
+  "cyan": 1,
+  "black": 0,
+  "white": 0,
+  "experience": 4,
+  "key": {
+    "W": { "item": "minecraft:diamond" },
+    "G": { "item": "minecraft:glass" }
+  },
+  "pattern": [
+    "WGW"
+  ],
+  "result": {
+    "item": "simple_pipes:pipe_diamond_item",
+    "count": 8
+  },
+  "required_advancement": "spectrum:collect_all_basic_shards"
+}

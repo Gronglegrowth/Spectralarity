@@ -1,0 +1,20 @@
+{
+    "name": "Wasteland",
+    "category": "patchouli:phenomena",
+    "icon": "yttr:rubble",
+    "advancement": "yttr:enter_wasteland",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  While out exploring today, I came across a strangely familiar sight: a wasteland. Looking at it, and the forgotten constructs within it, stir up a sense of nostalgia, bringing up memories of a bygone age I do not remember experiencing before."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "yttr:ruined_device_bc_2",
+            "title": "Forgotten Constructs",
+            "advancement": "yttr:break_ruined",
+            "text": "  The more I wander this place, the more I am burdened with an understanding of machinery I had no recollection of working with. Maybe I can use this newfound - or is it newly-remembered? - knowledge to my advantage..."
+        }
+    ]
+}
+

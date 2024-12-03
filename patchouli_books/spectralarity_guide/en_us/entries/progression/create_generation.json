@@ -1,0 +1,20 @@
+{
+    "name": "Power Acquisition",
+    "category": "patchouli:progression",
+    "icon": "botania:mana_fluxfield",
+    "turnin": "spectralarity:place_motor_against_fluxfield",
+    "advancement": "create:mechanical_press",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Having access to only manual labor with which to power my new machines has grown very annoying - almost as if whatever forces that shaped this world wanted to stifle my innovation. I have been tinkering with those flowers again, and may have derived a solution. And of course I'll need some kind of motor..."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Mana-driven Motors",
+            "advancement": "spectralarity:place_motor_against_fluxfield",
+            "text": "  Mana is a form of energy, and so it would only make sense for it to be able to create an electrical charge that can drive a motor. This should suffice for awhile."
+        }
+    ]
+}

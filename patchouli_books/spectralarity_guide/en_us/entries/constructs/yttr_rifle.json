@@ -1,0 +1,29 @@
+{
+    "name": "Yttric Rifle",
+    "category": "patchouli:constructs",
+    "icon": "yttr:rifle",
+    "advancement": "yttr:obtain_yttrium_ingot",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Something about the Midnight Aberration inspired me to craft a sort of rifle with its catastrophic power. As it turns out, such a weapon can do a lot more than destroy, opening up certain possibilities I would otherwise have had no way of knowing."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "yttr:crafting/rifle",
+            "text": "  Third of its name."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Usage",
+            "text": "  Firing the Yttric Rifle requires ammunition - obviously - and careful timing. After selecting my desired firing mode, I must charge up the rifle enough so that I can hit my target, but not so much that it overloads and backfires. At times, I have heard a sort of ringing that may help indicate this."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Practice",
+            "recipe": "yttr:crafting/power_meter",
+            "text": "  For practice with the rifle - which may be wise - I may use a Power Meter. Firing at its target will show me how much power was in my shot, in addition to letting me get used to the timings."
+        }
+    ]
+}
+

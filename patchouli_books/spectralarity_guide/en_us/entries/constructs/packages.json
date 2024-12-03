@@ -1,0 +1,27 @@
+{
+    "name": "Packages",
+    "category": "patchouli:constructs",
+    "icon": "packages:package_maker",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Storing things en masse, particularly in a way that is easy to move, is a problem I face in every part of my journey, from the first days mining stone to wherever I find myself once established. Chests are far too simple and fragile - on trying to move them, I find the contents spill out all over the floor. I need a solution."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "packages:package_maker",
+            "title": "Crafting Recipe",
+            "text": "  Packages are assembled here out of any two blocks, some dye, and copper. They are light yet sturdy, being easy to move and retaining their contents when broken."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "  Packages also have some... unique properties that aren't common to my other storage blocks. They can be crushed into item form via piston, placed in the world via dispenser, and, perhaps most intriguingly, they can be nested inside each other. Interaction with a placed Package is reminiscent of the Drawers from a faded memory, and an item Package works similarly to a Bundle."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [ "spectralarity:textures/gui/guidebook/packages.png" ],
+            "border": true,
+            "text": "  ...or are they more like Barrels?"
+        }
+    ]
+}

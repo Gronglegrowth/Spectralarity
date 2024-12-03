@@ -1,0 +1,28 @@
+{
+    "name": "Facades",
+    "category": "patchouli:constructs",
+    "icon": "minecraft:stonecutter",
+    "advancement": "spectrum:collect_all_basic_shards",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  While watching items travel through my pipes may be satisfying, the aesthetic of piping all over doesn't fit in every build. Simply... sawing apart blocks into smaller pieces, as if to cover them, proved to be the solution. Small enough \"facades\" can cover the pipes well, and cutting holes through them lets pipes through, too."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:stonecutter",
+            "text": "  This process can be done in a Stonecutter with just about any full block, even if it is transparent like Glass. I can craft the facades back into a full block again as well, if I accidentally cut a block too small or too thick."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "  These blocks come in a variety of shapes from pillars to panels to corners, in a variety of thicknesses. The panels can be hollowed out to let pipe through. If I am feeling creative, I can surely use these for intricate decor pieces, too."
+        },
+        {
+            "type": "patchouli:image",
+            "images": [ "spectralarity:textures/gui/guidebook/facades.png" ],
+            "border": true,
+            "text": "  Tiny blocks. Microblocks?"
+        }
+    ]
+}
+

@@ -1,0 +1,23 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 40,
+  "tier": "basic",
+  "magenta": 1,
+  "yellow": 0,
+  "cyan": 1,
+  "black": 0,
+  "white": 0,
+  "experience": 4,
+  "result": {
+        "item": "simple_pipes:pipe_sponge_fluid",
+        "count": 8
+    },
+    "pattern": [ "dOd", "SGS", "d d" ],
+    "key": {
+        "S": { "item": "minecraft:sponge" },
+        "G": { "item": "minecraft:glass" },
+        "O": { "item": "minecraft:gold_ingot" },
+        "d": { "item": "minecraft:green_dye"}
+    },
+  "required_advancement": "spectrum:collect_all_basic_shards"
+}

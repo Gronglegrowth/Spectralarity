@@ -1,0 +1,18 @@
+{
+    "name": "Nature's Compass",
+    "category": "patchouli:constructs",
+    "icon": "naturescompass:naturescompass",
+    "advancement": "spectralarity:unlocks/natures_compass",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Exploration is often rewarding, granting valuable resources and loot, but I do not always have the time nor the energy to spend looking for a particular biome in which to search. While maps are useful, they're not ideal for pinpointing a location I have not yet visited. I need something more... directional. A compass?"
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturescompass:natures_compass",
+            "title": "Crafting Recipe",
+            "text": "  Able to read more than mere magnetic fields, its needle tracks the very climate of the world."
+        }
+    ]
+}

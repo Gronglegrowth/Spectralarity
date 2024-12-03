@@ -1,0 +1,25 @@
+{
+    "name": "Astral Aesthetics",
+    "category": "patchouli:discoveries",
+    "icon": "astronomical:astral_fragment",
+    "turnin": "spectralarity:catch_astral_fragment",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  I had a dream in which I roasted specially prepared marshmallows over a campfire, then, after eating one, looked up at the night sky through a spyglass and watched a distant sun explode. Travelng to the explosion's epicenter yielded something... interesting. Maybe I should seek to do this myself?"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Crafting Recipe",
+            "recipe": "astronomical:marshmallow",
+            "recipe2": "astronomical:marshmallow_stick",
+            "text": "  Be careful not to burn them!"
+        },
+        {
+            "type": "spectrum:potion_workshop_crafting",
+            "title": "Potion Workshop Recipe",
+            "recipe": "spectralarity:potion_workshop/marshmallow",
+            "text": "  Of course, using Stardust turns out to be more efficient."
+        }
+    ]
+}

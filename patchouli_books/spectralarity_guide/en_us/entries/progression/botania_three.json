@@ -1,0 +1,20 @@
+{
+    "name": "Painting Terrasteel Pink",
+    "category": "patchouli:progression",
+    "icon": "botania:elementium_ingot",
+    "turnin": "spectralarity:paint_terrasteel_pink",
+    "advancement": "botania:main/rune_pickup",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Acquiring Terrasteel may be of interest for future pursuits. Something tells me I may have need of it for some kind of... door? Gateway? Portal?"
+        },
+        {
+            "type": "patchouli:text",
+            "advancement": "spectralarity:paint_terrasteel_pink",
+            "title": "Elementium",
+            "text": "  I had need of Elementium to construct the Elven Portal. Painting Terrasteel with lots of Pigment actually worked to make it, albeit imperfectly. Maybe this is an idea worth revisiting later."
+        }
+    ]
+}

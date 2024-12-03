@@ -1,0 +1,67 @@
+{
+    "name": "Simple Pipes",
+    "category": "patchouli:constructs",
+    "icon": "simple_pipes:pipe_diamond_item",
+    "advancement": "spectrum:collect_all_basic_shards",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Recently I had a dream. In it, I saw grand arrays of piping made from everything from wood to stone to precious metals to even various gems, all taking items and sorting them into proper places. It was... inspiring, to say the least, and I ended up making a... simple iteration of the concept."
+        },
+        {
+            "type": "spectrum:pedestal_crafting",
+            "recipe": "simple_pipes:pipe_wooden_item",
+            "title": "Pedestal Recipe",
+            "text": "  The material of a pipe seems to influence its function in some way. They are all crafted according to this basic pattern, though."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Extracting Items",
+            "item": "simple_pipes:pipe_wooden_item",
+            "text": "  Wooden pipes are extractors. That is, when given a redstone clock signal - that timer I made earlier might be quite handy - they'll take items from the inventory they are placed next to, sending them out. I can right-click on the pipe to set exactly where it pulls from."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Connecting Pipes",
+            "item": "simple_pipes:pipe_stone_item",
+            "text": "  The stone pipes serve as connection, doing nothing special on their own, but I will certainly need them if I intend to move my items more than one or two blocks."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Flow Control",
+            "item": "simple_pipes:pipe_iron_item",
+            "text": "  Iron pipes are \"one-way\": I can right-click on a side to ensure items only flow that way. Good for ensuring directionality."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Priority Control",
+            "item": "simple_pipes:pipe_clay_item",
+            "text": "  Clay pipes are, put simply, inserters. Put more verbosely, they prioritize whatever inventory they are connected to when sending items first, before sending them off to other pipes."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Acceleration",
+            "item": "simple_pipes:pipe_gold_item",
+            "text": "  Gold pipes seem to accelerate the items' travel speeds. Perhaps some citrine powder from my other crafts got mixed into them...?"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Sorting Items",
+            "item": "simple_pipes:pipe_diamond_item",
+            "text": "  Diamond pipes are able to sort items. Each side of the pipe has a specific color, and I can right-click the pipe to tell it which items should go to which side by simply placing one in the appropriately-colored slot."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Fluid Pipes",
+            "item": "minecraft:green_dye",
+            "text": "  There are variants of some pipes for fluids, too, which I can make by simply waterproofing it with green dye. They work as one may expect."
+        },
+        {
+            "type": "spectrum:pedestal_crafting",
+            "recipe": "simple_pipes:pipe_sponge_fluid",
+            "title": "Pedestal Recipe",
+            "text": "  Additionally, a fluid pipe made with sponge seems to simply delete fluid that enters it."
+        }
+    ]
+}
+
