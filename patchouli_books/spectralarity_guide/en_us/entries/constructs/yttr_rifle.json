@@ -2,7 +2,7 @@
     "name": "Yttric Rifle",
     "category": "patchouli:constructs",
     "icon": "yttr:rifle",
-    "advancement": "yttr:obtain_yttrium_ingot",
+    "advancement": "spectralarity:unlocks/yttric_rifle",
     "pages": [
         {
             "type": "patchouli:text",
