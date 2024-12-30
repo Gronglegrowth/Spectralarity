@@ -1,0 +1,22 @@
+{
+	"type": "yttr:centrifuging",
+	"time": 1600,
+	"ingredient": {
+		"item": "create:ochrum",
+		"count": 64
+	},
+	"results": [
+		{
+			"item": "minecraft:gravel",
+			"count": 40
+		},
+		{
+			"item": "minecraft:sand",
+			"count": 16
+		},
+		{
+			"item": "create:crushed_raw_gold",
+			"count":  8
+		}
+	]
+}

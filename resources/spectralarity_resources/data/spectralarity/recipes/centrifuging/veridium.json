@@ -1,0 +1,22 @@
+{
+	"type": "yttr:centrifuging",
+	"time": 1600,
+	"ingredient": {
+		"item": "create:veridium",
+		"count": 64
+	},
+	"results": [
+		{
+			"item": "minecraft:gravel",
+			"count": 40
+		},
+		{
+			"item": "minecraft:sand",
+			"count": 16
+		},
+		{
+			"item": "create:crushed_raw_copper",
+			"count":  8
+		}
+	]
+}

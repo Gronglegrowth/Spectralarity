@@ -1214,7 +1214,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "6290e149027544aee4cbea3f69901b42fbee1b6921c5595242dd0b4eaf4990a5"
+hash = "ffb33611120a614cdbdfcdf6ab9ff42ffc980a4395541b1f239d72c9b0873afb"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "eeb7ef693ad8de5d1e0c3ce414f19d3e43e7ca8a13d5ad10c327e1c9b6f99247"
+hash = "8e6ba7d7b6fd29149deae25d337d77dcb3b27f7cbfa7e68ac0d2f16c91324af9"
 metafile = true
 
 [[files]]
@@ -1440,7 +1440,7 @@ hash = "7dc76b2c483552445f399190f7c95df6547bca9ce0645abecd035b7b8c10b734"
 
 [[files]]
 file = "patchouli_books/spectralarity_guide/en_us/entries/constructs/yttr_rifle.json"
-hash = "8520592b2da458f54ce0cebe0ff3579b7860b4f03fe4192a55b3d802841bbe94"
+hash = "a8520927a286e6756253c081147d1cd8d4209cd74741ee162100c34dbb77b7c1"
 
 [[files]]
 file = "patchouli_books/spectralarity_guide/en_us/entries/discoveries/astronomical.json"
@@ -5733,6 +5733,22 @@ hash = "5c51498e467c34a6a7e731e47b02fa28146c7a3ffec5c219c7ced3528fb1c320"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/blasting/smooth_basalt.json"
 hash = "54bd70165575a020325ccaa27b2ccd8b902deb2ce757edc9d4343e6346a06428"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/centrifuging/asurine.json"
+hash = "504849a41d58778844ce8a580499cf6f8a64521416f374155815425fe76b9e9b"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/centrifuging/crimsite.json"
+hash = "38136d33c415619c25766792028e3d1aabe302743009dcd82b9b3684a29ab845"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/centrifuging/ochrum.json"
+hash = "594ce40ef5a3be528766e405215c2b99393cdc7ba0de545dba59027aa3ae4353"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/centrifuging/veridium.json"
+hash = "964aaa858e0cb147b506a369a211a4596188cafc8e4fd9800f240ce5c4024f72"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/crushing/nethertuff.json"
