@@ -5812,7 +5812,7 @@ hash = "826b87b9aa82e84bf46ffc455f87b2ffca0b4a382221d94a39ccc50d58874c1f"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/potion_workshop/ender_air.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "fae28251650799b8dadc50b30cfe4850858417ab2478e3ee1ac9ee07247b565b"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/pure_daisy/nethertuff_to_tuff.json"

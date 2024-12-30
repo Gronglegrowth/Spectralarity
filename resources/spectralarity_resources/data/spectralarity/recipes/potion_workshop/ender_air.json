@@ -1,0 +1,10 @@
+{
+  "type": "spectrum:potion_workshop_crafting",
+  "required_advancement": "spectrum:hidden/collect_pigment/collect_black_pigment",
+  "base_ingredient": { "item": "botania:vial" },
+  "use_up_base_ingredient": true,
+  "color": 1179681,
+  "ingredient1": { "item": "spectrum:black_pigment" },
+  "ingredient2": { "item": "minecraft:chorus_fruit" },
+  "result" : { "item": "botania:ender_air_bottle" }
+}
