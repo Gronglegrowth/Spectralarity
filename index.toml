@@ -1158,11 +1158,6 @@ hash = "995672c4cc74a9ac9177c7cbd4f6ff1e470bad4ad495aac9d03949778fbd1edc"
 metafile = true
 
 [[files]]
-file = "mods/redirectionor.pw.toml"
-hash = "40f53425cdb1386d0eac2143c19657aeaf493e74be1366d40ff8720413b2bdfd"
-metafile = true
-
-[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "0678365aa823ee4e3e126c3b4e72076004cca390e746f434c7dbc7736272d61d"
 metafile = true
