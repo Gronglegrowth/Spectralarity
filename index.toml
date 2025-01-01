@@ -878,6 +878,11 @@ hash = "77d0a15bc61ce7b8a0afe4b057b13ace0a6b1b94939a1f8aeec9f612c54976b2"
 metafile = true
 
 [[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "7dc5105429a3c36ec219985ac3116c6e989c2ae58126eb630a9d1f1a12b944e6"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "976afe5c2083d03053ad6006adab7a3746a2e83a28a654822fd38621d395870b"
 metafile = true
