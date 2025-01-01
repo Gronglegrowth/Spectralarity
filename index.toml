@@ -798,11 +798,6 @@ hash = "7122f244b50a098aa153167ebdd83eee57719a84b77ad647997028b960a28e7f"
 metafile = true
 
 [[files]]
-file = "mods/astronomical.pw.toml"
-hash = "6859c4c80af9f61babc2dd7ce05baa471c17914c083c46ee46d92424f6a6f974"
-metafile = true
-
-[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "932dc2dde4defd1618e143d2c12807c6b75eaa29c26c480051303441299107a7"
 metafile = true
@@ -1436,10 +1431,6 @@ hash = "7dc76b2c483552445f399190f7c95df6547bca9ce0645abecd035b7b8c10b734"
 [[files]]
 file = "patchouli_books/spectralarity_guide/en_us/entries/constructs/yttr_rifle.json"
 hash = "a8520927a286e6756253c081147d1cd8d4209cd74741ee162100c34dbb77b7c1"
-
-[[files]]
-file = "patchouli_books/spectralarity_guide/en_us/entries/discoveries/astronomical.json"
-hash = "13ede958f8d470c09cbd57819ffc04651012d110c19b463d2907341725d81a7c"
 
 [[files]]
 file = "patchouli_books/spectralarity_guide/en_us/entries/discoveries/gaia_spirit.json"
