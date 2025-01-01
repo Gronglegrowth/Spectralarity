@@ -963,6 +963,11 @@ hash = "c015ff788044b30adebdb2865b4b7bc2af48a2abdc8a8a899a8cc8453b6c055b"
 metafile = true
 
 [[files]]
+file = "mods/foodeffecttooltips.pw.toml"
+hash = "baff407819a6c5abaeea5fb19918706070283df823cebb0f8e62c0b42fc545c3"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d33ff9ebaf340c9290df83dc4409b8e81d5bf3056fa7ef06b207d14080a8d822"
 metafile = true
