@@ -2728,7 +2728,7 @@ hash = "e6ded79271a4772f3c55ed6f59121177adf6859ab691571d9859669432d34d97"
 
 [[files]]
 file = "resources/spectralarity_resources/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "640edd4047f762474c7d82f7f0b73b60257eae043a916b1e2111ed9e4023a700"
+hash = "158b78f320a33f352b2d852209d96bfe104130c03a8d0af1faefbd2bd9987853"
 
 [[files]]
 file = "resources/spectralarity_resources/data/calibrated/advancements/interdimensional.json"
