@@ -1,5 +1,5 @@
 {
-  "type": "botania:orechid",
+  "type": "botania:orechid_ignem",
   "input": {
     "type": "block",
     "block": "minecraft:basalt"
