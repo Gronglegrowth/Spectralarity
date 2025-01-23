@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "botania:pixie_dust"
+    },
+    "P": {
+      "item": "botania:mana_pylon"
+    },
+    "M": { "item": "spectrum:moonstone_core" }
+  },
+  "pattern": [
+    "DPD",
+    "PMP",
+    "DPD"
+  ],
+  "result": {
+    "item": "botania:gaia_pylon",
+    "count": 4
+  }
+}
