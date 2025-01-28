@@ -1443,6 +1443,10 @@ file = "patchouli_books/spectralarity_guide/en_us/entries/constructs/yttr_rifle.
 hash = "a8520927a286e6756253c081147d1cd8d4209cd74741ee162100c34dbb77b7c1"
 
 [[files]]
+file = "patchouli_books/spectralarity_guide/en_us/entries/discoveries/alt_manastorm_charge.json"
+hash = "c5ed22602b3855e225603fa83670e3a9fdf8e74f4cf1af2c22a45b03882600b2"
+
+[[files]]
 file = "patchouli_books/spectralarity_guide/en_us/entries/discoveries/gaia_spirit.json"
 hash = "fbcfe2d9ab55b72771df2d06ee1d936068558be07b1aa1f0d096cf2395808758"
 
@@ -2812,7 +2816,7 @@ hash = "cfef72fe53b24830bba40c5e93d1dd4f1475142d6c03a33546713895ba3c7a9d"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create/recipes/crafting/kinetics/encased_fan.json"
-hash = "2f9a534a98d3d1f20469fb98ac6e3da27a83afdc4909da2849ec10352beeadac"
+hash = "f773bf13a446f808f4e2c79a8b3f2295a87022b2407a42875dde1aed26889102"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create/recipes/crafting/kinetics/hose_pulley.json"
@@ -2836,7 +2840,7 @@ hash = "afcca7d5e35b7def3aae1618fec64d9da23db5c0561905ac6d88f35ec33899f2"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create/recipes/crafting/kinetics/mechanical_mixer.json"
-hash = "baaf553143680ba2ae0fe84b36c5c88b0c8dfb0cb33062d06ea50c63b9031418"
+hash = "868c41d4cf44e4ed344ba8f85a0a5221b1646d061e906f1047548e002756fb62"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create/recipes/crafting/kinetics/mechanical_piston.json"
@@ -2860,11 +2864,11 @@ hash = "cad24888ffcafe8a20a9c61fd0f6860beb8d53574b834c030c5a6c5c1df000d3"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create/recipes/crafting/kinetics/mechanical_saw.json"
-hash = "b5796a6596d613d4d0a6af1d4645902044306b8ac1b16393184718873638033f"
+hash = "ef5874c04fb6e4e30e74998554359dcdbe420fcee0be24da5045b7d1af757f32"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create/recipes/crafting/kinetics/millstone.json"
-hash = "3627d88a3c81bc97fe89b89e922ca4f61e5ff9182c37af75af97160de62a82dc"
+hash = "32be3244a63ebd0e88f9854f8c03d21edb2f1e457f0aeaceda560213d64d2ab4"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create/recipes/crafting/kinetics/rotation_speed_controller.json"
@@ -5352,7 +5356,7 @@ hash = "ebdb35c2c1358ac6a00e3eba4b5d97b746e2ba92565e59859ae2faeeffdaf8df"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create_new_age/recipes/shaped/heat_pipe.json"
-hash = "4dc7273e69e3f36daf622b38bd739de7e9ff96e4e00cdb3394645ed0b7af2793"
+hash = "ce0ff3bb2588324fe7de7a36c8518980788f82ed4fbf316edc48b9a5ad0f839c"
 
 [[files]]
 file = "resources/spectralarity_resources/data/create_new_age/recipes/shaped/heat_pump.json"
@@ -5687,12 +5691,20 @@ file = "resources/spectralarity_resources/data/spectralarity/advancements/grant_
 hash = "5aa67fa3513851ae98c3f34a75171e193674c48f7f2fbc4e15321c67377b4bf2"
 
 [[files]]
+file = "resources/spectralarity_resources/data/spectralarity/advancements/milestones/create_t1.json"
+hash = "70ab021dfa43a929b16410122269b3560ab370d84fd1d550cd5a8b73ab70ea29"
+
+[[files]]
 file = "resources/spectralarity_resources/data/spectralarity/advancements/paint_terrasteel_pink.json"
 hash = "d55d63d7264060949cc45aa37e1a5133cb150b919b2440d4b0fb479fc2d99d64"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/advancements/place_motor_against_fluxfield.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/advancements/unlocks/alternate_recipes/manastorm_charge.json"
+hash = "47ccdb8a15c4ba9c65048fa0ece5c09da0efbc596d363c70c98eeca435171bff"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/advancements/unlocks/gaia_spirit.json"
@@ -5811,6 +5823,10 @@ file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid_ign
 hash = "f2e6223d8a326b07c8bc9b0f1d1833a9408ca6954a04a15c6ca8a98897e394aa"
 
 [[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/pedestal/t3/manastorm_charge.json"
+hash = "92efa9164805a3300a5663aed615874e2ef773daf7f72b2792be5c1fe99f86ee"
+
+[[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/petal_apothecary/eset_head.json"
 hash = "826b87b9aa82e84bf46ffc455f87b2ffca0b4a382221d94a39ccc50d58874c1f"
 
@@ -5821,6 +5837,14 @@ hash = "fae28251650799b8dadc50b30cfe4850858417ab2478e3ee1ac9ee07247b565b"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/pure_daisy/nethertuff_to_tuff.json"
 hash = "c57bddedbd372f548598e08d12f0a95057996a8385c149b11aea1425f0af4b0e"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/revelations/create/reveal_t1_machines.json"
+hash = "d09a43ea16d1d666806f238154a790918ebd244ff51b936fcfcf8db694aefdee"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/revelations/create/reveal_t2_machines.json"
+hash = "a018b7e7fb1497de0240391795acfdfbc5d2e6b901f41ac3d1d93c4d7642103a"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/revelations/reveal_mystical_flowers.json"
@@ -5840,7 +5864,11 @@ hash = "2330384504fd0ba009fc9cd98b1ea1ff8ad8940668f8daa3761a1fa20de2ce06"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/worldgen/structure/pylon.json"
-hash = "d2f8040c33c310e9c9a4f324fa1e6b0d5e02194312640df65338d0c0303daba6"
+hash = "25ab5f0cd33f47e9c23106e1e744e4d37399345d28b89558f0a684308fe379d3"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/worldgen/structure_set/pylon.json"
+hash = "f515d8baf520e80c724bb5aac1e865f0b9cd3852360fe96af456ec9fcdec720c"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/worldgen/structure_set/pylons.json"

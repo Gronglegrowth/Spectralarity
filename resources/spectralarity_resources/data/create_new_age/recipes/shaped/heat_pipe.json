@@ -1,6 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "building",
+  "type": "spectrum:pedestal",
+  "time": 40,
+  "tier": "simple",
+  "magenta": 0,
+  "yellow": 2,
+  "cyan": 0,
+  "black": 0,
+  "white": 0,
+  "experience": 1,
   "key": {
     "c": {
       "tag": "c:copper_plates"
@@ -15,5 +22,5 @@
     "count": 6,
     "item": "create_new_age:heat_pipe"
   },
-  "show_notification": true
+  "required_advancement": "spectralarity:create_t1"
 }

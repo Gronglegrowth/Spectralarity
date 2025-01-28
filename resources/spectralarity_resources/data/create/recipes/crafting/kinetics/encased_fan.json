@@ -27,5 +27,5 @@
   "result": {
     "item": "create:encased_fan"
   },
-  "required_advancement": "create:mechanical_press"
+  "required_advancement": "spectralarity:create_t1"
 }

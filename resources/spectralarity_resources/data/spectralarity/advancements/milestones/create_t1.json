@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "used_press": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "create:mechanical_press"
+      }
+    }
+  }
+}

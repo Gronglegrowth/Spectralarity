@@ -1,0 +1,17 @@
+{
+    "block_states": {},
+    "items": {
+        "create:millstone": "create:crushed_raw_iron",
+        "create:encased_fan": "create:crushed_raw_iron",
+        "create:mechanical_saw": "create:crushed_raw_iron",
+        "create:mechanical_mixer": "create:crushed_raw_iron",
+        "create:basin": "create:crushed_raw_iron",
+        "create:mechanical_drill": "create:crushed_raw_iron",
+        "create_new_age:energiser_t1": "create:crushed_raw_iron",
+        "createaddition:rolling_mill": "create:crushed_raw_iron",
+        "create:mechanical_piston": "create:crushed_raw_iron",
+        "create:mechanical_harvester": "create:crushed_raw_iron",
+        "create:mechanical_plough": "create:crushed_raw_iron"
+    },
+    "advancement": "spectralarity:create_t1"
+}

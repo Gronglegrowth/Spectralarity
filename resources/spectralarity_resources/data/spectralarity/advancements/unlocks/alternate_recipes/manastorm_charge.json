@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "became_the_sun_once": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:survive_drinking_incandescent_amalgam"
+      }
+    },
+    "contacted_elves": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "botania:main/elf_lexicon_pickup"
+      }
+    }
+  }
+}

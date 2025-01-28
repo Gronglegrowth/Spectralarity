@@ -1,0 +1,26 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 120,
+  "tier": "advanced",
+  "magenta": 0,
+  "yellow": 16,
+  "cyan": 8,
+  "black": 4,
+  "white": 0,
+  "experience": 8,
+  "pattern": [
+    "MLM",
+    "LAL",
+    "MLM"
+  ],
+  "key": {
+    "M": { "item": "botania:mana_powder" },
+    "L": { "tag": "botania:livingwood_logs" },
+    "A": { "item": "spectrum:incandescent_amalgam" }
+  },
+  "result": {
+    "item": "botania:mana_bomb",
+    "count": 2
+  },
+  "required_advancement": "spectralarity:unlocks/alternate_recipes/manastorm_charge"
+}

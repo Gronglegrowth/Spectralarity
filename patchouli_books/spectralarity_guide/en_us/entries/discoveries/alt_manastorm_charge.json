@@ -1,0 +1,18 @@
+{
+    "name": "Alt. Recipe: Manastorm Charge",
+    "category": "patchouli:discoveries",
+    "icon": "botania:mana_bomb",
+    "advancement": "spectralarity:unlocks/alternate_recipes/manastorm_charge",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Surviving my *very* personal encounter with Incandescent Amalgam gave me... an idea. As amalgam has immense explosive properties, so too does the Manastorm Charge. With what I have learned, it is trivial to, instead of waste a Gaia Spirit on such an explosive, use some much more readily available amalgam in its manufacture."
+        },
+        {
+            "type": "spectrum:pedestal_crafting",
+            "recipe": "spectralarity:pedestal/t3/manastorm_charge",
+            "title": "Pedestal Recipe",
+            "text": "  Why two? I wondered that myself... maybe it is more efficient this way?"
+        }
+    ]
+}

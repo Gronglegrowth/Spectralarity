@@ -1,0 +1,7 @@
+{
+    "block_states": {},
+    "items": {
+        "create:mechanical_crafter": "create:crushed_raw_gold"
+    },
+    "advancement": "spectralarity:create_t2"
+}
