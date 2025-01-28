@@ -5752,7 +5752,7 @@ hash = "da1dfacd03d5081d88f32a94602cbba07fe8219a292693b2e47d9461149ec19b"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/energising/thorium_irradiation.json"
-hash = "93d7d26b1a74d7535fb6363b4db260add7b3a80d321624e8c9eddc7ca466fe0d"
+hash = "97415f7b8a14c5eea8bfd20c89af1c4ac316f6f527685da3204975d3b7cebff9"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/gaia_spirit.json"
