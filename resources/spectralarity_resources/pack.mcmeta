@@ -32,6 +32,10 @@
             {
                 "namespace": "create_new_age",
                 "path": "recipes/*"
+            },
+            {
+                "namespace": "spectrum",
+                "path": "recipes/enchanter/vanilla_books/book_mending"
             }
         ]
     }

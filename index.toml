@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Spectralarity Changelog.txt"
-hash = "0387e31a2eba2eb54371dab88e3356356eab863ca9ae2f3797e0ebe2f5801647"
+file = "Spectralarity Changelog.md"
+hash = "bcaaa1f2708389c875d77e0c9c888b5aeb6e9f3a2712d92efe981d03bc274faa"
 
 [[files]]
 file = "Spectralarity Credits.md"
@@ -2521,6 +2521,10 @@ hash = "9d5cf3662f990a562f00ccb499a1708e1560e6a53342452e8cebcdd26c6ad532"
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/flighttiara_0.json"
 hash = "cb33b470daad131a35372236299a04e199751ca7a3166c217107c2e7c29f5325"
+
+[[files]]
+file = "resources/spectralarity_resources/data/botania/recipes/gaia_pylon.json"
+hash = "2860dd32b7f57c02eb4f8732d7b7ddd1759545cb71b09737e07a575d238a6346"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/petal_apothecary/bubbell.json"
@@ -5371,10 +5375,6 @@ file = "resources/spectralarity_resources/data/create_new_age/recipes/thorium/th
 hash = "e34452abcf6c89e3389fe0fece74b4011edd08aee4af4381f5a86984fe66cfaf"
 
 [[files]]
-file = "resources/spectralarity_resources/data/create_new_age/recipes/thorium_multiplication.json"
-hash = "430af68e18e36cafb8c3818045129185b99ba281b861132e937de294c96ecac4"
-
-[[files]]
 file = "resources/spectralarity_resources/data/exco/recipes/controller.json"
 hash = "1e667f47a3ea620b2b4d1210d1b067927ed85fd6e20ad739421df36ae2811145"
 
@@ -5751,6 +5751,10 @@ file = "resources/spectralarity_resources/data/spectralarity/recipes/crushing/ne
 hash = "da1dfacd03d5081d88f32a94602cbba07fe8219a292693b2e47d9461149ec19b"
 
 [[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/energising/thorium_irradiation.json"
+hash = "93d7d26b1a74d7535fb6363b4db260add7b3a80d321624e8c9eddc7ca466fe0d"
+
+[[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/fusion_shrine/gaia_spirit.json"
 hash = "ee55c942c1f77716ed0cdcfca2df2e42d0f28fb2e6e8ba5e3b4a226b64f50b0e"
 
@@ -5801,6 +5805,10 @@ hash = "69b7512d59932d18a49bb0c6cea7df55c96d601e5fc799058fc5ae26e285bdf1"
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid_ignem/stratine_ore.json"
 hash = "c50ea4bde7f2bd34e8c0a2f125663f42871759fc52f46a3cd7930f4c01b005c5"
+
+[[files]]
+file = "resources/spectralarity_resources/data/spectralarity/recipes/orechid_ignem/thorium.json"
+hash = "f2e6223d8a326b07c8bc9b0f1d1833a9408ca6954a04a15c6ca8a98897e394aa"
 
 [[files]]
 file = "resources/spectralarity_resources/data/spectralarity/recipes/petal_apothecary/eset_head.json"
@@ -5996,7 +6004,7 @@ hash = "d0bd420a560478d8f0b8baa31008d6a876c8e6fa1a92bb9a79bad91b7c543eef"
 
 [[files]]
 file = "resources/spectralarity_resources/pack.mcmeta"
-hash = "7de5d64db53ac07de62dd8b355143522bb1c63a63e04a4659c1ced1210756951"
+hash = "70cf0ab310b19d06df383e2f36c00e3ee352b54a33c14fad402556c777538021"
 
 [[files]]
 file = "resources/spectralarity_resources/pack.png"
