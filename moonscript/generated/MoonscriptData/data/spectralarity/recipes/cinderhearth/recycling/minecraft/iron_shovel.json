@@ -1,0 +1,17 @@
+{
+  "type": "spectrum:cinderhearth",
+  "time": 200,
+  "experience": 1,
+  "group": "recycling",
+  "advancement": "spectrum:midgame/build_cinderhearth_structure",
+  "ingredient": {
+    "item": "minecraft:iron_shovel"
+  },
+  "results": [
+    {
+      "chance": 1,
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    }
+  ]
+}

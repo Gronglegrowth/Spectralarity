@@ -1,0 +1,17 @@
+{
+  "type": "spectrum:cinderhearth",
+  "time": 200,
+  "experience": 1,
+  "group": "recycling",
+  "advancement": "spectrum:midgame/build_cinderhearth_structure",
+  "ingredient": {
+    "item": "botania:manasteel_boots"
+  },
+  "results": [
+    {
+      "chance": 1,
+      "item": "botania:manasteel_ingot",
+      "count": 4
+    }
+  ]
+}

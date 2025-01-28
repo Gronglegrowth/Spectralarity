@@ -1,0 +1,17 @@
+{
+  "type": "spectrum:cinderhearth",
+  "time": 200,
+  "experience": 1,
+  "group": "recycling",
+  "advancement": "spectrum:midgame/build_cinderhearth_structure",
+  "ingredient": {
+    "item": "minecraft:diamond_sword"
+  },
+  "results": [
+    {
+      "chance": 1,
+      "item": "minecraft:diamond",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Moonscript Assets"
+  },
+  "filter": {
+    "block": []
+  }
+}

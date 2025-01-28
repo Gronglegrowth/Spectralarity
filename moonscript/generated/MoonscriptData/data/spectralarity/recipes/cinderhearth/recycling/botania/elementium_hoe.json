@@ -1,0 +1,17 @@
+{
+  "type": "spectrum:cinderhearth",
+  "time": 200,
+  "experience": 1,
+  "group": "recycling",
+  "advancement": "spectrum:midgame/build_cinderhearth_structure",
+  "ingredient": {
+    "item": "botania:elementium_hoe"
+  },
+  "results": [
+    {
+      "chance": 1,
+      "item": "botania:elementium_ingot",
+      "count": 2
+    }
+  ]
+}

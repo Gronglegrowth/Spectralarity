@@ -1323,12 +1323,216 @@ hash = "5cc0a4bdc2245793c2f6c7c6e3ae21bd577c65c56e01b55b3dcbd0be8cda5565"
 metafile = true
 
 [[files]]
-file = "moonscript/lua/common/recipes.lua"
-hash = "7cba89b65ec5e5f6e50fb7073a4017279b4b85b0383adacd3c8c20edfdc9509f"
+file = "moonscript/generated/MoonscriptAssets/pack.mcmeta"
+hash = "4fbd0c8c38dcf231d641378eb453102631ed5a9ecd211086e1e423d76f5dca69"
 
 [[files]]
-file = "moonscript/lua/modules/pulsejet_recycling.lua"
-hash = "c8b3ccd2be4bc77c11b9926dd7afcb890e70861619fd391d6626ad351d5d7dad"
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_axe.json"
+hash = "362383fc21d93e5a484ef73f4d81dd8043583db1625c595278cabe41a26de5b2"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_boots.json"
+hash = "d634d82a4b99795d1f546628d1e3d2c889954ccb968f42d03fe1f87a3665b802"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_chestplate.json"
+hash = "d244dff66221d2bf08cb6429baa985146dfccbf746c6a7575c07eef33ff70fc5"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_helmet.json"
+hash = "854206246a8a6d0499a40a9327fe73b35eb5e1b57b74f93434e4c595436329fc"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_hoe.json"
+hash = "77058b953c84a2638e165b882c2510340134ba332f85a2bd7de71755e1c59c3e"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_leggings.json"
+hash = "b9210f290afba215bc39a95e968f9ea79fdfa5a75dc471dc707864f404f3807c"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_pickaxe.json"
+hash = "7ff4f2e9ade3244ea06ddae92a509b329036a83ff12565f422d1b57f24a4fcbc"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_shovel.json"
+hash = "7fd9944616d2ab9e124ebe1c591ca5ed964155758a1d2c294ffc96bed1431c17"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/elementium_sword.json"
+hash = "83c023c295334b8c6d2cd905b08caa4d988e68668b7cc411c5c4576b10f31338"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_axe.json"
+hash = "c0a0c114b85e71e80e34dd06f6f838d11a769bd71a0ab97f9ff403cf87f00b3c"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_boots.json"
+hash = "027d9ef6f14d00c1620398f693b67ca1418a94ce286d02483941c679648dba62"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_chestplate.json"
+hash = "bbaa37fc0cbe9ab43b720a432fd53eba187f9d42418aca060800c2b0cb22e8ea"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_helmet.json"
+hash = "7c05fb6754ed5e94c0e6d4aa4d8e9872ad03058592e123bc7efeba66a11ae439"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_hoe.json"
+hash = "a3d1dcf09fae5f15673790adc6f951405b9482256d8385072f2f5aaa703b4f21"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_leggings.json"
+hash = "91a5a5f6957a09dd022d5a54212175cb85a26ba480c76ccd48b09c35bbb6eee4"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_pickaxe.json"
+hash = "f78eb8669dab248de48d211ac77b522b1463a84b71562a79d14aa0b5f825797b"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_shovel.json"
+hash = "f3e7abf4276730ed068515775f95d021c3ef850f35d5a5102f513dee2c515eff"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/botania/manasteel_sword.json"
+hash = "ed03fa88cb291a7017a173cd4f0483398930718c7cf28868368385f9e117b5f7"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_axe.json"
+hash = "ccce6519d7681d93da395a554db93aebc00da2e4a98e70191eb3897394e21e22"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_boots.json"
+hash = "f6713acf2a153750e45272d148f049251fb91a7f37a2ec79e953095dce5973cb"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_chestplate.json"
+hash = "4834bc274bc4731d2fbbc17908a75256f2afb988397d1f7d513cabe885b61113"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_helmet.json"
+hash = "c36d293ead35f3a6a48d18d5d95e7323c88ad2bac1a23c24cb7e935dda63bf0d"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_hoe.json"
+hash = "228060a51fc71f0fc6cc61cf3993c782c6621b08c27da45a33335fe2709ba45e"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_leggings.json"
+hash = "ca59834498050d8afc45732e430c4acf357ac32dd20208aab23127f865621f04"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_pickaxe.json"
+hash = "716d304dde515f6a7b90ce6a6441af38bb7b635dc443e4745591c8b3ccb41101"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_shovel.json"
+hash = "6dab7cf0be97208a4d8d619358160fbc6d027a34657a448cac622944b8047d69"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/diamond_sword.json"
+hash = "ab2d5a60db9dcc4ecbedbda90af3838764d10d9e3d57753ac9b1bc3f0fe43bec"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_axe.json"
+hash = "9440a3a5eab34df6954aec6a0fc7c4d14b737235c47ae17e1aaddff9888e2736"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_boots.json"
+hash = "ef61455bea4af9f94dee21b3670a3ea0067bc43db46ce330bee1a51dbf930d80"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_chestplate.json"
+hash = "1f0442707f4f1ba0626ff59cda1beaa7943f0b3ee56298dc2257073eb259edac"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_helmet.json"
+hash = "e2846051255b579387348cd5b0d798805e4f5a7f092dc41e58b35d45292a5b37"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_hoe.json"
+hash = "0b0114e6d003ddc6151a32e67058e40343573db5468778abe838ef6ad2e77ac9"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_leggings.json"
+hash = "620cafad1d386251762a8e391f4becc78b418d670183bdcf2a070f6ef3711772"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_pickaxe.json"
+hash = "ea84cba30c1fdfbe941b1c0da1503fb8325583da68c20609c247b3583b71ae08"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_shovel.json"
+hash = "a9c26775e4526ccbcdbfa8e3451c3975a0a3c10e8f69d9a12b40455a07599558"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/golden_sword.json"
+hash = "1b0e8868ed1af95b948ed189cc31ca7cf5e22a922d5021cc338d516100069fac"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_axe.json"
+hash = "d36e36c7e6da493c51b9abf4561273aa71da8e43acd9d5ec023f275efccfa273"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_boots.json"
+hash = "6d4ae3a646bb125e6f99806aa538098c7f542ad3803fabb9026ac6cf1fcd824d"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_chestplate.json"
+hash = "1a7f171a559b1d9956463ef5a2be0eaa2c269567bf2684a16b73615fa6e53c50"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_helmet.json"
+hash = "7efc8a3cf1f2692a15d77c72ef917d5241af00553b47e54056b43d10f8451dc6"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_hoe.json"
+hash = "a95076c74be27e48ae3282ed41a5d551450b937b21edc10ba1114250b03b3f97"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_leggings.json"
+hash = "fb748f89f3f821d48f0674616f254c7ed3861549f0aef9622d97bd65dc736b0c"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_pickaxe.json"
+hash = "6b70e26c9bf8c1751ab83e3332efbd649409b21f2eb8b0eaa2dbe9b3c2d82895"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_shovel.json"
+hash = "50f03eb58f7fd25dd9d02f8081e78c91a8d96fe2e88699039f54d4198a2dda0a"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/minecraft/iron_sword.json"
+hash = "9fbe3cf3a28833d6528f83777e64ca4f129ad95c276d9b09ddfde5f175987530"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/yttr/brookite_axe.json"
+hash = "6c2a0ab60b0e6d977aeb46af0cbc36fe22bb630705b542f46a06981f64b5acc9"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/yttr/brookite_hoe.json"
+hash = "ae5377dddf01a987761165bac62353350dea7978b70845c37939e7592f05bd68"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/yttr/brookite_pickaxe.json"
+hash = "7b01abadd537715bdb2e9a706cbf59ae62933118520d6ea12be9a01704dcace4"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/yttr/brookite_shovel.json"
+hash = "620813871cf0303d538936e6f29a5c8d732ef49aa3083a68ab2b29fef1fc4e7b"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/data/spectralarity/recipes/cinderhearth/recycling/yttr/brookite_sword.json"
+hash = "71b7329efc98df04ac003097629c374a0b1b7ce4840b85bda3a282b35516d324"
+
+[[files]]
+file = "moonscript/generated/MoonscriptData/pack.mcmeta"
+hash = "f672b3cc34e3d605394acd7bb87563b7cca9f58cd5809308969c2821461eca67"
+
+[[files]]
+file = "moonscript/lua/common/recipes.lua"
+hash = "95e6b99b242351ce6904a9c4e6d894a90323201666ac2201f23af7370727aec7"
 
 [[files]]
 file = "patchouli_books/spectralarity_guide/book.json"
