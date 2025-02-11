@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Spectralarity Changelog.md"
-hash = "bcaaa1f2708389c875d77e0c9c888b5aeb6e9f3a2712d92efe981d03bc274faa"
+hash = "0f8c80682a279134b7ee1853898bde99ee8380d8703cae3900606280ce7734c3"
 
 [[files]]
 file = "Spectralarity Credits.md"
@@ -122,7 +122,7 @@ hash = "9e160add67830ba94c1683e1da28c8b9a6c63b33087c093e27c329f2ef853a40"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "e0a68c671cfa2ea9c134d88d625ad05319b0c80555b14715cbc91a41884dcbf9"
+hash = "dece47ba29b84660a787afb05154d288201073547f1423e6639ab0573db9249f"
 
 [[files]]
 file = "config/create_new_age-client.toml"
@@ -771,6 +771,10 @@ hash = "fd96e6b60b137ec7e80f3331d74d6db116f5d12224db873293de8fbc744d22b3"
 [[files]]
 file = "config/zzz_rawr/config.toml"
 hash = "3e8bbb8906f1c91cdab9148f84c138f74e2b5d16433c77a6b3784968e7ceeedb"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "dece47ba29b84660a787afb05154d288201073547f1423e6639ab0573db9249f"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -2641,6 +2645,10 @@ hash = "b759c00fe3f0177f4ab2110a866aeeade363cb5be91aa1a8217e4bffa33bf3bd"
 [[files]]
 file = "resources/spectralarity_resources/assets/botania/patchouli_books/lexicon/en_us/entries/tools/world_seed.json"
 hash = "1a18c1f3a92e433cfd54748c7a44fa2d6e2e27b20b976e554ff6ae589fa674b6"
+
+[[files]]
+file = "resources/spectralarity_resources/assets/create/lang/en_us.json"
+hash = "08c53dd4b54581bd0adb3efcfbfd40cb3300efc5ca18dde560cf7fce6c8b94fa"
 
 [[files]]
 file = "resources/spectralarity_resources/assets/create_new_age/lang/en_us.json"

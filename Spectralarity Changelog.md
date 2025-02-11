@@ -35,6 +35,8 @@ File version: v8
 - Added stress impact to Create Rotation Speed Controllers.
 - Create Mechanical Harvesters harvest partially-grown crops.
 - Boosted the Bedrock Jetpack's ink capacity.
+- Create Water Wheels and Wind Mills do not confer SU; they are merely for decoration.
+- Create Steam Engine SU output increased by 2x to 2048.
 
 ## Disabled Content:
 - Botania's tall mystical flowers and shimmering mushrooms do not spawn
