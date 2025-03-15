@@ -8,16 +8,13 @@
       "item": "botania:rune_earth"
     },
     {
-      "item": "minecraft:snow_block"
+      "item": "spectrum:purple_pigment"
     },
     {
-      "item": "minecraft:snow_block"
+      "item": "spectrum:blue_pigment"
     },
     {
-      "tag": "minecraft:wool"
-    },
-    {
-      "item": "minecraft:cake"
+      "item": "spectrum:onyx_shard"
     }
   ],
   "mana": 8000,

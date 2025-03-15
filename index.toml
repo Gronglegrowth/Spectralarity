@@ -2796,39 +2796,35 @@ hash = "3f6932e5f61b4180d4565ba192b42eec069a7d71b18d154ab68444b55afa9786"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/air.json"
-hash = "c83f4411ecda339f153ce362774460729d5431cddabb5be7cc805f8ac49ef0fa"
+hash = "57bb28b0d8994abcaa049e5f07ecd0549105d21cdaeb7d0fc7654144b0f40bad"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/autumn.json"
-hash = "d69e87a1f38e3f7581486d85ed45cb22921c265e3a04e160c625186ddea13d73"
+hash = "4c4ecd633885c4b30ee3104959db3d53b8499afd249cf24e967334dd5ddce9af"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/earth.json"
-hash = "4a5b12c6362827fca0363eded5d218439b89404c05ad85ef55b80619e9754670"
+hash = "f848992aad27306eae8eb2630c1a1b33049357904fed25fde13957f09a5bdfbd"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/envy.json"
-hash = "3a4a130953c284fac842c83812f62600c0b3d4320ebad01d407f15539bbb754a"
+hash = "c379cce5c50710bdd874111006e10f6ff0994e4054d3055fa2da2874733deb0a"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/fire.json"
-hash = "61296c52c40072376db78171b1dce12d10f2fffe9491d800e650a7432c3fd971"
+hash = "7388e50cf3f3c23e1700a627f12ff6c7df21a43078bc35af24c0b317b59c4412"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/gluttony.json"
-hash = "8db42728f0492501565ecc73f870b0d36fb4fd8c0232103aae58defb31a0fe63"
+hash = "262a2ba4ca8d6d6143ea466f23ac3a825e7f9410824d70a44744211e747a2990"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/greed.json"
-hash = "3083a1d860ad16b0c8e013431a3c2523fb6a8296ecdb40a189db310772276113"
-
-[[files]]
-file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/head.json"
-hash = "dee8db8789943a60cdacacdcd3c118b63aae9526859245312032251fd546ce5a"
+hash = "be84b42380bc3b8d7c916f46cb138325a2891e2165f570ff31c220899769247a"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/lust.json"
-hash = "03124c682096aaa5cc099e2a5e2175c164afb65e22f4771d368542ed361d3f16"
+hash = "ca8831e1e70b3d7329613ff118df3e303675ef2e85ccc2380c6b89b1a8f72b8d"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/mana.json"
@@ -2836,31 +2832,31 @@ hash = "2a9d5532623704f58306704ff2b14d972ad23c9f1af2cace66d6f44c62e60bcf"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/pride.json"
-hash = "ee5c5028284a51c8a35bb503286adbc14209113a9e06659bb4787a56db7002e0"
+hash = "c320bd17488aa9a98807402d9c2e4401d57bdf9c4c0effa5c88fe508309e1a49"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/sloth.json"
-hash = "f4c1c877aaf6187d94369e49c21868bd431ec5b94e5a0729f0e15601c9abc9aa"
+hash = "aa3ba74cc59da06fb69c1d016c9ba3d0a7f68e5607a12dc37467c0b58649e65d"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/spring.json"
-hash = "847032e753378e50a5cd62b2e1d5bfef101242559c2000371d8ce463e251e72c"
+hash = "341a52c8eb91661738ff9a5f5aa0adbac5833fb84956a6a99bedc47ef7ab155b"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/summer.json"
-hash = "3545d5e1c405212c926928b41d295e29fd99f6eaa9c0a6b1c04c764926d6a887"
+hash = "070441231757601c5521b33bb3f23bc8c70a1188a0149c991eb8ceba1d98f58c"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/water.json"
-hash = "a6a4c50d14ff7a3120a17cfd62e0fc1ed7d9e881a11e6677351f01dc6429e671"
+hash = "a7b5c52e70ed08989d7aed2a226926a267cd0fe7c67e548eb64a638c8708d4e0"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/winter.json"
-hash = "2cb8a5f80f6b48b14cd457f40c4a659e32ab3d0e66cbd3664f2b52e347be85d6"
+hash = "1bc9ce585c6f4ad83d8225ff8e9e0d03eae8cbd40489f688c7429d1ffe5c2a38"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar/wrath.json"
-hash = "5d818dd8e47d8985c67b19565d76088d37af7221edb93406db21969041f043a0"
+hash = "fa8775a3cd1c715cc246de08ac5ac2c8bdf85a386d977b0bd32e13879176af5e"
 
 [[files]]
 file = "resources/spectralarity_resources/data/botania/recipes/runic_altar_alt.json"

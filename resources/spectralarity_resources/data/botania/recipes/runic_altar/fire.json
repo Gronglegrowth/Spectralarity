@@ -8,13 +8,13 @@
       "tag": "botania:manasteel_ingots"
     },
     {
-      "item": "minecraft:nether_brick"
+      "item": "spectrum:orange_pigment"
     },
     {
-      "item": "minecraft:gunpowder"
+      "item": "minecraft:fire_charge"
     },
     {
-      "item": "minecraft:nether_wart"
+      "item": "spectrum:yellow_pigment"
     }
   ],
   "mana": 5200,

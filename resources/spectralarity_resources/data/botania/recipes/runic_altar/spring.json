@@ -8,16 +8,13 @@
       "item": "botania:rune_fire"
     },
     {
-      "tag": "minecraft:saplings"
+      "item": "spectrum:pink_pigment"
     },
     {
-      "tag": "minecraft:saplings"
+      "item": "spectrum:lime_pigment"
     },
     {
-      "tag": "minecraft:saplings"
-    },
-    {
-      "item": "minecraft:wheat"
+      "item": "spectrum:onyx_shard"
     }
   ],
   "mana": 8000,

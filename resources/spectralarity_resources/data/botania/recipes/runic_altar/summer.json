@@ -8,16 +8,13 @@
       "item": "botania:rune_air"
     },
     {
-      "tag": "minecraft:sand"
+      "item": "spectrum:yellow_pigment"
     },
     {
-      "tag": "minecraft:sand"
+      "item": "spectrum:light_blue_pigment"
     },
     {
-      "item": "minecraft:slime_ball"
-    },
-    {
-      "item": "minecraft:melon_slice"
+      "item": "spectrum:onyx_shard"
     }
   ],
   "mana": 8000,

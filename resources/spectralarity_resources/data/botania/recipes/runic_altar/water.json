@@ -8,13 +8,13 @@
       "tag": "botania:manasteel_ingots"
     },
     {
-      "item": "minecraft:bone_meal"
+      "item": "spectrum:blue_pigment"
     },
     {
-      "item": "minecraft:sugar_cane"
+      "item": "spectrum:magenta_pigment"
     },
     {
-      "item": "minecraft:fishing_rod"
+      "item": "spectrum:mermaids_gem"
     }
   ],
   "mana": 5200,

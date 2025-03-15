@@ -2,7 +2,7 @@
   "type": "botania:runic_altar",
   "ingredients": [
     {
-      "tag": "botania:mana_diamond_gems"
+      "item": "spectrum:moonstone_shard"
     },
     {
       "tag": "botania:mana_diamond_gems"

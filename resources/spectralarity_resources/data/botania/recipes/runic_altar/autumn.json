@@ -8,16 +8,13 @@
       "item": "botania:rune_air"
     },
     {
-      "tag": "minecraft:leaves"
+      "item": "spectrum:orange_pigment"
     },
     {
-      "tag": "minecraft:leaves"
+      "item": "spectrum:red_pigment"
     },
     {
-      "tag": "minecraft:leaves"
-    },
-    {
-      "item": "minecraft:spider_eye"
+      "item": "spectrum:onyx_shard"
     }
   ],
   "mana": 8000,

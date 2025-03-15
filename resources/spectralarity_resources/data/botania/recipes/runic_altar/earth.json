@@ -8,19 +8,14 @@
       "tag": "botania:manasteel_ingots"
     },
     {
-      "item": "minecraft:stone"
+      "tag": "c:mushrooms"
     },
     {
-      "item": "minecraft:coal_block"
+      "item": "spectrum:brown_pigment"
     },
-    [
-      {
-        "item": "minecraft:brown_mushroom"
-      },
-      {
-        "item": "minecraft:red_mushroom"
-      }
-    ]
+    {
+      "item": "spectrum:green_pigment"
+    }
   ],
   "mana": 5200,
   "output": {
