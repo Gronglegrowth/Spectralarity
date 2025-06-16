@@ -9,7 +9,7 @@
 	/**
 	 * Whether cheating in items is enabled.
 	 */
-	cheat-mode: false;
+	cheat-mode: true;
 
 	/**
 	 * How much EMI should use tooltips and popups to show controls and information.
@@ -94,6 +94,16 @@
 	 * Which sidebar type to focus when the search is empty.
 	 */
 	empty-search-sidebar-focus: none;
+
+	/**
+	 * Whether the EMI config button should be visible.
+	 */
+	emi-config-button-visibility: shown;
+
+	/**
+	 * Whether the recipe tree button should be visible.
+	 */
+	recipe-tree-button-visibility: auto;
 
 	/**
 	 * The maximum height the recipe screen will grow to be if space is available in
@@ -192,7 +202,7 @@
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: none;
+	right-sidebar-subpanels: lookup-history 2;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
@@ -310,7 +320,7 @@
 	toggle-visibility: "ctrl key.keyboard.o";
 
 	/**
-	 * Focuse the search bar.
+	 * Focuses the search bar.
 	 */
 	focus-search: "ctrl key.keyboard.f";
 

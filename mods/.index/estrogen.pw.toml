@@ -1,0 +1,16 @@
+filename = 'Estrogen-4.1.1+1.19.2-fabric.jar'
+name = 'Create: Estrogen'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4131ce1ab4a104e06bda75e8a2fad171e62fa4b065c4875e3379ee639fafc040c202396b18203ed8dbe0093256aab5db8adace94346c14a84b052fae6bb3e714'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HhIJW8n1/versions/GJN8ZhKs/Estrogen-4.1.1%2B1.19.2-fabric.jar'
+
+[update.modrinth]
+mod-id = 'HhIJW8n1'
+version = 'GJN8ZhKs'

@@ -1,0 +1,16 @@
+filename = 'qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.77.0_mc-1.19.2.jar'
+name = 'Quilted Fabric API'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '05b0255ec818007b4c43ab285f5f2b71842ce379d71e946fd0726cb40fbdfea1b24f25736d193b28af8e4ab95adc97bf491ca0f3907f7b6b0e6e06b5c688ff1e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qvIfYCYJ/versions/aaucrsnr/qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.77.0_mc-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'qvIfYCYJ'
+version = 'aaucrsnr'

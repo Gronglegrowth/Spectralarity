@@ -9,6 +9,9 @@
   "white": 0,
   "experience": 4,
   "key": {
+    "A": {
+      "item": "botania:rune_sloth"
+    },
     "B": {
       "item": "create:precision_mechanism"
     },
@@ -17,6 +20,7 @@
     }
   },
   "pattern": [
+    "A",
     "B",
     "C"
   ],

@@ -1,0 +1,13 @@
+filename = 'zzz-rawr-2.1.0+1.19.2+fabric.jar'
+name = 'zzz... rrr... Rawr?'
+side = 'server'
+
+[download]
+hash = '5eedbd109198783dd02b261e4bf4d284673f499353f5caf238a580efaa47072876f2a500bbbe3e81dc4930aaadd652555ee5a1f7d6ad918a7aa1076c7597e256'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LK8s0Mbk/versions/kJc7RSxk/zzz-rawr-2.1.0%2B1.19.2%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'LK8s0Mbk'
+version = 'kJc7RSxk'

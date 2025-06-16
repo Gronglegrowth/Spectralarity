@@ -1,0 +1,20 @@
+{
+    "name": "High-Power Endeavors",
+    "category": "patchouli:progression",
+    "icon": "botania:mana_fluxfield",
+    "turnin": "spectralarity:place_motor_against_fluxfield",
+    "advancement": "create:mechanical_press",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  As I continue to expand my factory, I am thinking that, perhaps, Mana-based generation of rotational force is not as feasible as I thought. If I am to truly industrialize my base, I ought to look into a new way of getting power.$(br2)  Lately, I have been considering the thorium I can find in the Nether. It's radioactive, and so I may be able to use it to heat steam engines... and other things. But... how do I construct a suitable nuclear reactor?"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Going Nuclear",
+            "advancement": "spectralarity:place_motor_against_fluxfield",
+            "text": "  My efforts have bore fruit. I am now the proud owner of a nuclear reactor, whose heat should suffice enough to drive a steam engine or two. Better yet, the thorium fuel is wholly renewable - though it seems to be a somewhat odd process."
+        }
+    ]
+}

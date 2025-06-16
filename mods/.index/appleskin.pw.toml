@@ -1,0 +1,13 @@
+filename = 'appleskin-fabric-mc1.19.2-2.5.1.jar'
+name = 'AppleSkin'
+side = 'both'
+
+[download]
+hash = 'a79afba33081be2ac8bf5d0e7e59b321240ccd4d67a84b1a18db9f10d8cdeae2fcf52e1c4898a904e0cc327dbbb8fae832ade3e6704dc3f9c2e50e1f18ab39c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EsAfCjCV/versions/tpQpTIMn/appleskin-fabric-mc1.19.2-2.5.1.jar'
+
+[update.modrinth]
+mod-id = 'EsAfCjCV'
+version = 'tpQpTIMn'

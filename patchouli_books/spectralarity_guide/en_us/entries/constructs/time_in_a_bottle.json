@@ -10,7 +10,7 @@
         },
         {
             "type": "patchouli:text",
-            "text": "  After some experimentation with magenta energy, I ended up with this bottle. It, infused with a great deal of TIME, is able to produce its own reserve of it, which can later be spent to speed up other constructs, albeit temporarily.$(br2)  Maybe someday I will devise a method to do this without my presence needed... something to tinker with."
+            "text": "  After some experimentation with magenta energy, I ended up with this bottle. It, infused with a great deal of TIME, is able to produce its own reserve of it. That reserve can later be spent to speed up other constructs, albeit temporarily.$(br2)  Maybe someday I will devise a method to accelerate things automatically... something to tinker with."
         },
         {
             "type": "spectrum:pedestal_crafting",

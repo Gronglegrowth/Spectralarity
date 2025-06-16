@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  Something about the Midnight Aberration inspired me to craft a sort of rifle with its catastrophic power. As it turns out, such a weapon can do a lot more than destroy, opening up certain possibilities I would otherwise have had no way of knowing."
+            "text": "  Something about the Midnight Aberration inspired me to craft a sort of rifle with its catastrophic power. As it turns out, such a weapon can do a lot more than destroy. This has opened up certain possibilities I would otherwise have had no way of knowing."
         },
         {
             "type": "patchouli:crafting",

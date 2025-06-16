@@ -1,0 +1,16 @@
+filename = 'fabrication-3.5.1+1.19.jar'
+name = 'Fabrication'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cde4bf5f86c12c4d9b3e8b6c6f2d29bf6dadb8f6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5907342
+project-id = 414445

@@ -9,7 +9,6 @@ File version: v8
 ## New Content:
 - Added Dragonsteel, a tech-oriented lategame tiering material.*
 - Added Meteors in the End, composed of a new space-themed block with decorative variants. They contain treasures inside them which are pivotal in lategame tech.*
-- Basalt and calcite pylon structures generate in the world.
 
 ## Tweaks:
 - Botania Orechids generate a variety of modded ores, in addition to vanilla.

@@ -1,0 +1,12 @@
+{
+    "name": "Hearth Energizer",
+    "category": "patchouli:constructs",
+    "icon": "naturescompass:naturescompass",
+    "advancement": "spectralarity:unlocks/natures_compass",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  After making the Cinderhearth, an idea sat in the back of my mind ever since. If I have a blast furnace that runs off of Orange Ink, why not generalize the core concept, letting me fuel most things that run off coal and the like with Orange Ink, too? That is precisely the purpose of the Hearth Energizer. It simply needs to be attached to the desired block, and of course have an Ink supply."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+name = "Phantom Redux"
+filename = "phantom-redux-mod-1.0.0+all-versions+fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/G7JmIEEi/versions/aP1Cmtw6/phantom-redux-mod-1.0.0%2Ball-versions%2Bfabric.jar"
+hash-format = "sha512"
+hash = "82f58bb04d46637a2213ea0ac020397e3affeb9be81f082b0c4e0ea7c72994d0e4580a1e6a431abb703bcd3160a2100965e36b9bb2f084817bf68177f6c0e0e1"
+
+[update]
+[update.modrinth]
+mod-id = "G7JmIEEi"
+version = "aP1Cmtw6"

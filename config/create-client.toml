@@ -6,7 +6,7 @@
 	#Choose the menu row that the Create config button appears on in the main menu
 	#Set to 0 to disable the button altogether
 	#Range: 0 ~ 4
-	mainMenuConfigButtonRow = 2
+	mainMenuConfigButtonRow = 0
 	#.
 	#Choose the menu row that the Create config button appears on in the in-game menu
 	#Set to 0 to disable the button altogether
@@ -20,6 +20,9 @@
 	#The maximum amount of blocks for which to try and calculate dynamic contraption lighting. Decrease if large contraption cause too much lag
 	#Range: > 0
 	maximumContraptionLightVolume = 16384
+	#.
+	#Disable to prevent being rotated while seated on a Moving Contraption
+	rotateWhenSeated = true
 	#.
 	#Log a stack-trace when rendering issues happen within a moving contraption.
 	explainRenderErrors = false

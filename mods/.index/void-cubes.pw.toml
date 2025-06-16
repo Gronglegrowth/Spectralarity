@@ -1,0 +1,13 @@
+filename = 'VoidCube-1.1.jar'
+name = 'Void Cubes'
+side = 'both'
+
+[download]
+hash = '8936dffbaecd9172242736253294a7c6b84d8420f574ed7b8d482b7a98f58c377a5d1fc59ba9c9fea10aee8a85c848e8dbd441cd6411072c59f34cee936f4ac9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g3kbmxGH/versions/qJPhTRfS/VoidCube-1.1.jar'
+
+[update.modrinth]
+mod-id = 'g3kbmxGH'
+version = 'qJPhTRfS'

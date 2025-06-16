@@ -6,20 +6,20 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  It seems the End, too, has new things to find. Large meteors of smooth, black rock unlike any I've seen before speckle the static sky.$(br2)  Their origin is unclear, but something tells me they're not native to the End."
+            "text": "  It seems the End, too, has new things to find. Large meteors of smooth, black rock unlike any I've seen before speckle the static sky. I wonder at their purpose.$(br2)  Their origin is unclear, but something tells me they're not native to the End."
         },
         {
             "type": "spectrum:collection",
             "items": [ "spectralarity:meteor_stone", "spectralarity:meteor_stone_stairs", "spectralarity:meteor_stone_slab", "spectralarity:starry_meteor_stone", "spectralarity:meteor_stone_bricks", "spectralarity:meteor_stone_brick_stairs", "spectralarity:meteor_stone_brick_slab", "spectralarity:chiseled_meteor_stone" ],
             "title": "Meteor Stone",
-            "text": "  Strange rocks dark as night and eerie as all things Ender, despite probably not originating there. They can be cut into several decorative variants, and, like basalt and calcite, smelting them allows them to be shaped anew. The starry variant emits faint light."
+            "text": "  Strange rocks dark as night and eerie as all things Ender, despite probably not originating there. They can be cut into several decorative variants, and, like basalt and calcite, smelting them allows them to be shaped anew. The starry variant emits faint light. I forsee that one finding great use in my architecture."
         },
         {
             "type": "spectrum:collection",
             "title": "Unknown Technology",
             "items": [ "spectralarity:yttrium_chip_press", "spectralarity:diamond_chip_press", "spectralarity:brass_chip_press", "spectralarity:copper_chip_press" ],
             "advancement": "spectralarity:collect_meteor_template",
-            "text": "  These templates, hidden within the cores of meteors, can likely be used to press metal sheets into much more refined forms - and rather helpfully, they can be duplicated and crafted into each other.$(br2)  They are made from a metal unknown to me, intricately machined with geometric patterns, and on the corner of each is inscribed \"ME Systems, Inc.\"."
+            "text": "  These templates, hidden within the cores of meteors, can likely be used to press metal sheets into much more refined forms. Rather helpfully, they can be duplicated and crafted into each other.$(br2)  The templates are made from a metal unknown to me, are intricately machined with geometric patterns, and on the corner of each is inscribed \"ME Systems, Inc.\"."
         }
     ]
 }

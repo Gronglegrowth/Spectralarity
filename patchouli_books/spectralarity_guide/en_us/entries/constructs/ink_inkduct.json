@@ -1,0 +1,12 @@
+{
+    "name": "Inkducts",
+    "category": "patchouli:constructs",
+    "icon": "naturescompass:naturescompass",
+    "advancement": "spectralarity:unlocks/natures_compass",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "  Now that my Ink generation method does not involve stuffing pigment into a Color Picker, it's time to look into how I might transfer Ink between my Inkwell and the rest of my base.$(br2)  I have come up with a construct I'm calling an Inkduct, "
+        }
+    ]
+}

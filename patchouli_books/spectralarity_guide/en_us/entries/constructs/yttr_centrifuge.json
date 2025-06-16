@@ -6,11 +6,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "  Yttrium continues to have rather curious applications. You've devised a Centrifuge from it, which can break things down by spinning them very fast - as one would expect. It, like a furnace, requires fuel."
-        },
-        {
-            "type": "patchouli:text",
-            "text": "  Shown here are many of the things you can process in the centrifuge."
+            "text": "  Yttrium continues to have rather curious applications. I've devised a machine I am calling a Centrifuge, which can break things down by spinning them very fast - as the name would imply. It requires furnace fuel, such as coal, to operate. Perhaps later I can find an alternative fuel source for it."
         }
     ]
 }

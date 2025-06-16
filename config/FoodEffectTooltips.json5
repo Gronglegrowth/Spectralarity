@@ -1,0 +1,10 @@
+{
+	"ShowSuspiciousStewTooltips": false,
+	"UseAsWhitelistInstead": false,
+	"BlacklistedItemIdentifiers": [
+		"no_mod:testitem"
+	],
+	"BlacklistedModsIDs": [
+		"vinery"
+	]
+}

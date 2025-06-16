@@ -1,0 +1,16 @@
+filename = 'foodeffecttooltips-1.1.2.jar'
+name = 'Food Effect Tooltips'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'addbd5578e21ae4af507afb6d64690f58a0122e4453fb027029ae9d2ad68ac3029808f40fd91495731c3c8b0fad7f96d9fe83cb955a30073c5de410a8128f126'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GGfyJWnG/versions/7v5XLI1b/foodeffecttooltips-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'GGfyJWnG'
+version = '7v5XLI1b'
