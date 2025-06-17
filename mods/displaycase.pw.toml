@@ -3,7 +3,7 @@ filename = "Display Case-fabric-1.19-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/xgcqq08Z/Display%20Case-fabric-1.19-1.0.7.jar"
+url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/xgcqq08Z/Display\\%20Case-fabric-1.19-1.0.7.jar"
 hash-format = "sha1"
 hash = "3194541e28bb941ba5b02bac76d0b44314af7b46"
 
