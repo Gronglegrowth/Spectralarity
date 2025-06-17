@@ -1474,7 +1474,7 @@ metafile = true
 
 [[files]]
 file = "mods/displaycase.pw.toml"
-hash = "1f669cfb1e2f08557bce63486c093cd6101bbedfce3528c437d39cef9c829dcd"
+hash = "e08a8191fa2d18b23befec3de67d9f92e2a3864e81999fc12e60af7af6a55f03"
 metafile = true
 
 [[files]]
