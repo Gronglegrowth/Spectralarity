@@ -1,13 +1,13 @@
-filename = 'terrestria-5.0.12.jar'
-name = 'Terrestria'
-side = 'both'
+name = "Terrestria"
+filename = "terrestria-5.0.13.jar"
+side = "both"
 
 [download]
-hash = 'e4f1cda9692ada242540433363caaf551aa7268741cfe6c529b890f9599b6eafce93b9cf020fc4d5339a700353f90d6149aec4567ffcb7d83b34b830246744c7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/lsUDPMOT/versions/Gs1YTW70/terrestria-5.0.12.jar'
+url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/EI3kvVZ8/terrestria-5.0.13.jar"
+hash-format = "sha1"
+hash = "c466e0c85bf586bb9815ecf4cd50aa997ed36e20"
 
+[update]
 [update.modrinth]
-mod-id = 'lsUDPMOT'
-version = 'Gs1YTW70'
+mod-id = "lsUDPMOT"
+version = "EI3kvVZ8"

@@ -1,13 +1,13 @@
-filename = 'no-telemetry-1.8.0.jar'
-name = 'No Telemetry'
-side = 'both'
+name = "No Telemetry"
+filename = "no-telemetry-1.9.0.jar"
+side = "both"
 
 [download]
-hash = '38b6d7939e3eb64d121d284ea7d7b04ab1863cb4dedaef2e85b11cee3f13f3e160839822402b94dc8da49ffaa10e2b901395300efc1f95bcf4dbf3024aeefa9a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/hg77g4Pw/versions/tmHWmt1u/no-telemetry-1.8.0.jar'
+url = "https://cdn.modrinth.com/data/hg77g4Pw/versions/OwTaGd6A/no-telemetry-1.9.0.jar"
+hash-format = "sha1"
+hash = "19545f40c8231fafdc183ea1c675ecbf3ecf025d"
 
+[update]
 [update.modrinth]
-mod-id = 'hg77g4Pw'
-version = 'tmHWmt1u'
+mod-id = "hg77g4Pw"
+version = "OwTaGd6A"
