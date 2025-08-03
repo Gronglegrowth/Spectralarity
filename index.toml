@@ -869,7 +869,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5bc6e6e46e8c929570ba5893ee2b9e8d5667bd71172a67dc2f02d73b3ce977e5"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
